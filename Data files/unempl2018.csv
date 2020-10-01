@@ -1,0 +1,2077 @@
+﻿"State 
+FIPS 
+code","Group 
+code",State,Population group,Civilian non-institutional population,Civilian labor force total,Civilian labor force percent,Employed total,Employed Percent of population,Unemployed total,Rate,Error range of rate(1)
+01,01,Alabama,Total,"3,847","2,208",57.4,"2,121",55.1,87,3.9,3.3 – 4.5
+01,02,Alabama,Men,"1,820","1,180",64.9,"1,135",62.4,45,3.8,3.0 – 4.6
+01,03,Alabama,Women,"2,027","1,027",50.7,986,48.6,42,4.1,3.3 – 4.9
+01,04,Alabama,White,"2,711","1,567",57.8,"1,523",56.2,44,2.8,2.2 – 3.4
+01,05,Alabama,"White, men","1,310",880,67.2,857,65.4,23,2.6,1.9 – 3.3
+01,06,Alabama,"White, women","1,401",686,49.0,666,47.5,20,3.0,2.1 – 3.9
+01,07,Alabama,Black or African American,999,558,55.8,519,52.0,38,6.9,5.2 – 8.6
+01,08,Alabama,"Black or African American, men",443,254,57.4,235,53.1,19,7.4,4.8 – 10.0
+01,09,Alabama,"Black or African American, women",556,304,54.6,284,51.1,19,6.4,4.2 – 8.6
+01,13,Alabama,Hispanic or Latino ethnicity,143,97,67.5,92,64.4,4,4.6,1.9 – 7.3
+01,14,Alabama,"Hispanic or Latino ethnicity, men",75,66,87.4,64,85.1,2,2.6,0.1 – 5.1
+01,16,Alabama,"Married men, spouse present",961,670,69.7,660,68.7,10,1.5,0.9 – 2.1
+01,17,Alabama,"Married women, spouse present",971,513,52.8,503,51.7,11,2.1,1.2 – 3.0
+01,18,Alabama,Women who maintain families,255,155,60.9,144,56.6,11,7.0,4.2 – 9.8
+01,19,Alabama,"Total, 16 to 19 years",236,75,31.9,66,27.9,9,12.5,7.1 – 17.9
+01,20,Alabama,"Total, 20 to 24 years",333,228,68.5,212,63.8,16,6.8,4.5 – 9.1
+01,21,Alabama,"Total, 25 to 34 years",627,492,78.5,469,74.8,23,4.7,3.4 – 6.0
+01,22,Alabama,"Total, 35 to 44 years",578,451,78.0,433,75.0,18,3.9,2.7 – 5.1
+01,23,Alabama,"Total, 45 to 54 years",653,481,73.7,470,72.0,11,2.2,1.3 – 3.1
+01,24,Alabama,"Total, 55 to 64 years",666,353,53.0,347,52.1,6,1.7,0.8 – 2.6
+01,25,Alabama,"Total, 65 years and over",753,127,16.9,123,16.3,5,3.6,1.4 – 5.8
+01,27,Alabama,"Men, 20 to 24 years",166,122,73.2,113,68.2,8,6.7,3.6 – 9.8
+01,28,Alabama,"Men, 25 to 34 years",303,258,85.1,248,81.7,10,4.0,2.3 – 5.7
+01,29,Alabama,"Men, 35 to 44 years",280,238,85.0,229,81.6,9,3.9,2.2 – 5.6
+01,30,Alabama,"Men, 45 to 54 years",313,255,81.4,250,79.8,5,1.9,0.8 – 3.0
+01,31,Alabama,"Men, 55 to 64 years",316,200,63.4,196,62.0,4,2.2,0.8 – 3.6
+01,32,Alabama,"Men, 65 years and over",331,68,20.4,65,19.8,2,3.1,0.3 – 5.9
+01,34,Alabama,"Women, 20 to 24 years",167,106,63.8,99,59.4,7,7.0,3.6 – 10.4
+01,35,Alabama,"Women, 25 to 34 years",324,234,72.3,222,68.4,13,5.4,3.4 – 7.4
+01,36,Alabama,"Women, 35 to 44 years",298,213,71.5,205,68.7,8,3.9,2.1 – 5.7
+01,37,Alabama,"Women, 45 to 54 years",340,227,66.6,221,64.9,6,2.6,1.2 – 4.0
+01,38,Alabama,"Women, 55 to 64 years",351,153,43.7,152,43.3,2,1.0,(2)-
+01,41,Alabama,"White, 20 to 24 years",206,150,72.5,144,69.5,6,4.1,1.9 – 6.3
+01,42,Alabama,"White, 25 to 34 years",414,330,79.7,321,77.6,9,2.7,1.5 – 3.9
+01,43,Alabama,"White, 35 to 44 years",397,312,78.7,302,76.0,11,3.4,2.0 – 4.8
+01,44,Alabama,"White, 45 to 54 years",462,352,76.2,346,74.9,6,1.8,0.8 – 2.8
+01,45,Alabama,"White, 55 to 64 years",479,263,54.8,258,53.9,4,1.6,0.6 – 2.6
+01,46,Alabama,"White, 65 years and over",604,106,17.6,104,17.2,2,2.2,0.3 – 4.1
+01,48,Alabama,"Black or African American, 20 to 24 years",104,63,60.8,54,51.9,9,14.6,7.2 – 22.0
+01,49,Alabama,"Black or African American, 25 to 34 years",187,144,76.8,132,70.6,12,8.1,4.4 – 11.8
+01,50,Alabama,"Black or African American, 35 to 44 years",161,122,75.6,115,71.3,7,5.7,2.4 – 9.0
+01,51,Alabama,"Black or African American, 45 to 54 years",166,110,66.1,106,63.9,4,3.4,0.7 – 6.1
+01,52,Alabama,"Black or African American, 55 to 64 years",172,82,47.8,81,47.2,1,1.3,(2)-
+02,01,Alaska,Total,547,356,65.0,332,60.7,23,6.6,5.6 – 7.6
+02,02,Alaska,Men,279,192,68.7,176,63.1,16,8.2,6.6 – 9.8
+02,03,Alaska,Women,268,164,61.1,156,58.2,8,4.7,3.4 – 6.0
+02,04,Alaska,White,352,233,66.3,224,63.6,10,4.1,3.1 – 5.1
+02,05,Alaska,"White, men",182,128,70.0,121,66.4,6,5.1,3.6 – 6.6
+02,06,Alaska,"White, women",169,106,62.4,103,60.6,3,2.9,1.6 – 4.2
+02,10,Alaska,Asian,44,29,65.1,28,62.4,1,4.2,1.7 – 6.7
+02,11,Alaska,"Asian, men",20,14,69.7,13,65.4,1,6.2,1.9 – 10.5
+02,12,Alaska,"Asian, women",25,15,61.5,15,60.0,(3)-,2.4,(2)-
+02,13,Alaska,Hispanic or Latino ethnicity,32,22,68.4,21,65.5,1,4.3,1.5 – 7.1
+02,14,Alaska,"Hispanic or Latino ethnicity, men",18,13,69.5,12,66.1,1,5.0,1.1 – 8.9
+02,16,Alaska,"Married men, spouse present",133,97,72.7,93,69.5,4,4.3,2.7 – 5.9
+02,17,Alaska,"Married women, spouse present",134,84,62.8,82,60.8,3,3.1,1.6 – 4.6
+02,18,Alaska,Women who maintain families,29,18,63.0,17,59.4,1,5.7,1.4 – 10.0
+02,19,Alaska,"Total, 16 to 19 years",38,13,35.3,11,28.3,3,20.0,10.6 – 29.4
+02,20,Alaska,"Total, 20 to 24 years",49,37,74.0,32,65.3,4,11.7,7.3 – 16.1
+02,21,Alaska,"Total, 25 to 34 years",109,87,79.7,80,73.7,7,7.5,5.2 – 9.8
+02,22,Alaska,"Total, 35 to 44 years",83,67,80.8,64,76.9,3,4.8,2.7 – 6.9
+02,23,Alaska,"Total, 45 to 54 years",82,66,80.8,63,77.0,3,4.7,2.7 – 6.7
+02,24,Alaska,"Total, 55 to 64 years",97,62,64.2,60,61.5,3,4.2,2.2 – 6.2
+02,25,Alaska,"Total, 65 years and over",89,23,26.0,22,24.8,1,4.4,1.0 – 7.8
+02,27,Alaska,"Men, 20 to 24 years",26,20,77.8,17,65.8,3,15.5,8.7 – 22.3
+02,28,Alaska,"Men, 25 to 34 years",54,46,85.4,41,77.0,4,9.8,6.2 – 13.4
+02,29,Alaska,"Men, 35 to 44 years",42,36,84.7,33,79.1,2,6.6,3.3 – 9.9
+02,30,Alaska,"Men, 45 to 54 years",41,35,84.9,33,80.6,2,5.1,2.1 – 8.1
+02,31,Alaska,"Men, 55 to 64 years",52,36,69.4,35,66.7,1,3.9,1.4 – 6.4
+02,32,Alaska,"Men, 65 years and over",44,13,28.9,12,27.3,1,5.5,0.4 – 10.6
+02,34,Alaska,"Women, 20 to 24 years",24,17,69.8,15,64.9,1,7.0,2.0 – 12.0
+02,35,Alaska,"Women, 25 to 34 years",55,41,74.2,39,70.5,2,5.0,2.3 – 7.7
+02,36,Alaska,"Women, 35 to 44 years",41,32,76.8,31,74.7,1,2.7,0.5 – 4.9
+02,37,Alaska,"Women, 45 to 54 years",41,32,76.8,30,73.4,1,4.4,1.5 – 7.3
+02,38,Alaska,"Women, 55 to 64 years",45,26,58.1,25,55.5,1,4.6,1.4 – 7.8
+02,41,Alaska,"White, 20 to 24 years",26,19,75.1,18,70.1,1,6.6,2.1 – 11.1
+02,42,Alaska,"White, 25 to 34 years",61,49,80.1,46,76.0,2,5.1,2.6 – 7.6
+02,43,Alaska,"White, 35 to 44 years",55,47,84.4,45,82.0,1,2.8,0.9 – 4.7
+02,44,Alaska,"White, 45 to 54 years",57,48,84.5,46,81.4,2,3.7,1.6 – 5.8
+02,45,Alaska,"White, 55 to 64 years",69,47,67.7,46,66.0,1,2.5,0.7 – 4.3
+02,46,Alaska,"White, 65 years and over",67,17,26.0,17,24.9,1,4.2,0.4 – 8.0
+04,01,Arizona,Total,"5,606","3,432",61.2,"3,272",58.4,160,4.7,4.1 – 5.3
+04,02,Arizona,Men,"2,735","1,842",67.3,"1,752",64.1,90,4.9,4.0 – 5.8
+04,03,Arizona,Women,"2,871","1,591",55.4,"1,520",52.9,71,4.4,3.5 – 5.3
+04,04,Arizona,White,"4,809","2,899",60.3,"2,773",57.7,126,4.3,3.6 – 5.0
+04,05,Arizona,"White, men","2,344","1,564",66.7,"1,492",63.7,72,4.6,3.7 – 5.5
+04,06,Arizona,"White, women","2,465","1,335",54.2,"1,281",52.0,54,4.0,3.1 – 4.9
+04,07,Arizona,Black or African American,242,174,72.1,159,66.0,15,8.4,5.1 – 11.7
+04,08,Arizona,"Black or African American, men",128,100,77.9,90,70.3,10,9.8,5.1 – 14.5
+04,10,Arizona,Asian,231,149,64.2,145,62.7,3,2.3,0.8 – 3.8
+04,13,Arizona,Hispanic or Latino ethnicity,"1,759","1,142",64.9,"1,077",61.2,65,5.7,4.4 – 7.0
+04,14,Arizona,"Hispanic or Latino ethnicity, men",863,639,74.0,605,70.1,34,5.3,3.6 – 7.0
+04,15,Arizona,"Hispanic or Latino ethnicity, women",896,503,56.1,472,52.7,31,6.1,4.0 – 8.2
+04,16,Arizona,"Married men, spouse present","1,425",991,69.6,970,68.1,21,2.1,1.3 – 2.9
+04,17,Arizona,"Married women, spouse present","1,433",733,51.1,711,49.6,22,3.0,1.9 – 4.1
+04,18,Arizona,Women who maintain families,308,225,73.3,213,69.1,13,5.6,2.9 – 8.3
+04,19,Arizona,"Total, 16 to 19 years",419,144,34.3,119,28.4,25,17.3,11.4 – 23.2
+04,20,Arizona,"Total, 20 to 24 years",486,376,77.4,347,71.3,29,7.8,5.3 – 10.3
+04,21,Arizona,"Total, 25 to 34 years",900,729,81.0,693,77.0,37,5.0,3.6 – 6.4
+04,22,Arizona,"Total, 35 to 44 years",845,685,81.1,668,79.0,18,2.6,1.5 – 3.7
+04,23,Arizona,"Total, 45 to 54 years",916,723,79.0,707,77.2,17,2.3,1.3 – 3.3
+04,24,Arizona,"Total, 55 to 64 years",905,570,63.0,546,60.4,23,4.1,2.7 – 5.5
+04,25,Arizona,"Total, 65 years and over","1,135",204,18.0,193,17.0,12,5.8,2.9 – 8.7
+04,27,Arizona,"Men, 20 to 24 years",254,191,75.2,174,68.4,17,9.0,5.3 – 12.7
+04,28,Arizona,"Men, 25 to 34 years",451,403,89.3,385,85.4,18,4.4,2.6 – 6.2
+04,29,Arizona,"Men, 35 to 44 years",412,380,92.4,374,90.8,7,1.7,0.6 – 2.8
+04,30,Arizona,"Men, 45 to 54 years",449,392,87.3,385,85.7,7,1.8,0.6 – 3.0
+04,31,Arizona,"Men, 55 to 64 years",425,297,69.9,281,66.1,16,5.4,3.1 – 7.7
+04,32,Arizona,"Men, 65 years and over",526,108,20.5,100,18.9,8,7.8,3.2 – 12.4
+04,34,Arizona,"Women, 20 to 24 years",232,185,79.7,173,74.5,12,6.5,3.3 – 9.7
+04,35,Arizona,"Women, 25 to 34 years",449,326,72.7,307,68.5,19,5.8,3.5 – 8.1
+04,36,Arizona,"Women, 35 to 44 years",433,305,70.4,294,67.8,11,3.6,1.8 – 5.4
+04,37,Arizona,"Women, 45 to 54 years",467,331,70.9,322,68.9,10,2.9,1.3 – 4.5
+04,38,Arizona,"Women, 55 to 64 years",479,272,56.8,265,55.3,7,2.7,1.0 – 4.4
+04,39,Arizona,"Women, 65 years and over",609,96,15.8,93,15.3,3,3.6,0.3 – 6.9
+04,40,Arizona,"White, 16 to 19 years",342,116,33.8,97,28.2,19,16.6,10.1 – 23.1
+04,41,Arizona,"White, 20 to 24 years",400,310,77.5,286,71.6,24,7.7,5.0 – 10.4
+04,42,Arizona,"White, 25 to 34 years",720,591,82.1,567,78.8,24,4.1,2.7 – 5.5
+04,43,Arizona,"White, 35 to 44 years",700,561,80.1,546,78.0,14,2.6,1.4 – 3.8
+04,44,Arizona,"White, 45 to 54 years",784,613,78.1,599,76.3,14,2.3,1.3 – 3.3
+04,45,Arizona,"White, 55 to 64 years",809,515,63.7,496,61.3,19,3.7,2.2 – 5.2
+04,46,Arizona,"White, 65 years and over","1,053",194,18.4,183,17.3,11,5.8,2.9 – 8.7
+04,62,Arizona,"Hispanic or Latino ethnicity, 20 to 24 years",212,167,78.8,155,73.2,12,7.1,3.2 – 11.0
+04,63,Arizona,"Hispanic or Latino ethnicity, 25 to 34 years",332,266,79.9,255,76.7,11,4.0,1.7 – 6.3
+04,64,Arizona,"Hispanic or Latino ethnicity, 35 to 44 years",301,240,79.8,233,77.4,7,2.9,0.8 – 5.0
+04,65,Arizona,"Hispanic or Latino ethnicity, 45 to 54 years",299,232,77.6,224,74.9,8,3.5,1.2 – 5.8
+04,66,Arizona,"Hispanic or Latino ethnicity, 55 to 64 years",225,144,63.9,134,59.4,10,7.0,2.8 – 11.2
+05,01,Arkansas,Total,"2,336","1,339",57.3,"1,289",55.2,50,3.8,3.2 – 4.4
+05,02,Arkansas,Men,"1,124",706,62.8,678,60.4,28,3.9,3.1 – 4.7
+05,03,Arkansas,Women,"1,212",633,52.2,610,50.3,23,3.6,2.8 – 4.4
+05,04,Arkansas,White,"1,884","1,078",57.2,"1,045",55.5,33,3.0,2.4 – 3.6
+05,05,Arkansas,"White, men",914,581,63.6,564,61.7,17,3.0,2.2 – 3.8
+05,06,Arkansas,"White, women",969,496,51.2,481,49.6,15,3.1,2.2 – 4.0
+05,07,Arkansas,Black or African American,344,199,57.9,186,54.0,13,6.7,4.7 – 8.7
+05,08,Arkansas,"Black or African American, men",154,89,57.7,81,52.7,8,8.6,5.2 – 12.0
+05,09,Arkansas,"Black or African American, women",189,110,58.1,104,55.1,6,5.2,2.8 – 7.6
+05,13,Arkansas,Hispanic or Latino ethnicity,167,115,68.8,111,66.3,4,3.7,1.8 – 5.6
+05,14,Arkansas,"Hispanic or Latino ethnicity, men",87,66,76.3,63,72.9,3,4.4,1.7 – 7.1
+05,15,Arkansas,"Hispanic or Latino ethnicity, women",81,49,60.8,48,59.1,1,2.8,0.2 – 5.4
+05,16,Arkansas,"Married men, spouse present",594,399,67.2,393,66.1,7,1.7,1.0 – 2.4
+05,17,Arkansas,"Married women, spouse present",581,316,54.3,308,53.1,7,2.3,1.3 – 3.3
+05,18,Arkansas,Women who maintain families,158,103,65.4,98,61.8,6,5.5,2.9 – 8.1
+05,19,Arkansas,"Total, 16 to 19 years",157,50,32.2,46,29.3,5,9.1,4.4 – 13.8
+05,20,Arkansas,"Total, 20 to 24 years",217,149,68.7,137,63.3,12,7.8,5.3 – 10.3
+05,21,Arkansas,"Total, 25 to 34 years",398,307,77.1,294,74.0,12,4.0,2.7 – 5.3
+05,22,Arkansas,"Total, 35 to 44 years",327,261,80.0,254,77.8,7,2.8,1.6 – 4.0
+05,23,Arkansas,"Total, 45 to 54 years",367,279,75.8,272,74.0,7,2.5,1.4 – 3.6
+05,24,Arkansas,"Total, 55 to 64 years",379,215,56.8,209,55.2,6,2.8,1.5 – 4.1
+05,25,Arkansas,"Total, 65 years and over",492,77,15.7,76,15.4,2,2.1,0.3 – 3.9
+05,27,Arkansas,"Men, 20 to 24 years",113,84,73.8,77,67.5,7,8.5,5.0 – 12.0
+05,28,Arkansas,"Men, 25 to 34 years",199,162,81.3,154,77.5,8,4.7,2.8 – 6.6
+05,29,Arkansas,"Men, 35 to 44 years",152,131,85.8,127,83.7,3,2.5,1.0 – 4.0
+05,30,Arkansas,"Men, 45 to 54 years",175,142,81.6,139,79.5,4,2.6,1.1 – 4.1
+05,31,Arkansas,"Men, 55 to 64 years",183,116,63.2,113,62.0,2,2.0,0.5 – 3.5
+05,34,Arkansas,"Women, 20 to 24 years",104,65,63.2,61,58.8,5,7.0,3.4 – 10.6
+05,35,Arkansas,"Women, 25 to 34 years",198,145,72.8,140,70.5,5,3.2,1.5 – 4.9
+05,36,Arkansas,"Women, 35 to 44 years",175,131,74.9,127,72.6,4,3.1,1.4 – 4.8
+05,37,Arkansas,"Women, 45 to 54 years",193,136,70.6,133,69.0,3,2.3,0.9 – 3.7
+05,38,Arkansas,"Women, 55 to 64 years",196,100,50.9,96,48.9,4,3.8,1.6 – 6.0
+05,41,Arkansas,"White, 20 to 24 years",169,117,69.2,111,65.6,6,5.2,2.9 – 7.5
+05,42,Arkansas,"White, 25 to 34 years",299,232,77.5,224,74.8,8,3.5,2.1 – 4.9
+05,43,Arkansas,"White, 35 to 44 years",252,203,80.4,198,78.6,5,2.3,1.1 – 3.5
+05,44,Arkansas,"White, 45 to 54 years",301,230,76.4,224,74.6,5,2.3,1.2 – 3.4
+05,45,Arkansas,"White, 55 to 64 years",323,191,59.0,185,57.4,5,2.7,1.4 – 4.0
+05,46,Arkansas,"White, 65 years and over",423,67,15.9,66,15.7,1,1.4,(2)-
+05,49,Arkansas,"Black or African American, 25 to 34 years",66,50,75.8,47,71.3,3,5.9,2.1 – 9.7
+06,01,California,Total,"31,063","19,369",62.4,"18,561",59.8,808,4.2,3.9 – 4.5
+06,02,California,Men,"15,184","10,571",69.6,"10,160",66.9,411,3.9,3.6 – 4.2
+06,03,California,Women,"15,879","8,798",55.4,"8,401",52.9,397,4.5,4.1 – 4.9
+06,04,California,White,"22,510","14,015",62.3,"13,435",59.7,580,4.1,3.8 – 4.4
+06,05,California,"White, men","11,138","7,784",69.9,"7,492",67.3,293,3.8,3.4 – 4.2
+06,06,California,"White, women","11,372","6,230",54.8,"5,943",52.3,287,4.6,4.1 – 5.1
+06,07,California,Black or African American,"1,951","1,200",61.5,"1,122",57.5,78,6.5,5.2 – 7.8
+06,08,California,"Black or African American, men",927,609,65.7,570,61.5,38,6.3,4.4 – 8.2
+06,09,California,"Black or African American, women","1,024",592,57.8,552,53.9,40,6.7,4.8 – 8.6
+06,10,California,Asian,"5,051","3,138",62.1,"3,038",60.2,100,3.2,2.7 – 3.7
+06,11,California,"Asian, men","2,343","1,630",69.6,"1,577",67.3,53,3.3,2.6 – 4.0
+06,12,California,"Asian, women","2,708","1,508",55.7,"1,461",54.0,47,3.1,2.4 – 3.8
+06,13,California,Hispanic or Latino ethnicity,"11,168","7,324",65.6,"6,953",62.3,371,5.1,4.6 – 5.6
+06,14,California,"Hispanic or Latino ethnicity, men","5,547","4,118",74.2,"3,929",70.8,190,4.6,4.0 – 5.2
+06,15,California,"Hispanic or Latino ethnicity, women","5,621","3,206",57.0,"3,024",53.8,182,5.7,5.0 – 6.4
+06,16,California,"Married men, spouse present","7,568","5,631",74.4,"5,511",72.8,120,2.1,1.8 – 2.4
+06,17,California,"Married women, spouse present","7,396","4,111",55.6,"3,986",53.9,124,3.0,2.5 – 3.5
+06,18,California,Women who maintain families,"1,772","1,153",65.1,"1,084",61.2,69,6.0,4.7 – 7.3
+06,19,California,"Total, 16 to 19 years","2,003",542,27.1,455,22.7,88,16.2,13.2 – 19.2
+06,20,California,"Total, 20 to 24 years","2,618","1,722",65.8,"1,600",61.1,122,7.1,6.0 – 8.2
+06,21,California,"Total, 25 to 34 years","5,757","4,657",80.9,"4,452",77.3,206,4.4,3.9 – 4.9
+06,22,California,"Total, 35 to 44 years","5,333","4,315",80.9,"4,179",78.4,136,3.1,2.6 – 3.6
+06,23,California,"Total, 45 to 54 years","5,055","4,020",79.5,"3,892",77.0,129,3.2,2.7 – 3.7
+06,24,California,"Total, 55 to 64 years","4,695","3,012",64.1,"2,912",62.0,100,3.3,2.7 – 3.9
+06,25,California,"Total, 65 years and over","5,601","1,101",19.7,"1,073",19.2,29,2.6,1.7 – 3.5
+06,26,California,"Men, 16 to 19 years",997,257,25.8,217,21.7,40,15.7,11.4 – 20.0
+06,27,California,"Men, 20 to 24 years","1,318",911,69.1,843,63.9,68,7.4,5.8 – 9.0
+06,28,California,"Men, 25 to 34 years","2,933","2,574",87.8,"2,475",84.4,99,3.9,3.2 – 4.6
+06,29,California,"Men, 35 to 44 years","2,664","2,416",90.7,"2,345",88.0,71,2.9,2.3 – 3.5
+06,30,California,"Men, 45 to 54 years","2,494","2,178",87.3,"2,113",84.7,65,3.0,2.3 – 3.7
+06,31,California,"Men, 55 to 64 years","2,276","1,633",71.8,"1,581",69.4,53,3.2,2.4 – 4.0
+06,32,California,"Men, 65 years and over","2,501",601,24.0,586,23.4,14,2.4,1.3 – 3.5
+06,33,California,"Women, 16 to 19 years","1,006",285,28.3,238,23.6,47,16.6,12.4 – 20.8
+06,34,California,"Women, 20 to 24 years","1,300",811,62.4,757,58.2,54,6.7,5.1 – 8.3
+06,35,California,"Women, 25 to 34 years","2,824","2,083",73.8,"1,977",70.0,106,5.1,4.2 – 6.0
+06,36,California,"Women, 35 to 44 years","2,669","1,899",71.1,"1,834",68.7,65,3.4,2.7 – 4.1
+06,37,California,"Women, 45 to 54 years","2,561","1,842",71.9,"1,779",69.4,64,3.5,2.7 – 4.3
+06,38,California,"Women, 55 to 64 years","2,418","1,378",57.0,"1,331",55.0,47,3.4,2.5 – 4.3
+06,39,California,"Women, 65 years and over","3,101",501,16.1,486,15.7,14,2.8,1.5 – 4.1
+06,40,California,"White, 16 to 19 years","1,439",414,28.8,349,24.3,65,15.7,12.3 – 19.1
+06,41,California,"White, 20 to 24 years","1,858","1,252",67.4,"1,165",62.7,87,7.0,5.7 – 8.3
+06,42,California,"White, 25 to 34 years","4,049","3,321",82.0,"3,178",78.5,143,4.3,3.7 – 4.9
+06,43,California,"White, 35 to 44 years","3,826","3,086",80.7,"2,992",78.2,94,3.0,2.5 – 3.5
+06,44,California,"White, 45 to 54 years","3,660","2,901",79.3,"2,809",76.7,92,3.2,2.6 – 3.8
+06,45,California,"White, 55 to 64 years","3,451","2,208",64.0,"2,134",61.8,73,3.3,2.6 – 4.0
+06,46,California,"White, 65 years and over","4,226",832,19.7,808,19.1,25,2.9,1.9 – 3.9
+06,48,California,"Black or African American, 20 to 24 years",179,120,67.0,107,60.0,13,10.5,5.1 – 15.9
+06,49,California,"Black or African American, 25 to 34 years",416,316,76.0,289,69.5,27,8.5,5.5 – 11.5
+06,50,California,"Black or African American, 35 to 44 years",315,246,77.9,232,73.6,14,5.6,2.8 – 8.4
+06,51,California,"Black or African American, 45 to 54 years",307,238,77.5,227,73.9,11,4.6,2.0 – 7.2
+06,52,California,"Black or African American, 55 to 64 years",307,180,58.5,173,56.4,7,3.6,1.0 – 6.2
+06,55,California,"Asian, 20 to 24 years",379,206,54.3,188,49.6,18,8.5,5.2 – 11.8
+06,56,California,"Asian, 25 to 34 years",974,760,78.0,739,75.8,22,2.8,1.8 – 3.8
+06,57,California,"Asian, 35 to 44 years",899,740,82.2,722,80.2,18,2.4,1.5 – 3.3
+06,58,California,"Asian, 45 to 54 years",861,698,81.0,678,78.7,20,2.9,1.8 – 4.0
+06,59,California,"Asian, 55 to 64 years",761,519,68.2,503,66.1,16,3.1,1.8 – 4.4
+06,60,California,"Asian, 65 years and over",885,168,19.0,167,18.8,1,0.8,(2)-
+06,61,California,"Hispanic or Latino ethnicity, 16 to 19 years","1,005",300,29.8,252,25.0,48,16.1,12.0 – 20.2
+06,62,California,"Hispanic or Latino ethnicity, 20 to 24 years","1,268",881,69.4,818,64.5,63,7.2,5.6 – 8.8
+06,63,California,"Hispanic or Latino ethnicity, 25 to 34 years","2,363","1,914",81.0,"1,816",76.9,98,5.1,4.2 – 6.0
+06,64,California,"Hispanic or Latino ethnicity, 35 to 44 years","2,158","1,720",79.7,"1,653",76.6,67,3.9,3.1 – 4.7
+06,65,California,"Hispanic or Latino ethnicity, 45 to 54 years","1,866","1,437",77.0,"1,391",74.5,47,3.2,2.4 – 4.0
+06,66,California,"Hispanic or Latino ethnicity, 55 to 64 years","1,391",887,63.8,847,60.9,41,4.6,3.3 – 5.9
+06,67,California,"Hispanic or Latino ethnicity, 65 years and over","1,116",185,16.6,177,15.8,8,4.5,1.7 – 7.3
+08,01,Colorado,Total,"4,477","3,097",69.2,"2,994",66.9,103,3.3,2.7 – 3.9
+08,02,Colorado,Men,"2,219","1,681",75.7,"1,613",72.7,68,4.0,3.2 – 4.8
+08,03,Colorado,Women,"2,257","1,417",62.7,"1,381",61.2,35,2.5,1.8 – 3.2
+08,04,Colorado,White,"3,940","2,734",69.4,"2,647",67.2,87,3.2,2.6 – 3.8
+08,05,Colorado,"White, men","1,950","1,474",75.6,"1,418",72.7,55,3.8,2.9 – 4.7
+08,06,Colorado,"White, women","1,989","1,260",63.3,"1,229",61.8,31,2.5,1.7 – 3.3
+08,07,Colorado,Black or African American,189,127,67.5,119,63.0,8,6.6,2.5 – 10.7
+08,13,Colorado,Hispanic or Latino ethnicity,862,602,69.9,582,67.5,21,3.4,2.1 – 4.7
+08,14,Colorado,"Hispanic or Latino ethnicity, men",426,325,76.2,315,73.9,10,3.1,1.4 – 4.8
+08,15,Colorado,"Hispanic or Latino ethnicity, women",435,278,63.8,267,61.3,11,3.8,1.8 – 5.8
+08,16,Colorado,"Married men, spouse present","1,128",874,77.5,856,75.8,19,2.1,1.3 – 2.9
+08,17,Colorado,"Married women, spouse present","1,166",726,62.3,713,61.2,13,1.9,1.0 – 2.8
+08,18,Colorado,Women who maintain families,206,148,71.5,143,69.2,5,3.2,0.7 – 5.7
+08,20,Colorado,"Total, 20 to 24 years",358,274,76.5,263,73.4,11,4.1,2.0 – 6.2
+08,21,Colorado,"Total, 25 to 34 years",870,766,88.0,741,85.1,25,3.3,2.2 – 4.4
+08,22,Colorado,"Total, 35 to 44 years",775,665,85.8,649,83.8,15,2.3,1.3 – 3.3
+08,23,Colorado,"Total, 45 to 54 years",706,592,83.9,581,82.2,12,2.0,1.0 – 3.0
+08,24,Colorado,"Total, 55 to 64 years",707,500,70.7,481,67.9,19,3.8,2.3 – 5.3
+08,25,Colorado,"Total, 65 years and over",797,191,24.0,186,23.4,5,2.4,0.5 – 4.3
+08,27,Colorado,"Men, 20 to 24 years",166,134,81.2,129,77.7,6,4.2,1.2 – 7.2
+08,28,Colorado,"Men, 25 to 34 years",466,436,93.5,417,89.5,19,4.3,2.6 – 6.0
+08,29,Colorado,"Men, 35 to 44 years",382,360,94.3,351,91.9,9,2.5,1.1 – 3.9
+08,30,Colorado,"Men, 45 to 54 years",348,315,90.5,307,88.3,8,2.5,1.0 – 4.0
+08,31,Colorado,"Men, 55 to 64 years",347,268,77.1,257,74.0,11,4.1,2.0 – 6.2
+08,34,Colorado,"Women, 20 to 24 years",192,139,72.4,134,69.6,5,3.9,1.1 – 6.7
+08,35,Colorado,"Women, 25 to 34 years",403,330,81.7,323,80.1,6,1.9,0.6 – 3.2
+08,36,Colorado,"Women, 35 to 44 years",393,305,77.5,298,75.9,6,2.1,0.7 – 3.5
+08,37,Colorado,"Women, 45 to 54 years",359,278,77.4,274,76.3,4,1.5,0.2 – 2.8
+08,38,Colorado,"Women, 55 to 64 years",360,232,64.4,224,62.1,8,3.6,1.5 – 5.7
+08,41,Colorado,"White, 20 to 24 years",307,238,77.4,230,75.0,8,3.2,1.2 – 5.2
+08,42,Colorado,"White, 25 to 34 years",747,658,88.0,634,84.9,23,3.6,2.3 – 4.9
+08,43,Colorado,"White, 35 to 44 years",659,568,86.2,555,84.3,13,2.2,1.1 – 3.3
+08,44,Colorado,"White, 45 to 54 years",646,547,84.6,536,83.0,11,1.9,0.9 – 2.9
+08,45,Colorado,"White, 55 to 64 years",625,453,72.4,437,69.9,15,3.4,1.9 – 4.9
+08,46,Colorado,"White, 65 years and over",728,177,24.3,173,23.7,4,2.3,0.3 – 4.3
+08,63,Colorado,"Hispanic or Latino ethnicity, 25 to 34 years",201,163,81.2,157,78.1,6,3.8,1.2 – 6.4
+08,64,Colorado,"Hispanic or Latino ethnicity, 35 to 44 years",184,153,82.9,149,80.8,4,2.5,0.3 – 4.7
+09,01,Connecticut,Total,"2,883","1,898",65.8,"1,819",63.1,79,4.1,3.4 – 4.8
+09,02,Connecticut,Men,"1,388",982,70.8,937,67.5,45,4.6,3.5 – 5.7
+09,03,Connecticut,Women,"1,494",915,61.3,882,59.0,33,3.6,2.6 – 4.6
+09,04,Connecticut,White,"2,378","1,568",65.9,"1,514",63.6,55,3.5,2.7 – 4.3
+09,05,Connecticut,"White, men","1,164",824,70.8,791,67.9,33,4.1,3.0 – 5.2
+09,06,Connecticut,"White, women","1,214",744,61.3,723,59.5,21,2.9,1.9 – 3.9
+09,07,Connecticut,Black or African American,322,208,64.5,189,58.8,19,8.9,5.9 – 11.9
+09,08,Connecticut,"Black or African American, men",148,95,64.3,84,56.6,11,12.0,6.8 – 17.2
+09,09,Connecticut,"Black or African American, women",174,113,64.7,106,60.6,7,6.3,2.8 – 9.8
+09,10,Connecticut,Asian,133,91,68.0,86,64.4,5,5.3,2.1 – 8.5
+09,13,Connecticut,Hispanic or Latino ethnicity,426,270,63.4,251,59.0,19,6.9,4.5 – 9.3
+09,14,Connecticut,"Hispanic or Latino ethnicity, men",205,140,68.5,130,63.3,11,7.6,4.1 – 11.1
+09,15,Connecticut,"Hispanic or Latino ethnicity, women",221,129,58.6,121,55.0,8,6.1,2.8 – 9.4
+09,16,Connecticut,"Married men, spouse present",702,532,75.8,521,74.2,11,2.1,1.1 – 3.1
+09,17,Connecticut,"Married women, spouse present",695,447,64.3,436,62.8,10,2.3,1.1 – 3.5
+09,18,Connecticut,Women who maintain families,174,125,71.8,118,67.9,7,5.5,2.1 – 8.9
+09,20,Connecticut,"Total, 20 to 24 years",184,124,67.5,111,60.5,13,10.4,5.8 – 15.0
+09,21,Connecticut,"Total, 25 to 34 years",500,432,86.3,417,83.3,15,3.4,2.0 – 4.8
+09,22,Connecticut,"Total, 35 to 44 years",429,354,82.5,344,80.0,11,3.0,1.5 – 4.5
+09,23,Connecticut,"Total, 45 to 54 years",463,406,87.6,390,84.1,16,4.0,2.4 – 5.6
+09,24,Connecticut,"Total, 55 to 64 years",537,381,71.0,371,69.2,10,2.5,1.2 – 3.8
+09,25,Connecticut,"Total, 65 years and over",595,138,23.3,134,22.5,4,3.1,0.7 – 5.5
+09,28,Connecticut,"Men, 25 to 34 years",257,230,89.6,219,85.4,11,4.6,2.3 – 6.9
+09,29,Connecticut,"Men, 35 to 44 years",215,192,89.4,187,87.2,5,2.5,0.7 – 4.3
+09,30,Connecticut,"Men, 45 to 54 years",222,199,89.7,190,85.6,9,4.6,2.1 – 7.1
+09,31,Connecticut,"Men, 55 to 64 years",246,189,76.6,184,74.8,4,2.4,0.6 – 4.2
+09,35,Connecticut,"Women, 25 to 34 years",243,202,82.8,197,81.1,4,2.1,0.5 – 3.7
+09,36,Connecticut,"Women, 35 to 44 years",215,162,75.5,156,72.8,6,3.6,1.2 – 6.0
+09,37,Connecticut,"Women, 45 to 54 years",241,207,85.7,200,82.8,7,3.5,1.4 – 5.6
+09,38,Connecticut,"Women, 55 to 64 years",290,192,66.2,187,64.4,5,2.7,0.8 – 4.6
+09,41,Connecticut,"White, 20 to 24 years",149,102,68.1,94,62.8,8,7.8,3.4 – 12.2
+09,42,Connecticut,"White, 25 to 34 years",382,333,87.2,322,84.4,11,3.2,1.6 – 4.8
+09,43,Connecticut,"White, 35 to 44 years",337,283,83.9,278,82.4,5,1.8,0.5 – 3.1
+09,44,Connecticut,"White, 45 to 54 years",383,337,87.9,325,84.9,11,3.4,1.8 – 5.0
+09,45,Connecticut,"White, 55 to 64 years",465,342,73.4,334,71.8,8,2.2,0.9 – 3.5
+09,46,Connecticut,"White, 65 years and over",528,123,23.3,120,22.7,3,2.7,0.3 – 5.1
+10,01,Delaware,Total,772,485,62.9,467,60.5,19,3.8,3.1 – 4.5
+10,02,Delaware,Men,366,249,68.0,240,65.5,9,3.7,2.8 – 4.6
+10,03,Delaware,Women,406,236,58.3,227,56.0,9,3.9,2.9 – 4.9
+10,04,Delaware,White,549,337,61.4,327,59.6,10,3.0,2.3 – 3.7
+10,05,Delaware,"White, men",267,179,67.1,173,65.0,6,3.1,2.1 – 4.1
+10,06,Delaware,"White, women",283,158,56.0,154,54.5,4,2.8,1.8 – 3.8
+10,07,Delaware,Black or African American,167,112,67.0,105,62.8,7,6.2,4.5 – 7.9
+10,08,Delaware,"Black or African American, men",75,52,68.9,49,64.8,3,6.0,3.6 – 8.4
+10,09,Delaware,"Black or African American, women",92,60,65.4,56,61.2,4,6.3,4.0 – 8.6
+10,10,Delaware,Asian,38,25,64.8,24,63.2,1,2.3,0.8 – 3.8
+10,13,Delaware,Hispanic or Latino ethnicity,61,44,72.4,43,69.7,2,3.8,1.8 – 5.8
+10,14,Delaware,"Hispanic or Latino ethnicity, men",28,25,87.9,24,85.3,1,3.0,0.6 – 5.4
+10,16,Delaware,"Married men, spouse present",186,126,67.5,124,66.5,2,1.6,0.7 – 2.5
+10,17,Delaware,"Married women, spouse present",185,105,57.0,103,55.8,2,2.1,1.0 – 3.2
+10,18,Delaware,Women who maintain families,49,35,71.4,33,67.3,2,5.8,2.7 – 8.9
+10,20,Delaware,"Total, 20 to 24 years",64,47,73.1,43,66.8,4,8.5,5.2 – 11.8
+10,21,Delaware,"Total, 25 to 34 years",127,109,86.3,105,83.2,4,3.7,2.3 – 5.1
+10,22,Delaware,"Total, 35 to 44 years",108,90,83.8,88,82.0,2,2.2,1.0 – 3.4
+10,23,Delaware,"Total, 45 to 54 years",114,95,83.2,92,80.9,3,2.8,1.5 – 4.1
+10,24,Delaware,"Total, 55 to 64 years",142,94,66.3,91,64.2,3,3.2,1.8 – 4.6
+10,25,Delaware,"Total, 65 years and over",176,32,18.4,32,18.1,1,2.1,0.2 – 4.0
+10,27,Delaware,"Men, 20 to 24 years",30,24,79.6,21,70.4,3,11.5,6.2 – 16.8
+10,28,Delaware,"Men, 25 to 34 years",62,57,91.7,55,89.3,1,2.6,1.0 – 4.2
+10,29,Delaware,"Men, 35 to 44 years",53,48,90.4,47,88.8,1,1.7,0.3 – 3.1
+10,30,Delaware,"Men, 45 to 54 years",54,47,85.8,46,83.9,1,2.3,0.6 – 4.0
+10,31,Delaware,"Men, 55 to 64 years",67,49,73.2,48,71.3,1,2.6,0.8 – 4.4
+10,34,Delaware,"Women, 20 to 24 years",34,23,67.3,22,63.7,1,5.4,1.7 – 9.1
+10,35,Delaware,"Women, 25 to 34 years",65,52,81.2,50,77.3,3,4.8,2.5 – 7.1
+10,36,Delaware,"Women, 35 to 44 years",55,42,77.5,41,75.5,1,2.6,0.7 – 4.5
+10,37,Delaware,"Women, 45 to 54 years",60,48,80.8,47,78.2,2,3.2,1.2 – 5.2
+10,38,Delaware,"Women, 55 to 64 years",75,45,60.2,44,57.9,2,3.9,1.7 – 6.1
+10,41,Delaware,"White, 20 to 24 years",37,28,75.7,26,71.3,2,5.9,2.4 – 9.4
+10,42,Delaware,"White, 25 to 34 years",81,71,87.1,68,84.4,2,3.1,1.5 – 4.7
+10,43,Delaware,"White, 35 to 44 years",74,63,84.3,62,82.7,1,1.9,0.6 – 3.2
+10,44,Delaware,"White, 45 to 54 years",78,64,82.2,62,80.3,2,2.4,0.9 – 3.9
+10,45,Delaware,"White, 55 to 64 years",109,74,68.0,72,66.1,2,2.8,1.3 – 4.3
+10,46,Delaware,"White, 65 years and over",146,27,18.3,26,18.1,(3)-,0.9,(2)-
+10,49,Delaware,"Black or African American, 25 to 34 years",28,26,91.1,24,86.4,1,5.1,1.9 – 8.3
+10,51,Delaware,"Black or African American, 45 to 54 years",29,25,84.2,23,80.4,1,4.5,1.4 – 7.6
+11,01,District of Columbia,Total,575,405,70.4,382,66.5,23,5.6,4.9 – 6.3
+11,02,District of Columbia,Men,267,199,74.7,188,70.5,11,5.6,4.5 – 6.7
+11,03,District of Columbia,Women,308,205,66.8,194,63.0,12,5.6,4.6 – 6.6
+11,04,District of Columbia,White,271,225,83.2,220,81.4,5,2.1,1.5 – 2.7
+11,05,District of Columbia,"White, men",134,114,85.0,112,83.1,3,2.3,1.4 – 3.2
+11,06,District of Columbia,"White, women",136,111,81.4,109,79.7,2,2.0,1.2 – 2.8
+11,07,District of Columbia,Black or African American,258,145,56.1,127,49.4,17,11.9,10.2 – 13.6
+11,08,District of Columbia,"Black or African American, men",113,70,61.9,62,54.6,8,11.8,9.3 – 14.3
+11,09,District of Columbia,"Black or African American, women",145,75,51.6,66,45.3,9,12.1,9.6 – 14.6
+11,10,District of Columbia,Asian,31,24,76.7,24,75.2,(3)-,1.9,0.6 – 3.2
+11,12,District of Columbia,"Asian, women",18,14,77.7,14,76.1,(3)-,2.0,0.3 – 3.7
+11,13,District of Columbia,Hispanic or Latino ethnicity,54,42,78.1,40,75.2,2,3.7,2.3 – 5.1
+11,14,District of Columbia,"Hispanic or Latino ethnicity, men",26,22,82.7,21,80.1,1,3.1,1.3 – 4.9
+11,15,District of Columbia,"Hispanic or Latino ethnicity, women",27,20,73.5,19,70.4,1,4.3,2.1 – 6.5
+11,16,District of Columbia,"Married men, spouse present",85,66,78.4,65,76.1,2,2.9,1.6 – 4.2
+11,17,District of Columbia,"Married women, spouse present",85,62,73.4,60,71.1,2,3.1,1.7 – 4.5
+11,18,District of Columbia,Women who maintain families,42,26,63.2,23,54.1,4,14.4,9.8 – 19.0
+11,20,District of Columbia,"Total, 20 to 24 years",52,38,74.1,34,66.0,4,10.8,7.5 – 14.1
+11,21,District of Columbia,"Total, 25 to 34 years",175,155,89.0,147,84.3,8,5.3,4.1 – 6.5
+11,22,District of Columbia,"Total, 35 to 44 years",102,89,88.0,86,84.5,4,4.0,2.7 – 5.3
+11,23,District of Columbia,"Total, 45 to 54 years",71,56,78.8,54,75.3,2,4.4,2.6 – 6.2
+11,24,District of Columbia,"Total, 55 to 64 years",63,39,62.6,37,59.8,2,4.5,2.3 – 6.7
+11,25,District of Columbia,"Total, 65 years and over",92,22,24.1,21,22.7,1,6.0,2.7 – 9.3
+11,27,District of Columbia,"Men, 20 to 24 years",26,18,71.3,16,61.8,2,13.4,8.0 – 18.8
+11,28,District of Columbia,"Men, 25 to 34 years",81,75,91.9,70,86.9,4,5.5,3.8 – 7.2
+11,29,District of Columbia,"Men, 35 to 44 years",47,43,91.8,42,88.6,2,3.5,1.7 – 5.3
+11,30,District of Columbia,"Men, 45 to 54 years",35,29,83.7,28,80.3,1,4.1,1.7 – 6.5
+11,31,District of Columbia,"Men, 55 to 64 years",31,21,67.7,20,65.1,1,3.8,1.1 – 6.5
+11,32,District of Columbia,"Men, 65 years and over",38,12,31.4,11,29.8,1,5.1,1.0 – 9.2
+11,34,District of Columbia,"Women, 20 to 24 years",26,20,76.7,18,70.2,2,8.5,4.4 – 12.6
+11,35,District of Columbia,"Women, 25 to 34 years",93,81,86.5,77,82.1,4,5.1,3.5 – 6.7
+11,36,District of Columbia,"Women, 35 to 44 years",55,46,84.7,44,80.9,2,4.5,2.5 – 6.5
+11,37,District of Columbia,"Women, 45 to 54 years",36,27,74.1,26,70.6,1,4.8,2.1 – 7.5
+11,38,District of Columbia,"Women, 55 to 64 years",31,18,57.5,17,54.5,1,5.2,1.8 – 8.6
+11,39,District of Columbia,"Women, 65 years and over",54,10,19.1,10,17.8,1,7.1,1.9 – 12.3
+11,41,District of Columbia,"White, 20 to 24 years",26,21,80.8,21,78.7,1,2.6,0.4 – 4.8
+11,42,District of Columbia,"White, 25 to 34 years",97,90,93.0,88,91.2,2,1.9,1.0 – 2.8
+11,43,District of Columbia,"White, 35 to 44 years",55,53,96.0,52,94.8,1,1.3,0.3 – 2.3
+11,44,District of Columbia,"White, 45 to 54 years",31,28,90.5,28,89.0,(3)-,1.6,0.1 – 3.1
+11,45,District of Columbia,"White, 55 to 64 years",22,20,87.2,19,84.1,1,3.5,0.8 – 6.2
+11,46,District of Columbia,"White, 65 years and over",34,13,37.6,12,36.0,1,4.5,0.7 – 8.3
+11,48,District of Columbia,"Black or African American, 20 to 24 years",19,14,70.1,10,52.2,3,25.4,16.9 – 33.9
+11,49,District of Columbia,"Black or African American, 25 to 34 years",60,49,82.9,43,72.1,6,13.1,9.9 – 16.3
+11,50,District of Columbia,"Black or African American, 35 to 44 years",38,29,76.0,26,68.7,3,9.6,6.0 – 13.2
+11,51,District of Columbia,"Black or African American, 45 to 54 years",35,24,67.4,22,62.3,2,7.6,4.1 – 11.1
+11,52,District of Columbia,"Black or African American, 55 to 64 years",37,18,47.1,17,44.5,1,5.7,2.1 – 9.3
+11,56,District of Columbia,"Asian, 25 to 34 years",13,12,89.5,12,89.3,(3)-,0.2,(2)-
+11,63,District of Columbia,"Hispanic or Latino ethnicity, 25 to 34 years",19,17,86.5,16,82.5,1,4.7,2.2 – 7.2
+11,64,District of Columbia,"Hispanic or Latino ethnicity, 35 to 44 years",12,11,91.0,10,89.2,(3)-,1.9,(2)-
+12,01,Florida,Total,"17,233","10,240",59.4,"9,871",57.3,369,3.6,3.3 – 3.9
+12,02,Florida,Men,"8,257","5,376",65.1,"5,196",62.9,179,3.3,2.9 – 3.7
+12,03,Florida,Women,"8,977","4,865",54.2,"4,675",52.1,190,3.9,3.4 – 4.4
+12,04,Florida,White,"13,758","8,005",58.2,"7,767",56.5,239,3.0,2.7 – 3.3
+12,05,Florida,"White, men","6,673","4,299",64.4,"4,172",62.5,126,2.9,2.5 – 3.3
+12,06,Florida,"White, women","7,085","3,707",52.3,"3,594",50.7,112,3.0,2.5 – 3.5
+12,07,Florida,Black or African American,"2,689","1,726",64.2,"1,618",60.2,108,6.2,5.2 – 7.2
+12,08,Florida,"Black or African American, men","1,234",823,66.7,780,63.2,43,5.2,3.9 – 6.5
+12,09,Florida,"Black or African American, women","1,455",903,62.0,838,57.6,65,7.2,5.7 – 8.7
+12,10,Florida,Asian,484,323,66.7,313,64.5,10,3.2,1.6 – 4.8
+12,11,Florida,"Asian, men",229,168,73.3,163,70.8,6,3.4,1.1 – 5.7
+12,12,Florida,"Asian, women",255,155,60.7,150,58.8,5,3.1,0.8 – 5.4
+12,13,Florida,Hispanic or Latino ethnicity,"4,306","2,754",64.0,"2,657",61.7,98,3.5,2.9 – 4.1
+12,14,Florida,"Hispanic or Latino ethnicity, men","2,077","1,524",73.4,"1,473",70.9,50,3.3,2.5 – 4.1
+12,15,Florida,"Hispanic or Latino ethnicity, women","2,229","1,231",55.2,"1,183",53.1,47,3.9,2.9 – 4.9
+12,16,Florida,"Married men, spouse present","4,246","2,915",68.7,"2,860",67.4,55,1.9,1.5 – 2.3
+12,17,Florida,"Married women, spouse present","4,152","2,281",55.0,"2,226",53.6,55,2.4,1.8 – 3.0
+12,18,Florida,Women who maintain families,"1,116",738,66.1,698,62.5,41,5.5,4.0 – 7.0
+12,19,Florida,"Total, 16 to 19 years",984,306,31.1,265,27.0,40,13.2,9.6 – 16.8
+12,20,Florida,"Total, 20 to 24 years","1,266",873,69.0,814,64.3,59,6.8,5.3 – 8.3
+12,21,Florida,"Total, 25 to 34 years","2,611","2,104",80.6,"2,026",77.6,78,3.7,3.0 – 4.4
+12,22,Florida,"Total, 35 to 44 years","2,518","2,083",82.7,"2,037",80.9,46,2.2,1.6 – 2.8
+12,23,Florida,"Total, 45 to 54 years","2,857","2,286",80.0,"2,217",77.6,69,3.0,2.4 – 3.6
+12,24,Florida,"Total, 55 to 64 years","2,850","1,805",63.3,"1,752",61.5,53,2.9,2.2 – 3.6
+12,25,Florida,"Total, 65 years and over","4,148",784,18.9,760,18.3,24,3.1,2.0 – 4.2
+12,26,Florida,"Men, 16 to 19 years",515,153,29.7,128,24.9,25,16.4,10.7 – 22.1
+12,27,Florida,"Men, 20 to 24 years",671,468,69.8,435,64.8,33,7.1,5.0 – 9.2
+12,28,Florida,"Men, 25 to 34 years","1,274","1,112",87.3,"1,084",85.0,28,2.5,1.7 – 3.3
+12,29,Florida,"Men, 35 to 44 years","1,196","1,086",90.8,"1,066",89.1,20,1.8,1.1 – 2.5
+12,30,Florida,"Men, 45 to 54 years","1,395","1,203",86.2,"1,171",83.9,32,2.7,1.9 – 3.5
+12,31,Florida,"Men, 55 to 64 years","1,322",921,69.7,894,67.6,27,3.0,2.0 – 4.0
+12,32,Florida,"Men, 65 years and over","1,882",432,22.9,419,22.3,13,3.0,1.5 – 4.5
+12,33,Florida,"Women, 16 to 19 years",469,153,32.6,137,29.3,15,10.1,5.6 – 14.6
+12,34,Florida,"Women, 20 to 24 years",595,405,68.0,379,63.7,26,6.4,4.2 – 8.6
+12,35,Florida,"Women, 25 to 34 years","1,336",992,74.2,943,70.5,49,5.0,3.8 – 6.2
+12,36,Florida,"Women, 35 to 44 years","1,322",997,75.4,971,73.5,26,2.6,1.7 – 3.5
+12,37,Florida,"Women, 45 to 54 years","1,462","1,083",74.1,"1,046",71.6,37,3.4,2.4 – 4.4
+12,38,Florida,"Women, 55 to 64 years","1,528",884,57.8,858,56.2,25,2.9,1.9 – 3.9
+12,39,Florida,"Women, 65 years and over","2,265",352,15.5,341,15.0,11,3.2,1.5 – 4.9
+12,40,Florida,"White, 16 to 19 years",719,230,31.9,204,28.4,25,10.9,7.1 – 14.7
+12,41,Florida,"White, 20 to 24 years",924,650,70.4,616,66.6,34,5.3,3.7 – 6.9
+12,42,Florida,"White, 25 to 34 years","1,892","1,529",80.8,"1,492",78.8,37,2.4,1.7 – 3.1
+12,43,Florida,"White, 35 to 44 years","1,934","1,593",82.4,"1,560",80.7,33,2.1,1.5 – 2.7
+12,44,Florida,"White, 45 to 54 years","2,284","1,838",80.5,"1,786",78.2,53,2.9,2.2 – 3.6
+12,45,Florida,"White, 55 to 64 years","2,347","1,498",63.8,"1,463",62.3,36,2.4,1.7 – 3.1
+12,46,Florida,"White, 65 years and over","3,658",666,18.2,646,17.7,20,3.0,1.8 – 4.2
+12,48,Florida,"Black or African American, 20 to 24 years",273,184,67.5,167,61.3,17,9.2,5.5 – 12.9
+12,49,Florida,"Black or African American, 25 to 34 years",572,458,80.1,422,73.8,36,7.8,5.6 – 10.0
+12,50,Florida,"Black or African American, 35 to 44 years",425,360,84.8,348,82.0,12,3.4,1.8 – 5.0
+12,51,Florida,"Black or African American, 45 to 54 years",436,340,78.0,327,75.1,12,3.6,1.9 – 5.3
+12,52,Florida,"Black or African American, 55 to 64 years",406,241,59.4,226,55.7,15,6.2,3.5 – 8.9
+12,62,Florida,"Hispanic or Latino ethnicity, 20 to 24 years",376,254,67.5,237,63.1,17,6.6,3.8 – 9.4
+12,63,Florida,"Hispanic or Latino ethnicity, 25 to 34 years",809,646,79.8,630,77.8,16,2.5,1.4 – 3.6
+12,64,Florida,"Hispanic or Latino ethnicity, 35 to 44 years",827,669,80.9,652,78.8,17,2.6,1.5 – 3.7
+12,65,Florida,"Hispanic or Latino ethnicity, 45 to 54 years",752,610,81.1,592,78.8,17,2.9,1.7 – 4.1
+12,66,Florida,"Hispanic or Latino ethnicity, 55 to 64 years",531,356,67.0,343,64.6,13,3.6,1.8 – 5.4
+12,67,Florida,"Hispanic or Latino ethnicity, 65 years and over",714,127,17.8,124,17.3,4,2.8,0.2 – 5.4
+13,01,Georgia,Total,"8,099","5,113",63.1,"4,916",60.7,197,3.9,3.4 – 4.4
+13,02,Georgia,Men,"3,831","2,666",69.6,"2,569",67.0,97,3.6,2.9 – 4.3
+13,03,Georgia,Women,"4,268","2,448",57.3,"2,347",55.0,100,4.1,3.4 – 4.8
+13,04,Georgia,White,"5,017","3,148",62.7,"3,060",61.0,89,2.8,2.3 – 3.3
+13,05,Georgia,"White, men","2,458","1,736",70.6,"1,688",68.7,48,2.8,2.1 – 3.5
+13,06,Georgia,"White, women","2,559","1,412",55.2,"1,372",53.6,41,2.9,2.1 – 3.7
+13,07,Georgia,Black or African American,"2,556","1,623",63.5,"1,525",59.7,98,6.0,4.9 – 7.1
+13,08,Georgia,"Black or African American, men","1,135",750,66.1,704,62.0,47,6.2,4.6 – 7.8
+13,09,Georgia,"Black or African American, women","1,422",873,61.4,821,57.8,51,5.9,4.5 – 7.3
+13,10,Georgia,Asian,393,252,64.2,246,62.7,6,2.4,1.0 – 3.8
+13,11,Georgia,"Asian, men",193,144,74.8,143,74.2,1,0.7,(2)-
+13,13,Georgia,Hispanic or Latino ethnicity,637,455,71.4,439,68.9,16,3.4,1.9 – 4.9
+13,14,Georgia,"Hispanic or Latino ethnicity, men",333,275,82.5,269,80.7,6,2.2,0.7 – 3.7
+13,15,Georgia,"Hispanic or Latino ethnicity, women",304,180,59.2,170,56.1,10,5.3,2.3 – 8.3
+13,16,Georgia,"Married men, spouse present","2,030","1,512",74.5,"1,483",73.1,29,1.9,1.3 – 2.5
+13,17,Georgia,"Married women, spouse present","1,935","1,124",58.1,"1,095",56.6,29,2.6,1.7 – 3.5
+13,18,Georgia,Women who maintain families,585,378,64.6,353,60.3,25,6.7,4.3 – 9.1
+13,19,Georgia,"Total, 16 to 19 years",581,181,31.2,155,26.6,27,14.8,9.6 – 20.0
+13,20,Georgia,"Total, 20 to 24 years",674,477,70.8,442,65.5,35,7.4,5.1 – 9.7
+13,21,Georgia,"Total, 25 to 34 years","1,421","1,159",81.6,"1,112",78.3,47,4.1,3.0 – 5.2
+13,22,Georgia,"Total, 35 to 44 years","1,332","1,104",82.9,"1,074",80.6,30,2.7,1.8 – 3.6
+13,23,Georgia,"Total, 45 to 54 years","1,420","1,145",80.6,"1,116",78.6,29,2.6,1.7 – 3.5
+13,24,Georgia,"Total, 55 to 64 years","1,251",781,62.4,761,60.8,20,2.6,1.5 – 3.7
+13,25,Georgia,"Total, 65 years and over","1,420",265,18.7,257,18.1,8,3.1,1.1 – 5.1
+13,27,Georgia,"Men, 20 to 24 years",306,231,75.4,211,69.0,20,8.5,5.0 – 12.0
+13,28,Georgia,"Men, 25 to 34 years",686,609,88.8,591,86.2,18,2.9,1.6 – 4.2
+13,29,Georgia,"Men, 35 to 44 years",651,582,89.5,567,87.1,16,2.7,1.5 – 3.9
+13,30,Georgia,"Men, 45 to 54 years",660,565,85.6,551,83.6,14,2.4,1.2 – 3.6
+13,31,Georgia,"Men, 55 to 64 years",605,436,72.1,428,70.7,8,1.9,0.7 – 3.1
+13,32,Georgia,"Men, 65 years and over",633,146,23.1,142,22.4,5,3.2,0.5 – 5.9
+13,34,Georgia,"Women, 20 to 24 years",368,246,66.9,231,62.6,16,6.4,3.5 – 9.3
+13,35,Georgia,"Women, 25 to 34 years",735,550,74.9,520,70.8,30,5.4,3.6 – 7.2
+13,36,Georgia,"Women, 35 to 44 years",681,522,76.6,508,74.5,14,2.7,1.4 – 4.0
+13,37,Georgia,"Women, 45 to 54 years",761,580,76.3,564,74.2,16,2.7,1.5 – 3.9
+13,38,Georgia,"Women, 55 to 64 years",646,345,53.4,333,51.6,12,3.4,1.6 – 5.2
+13,41,Georgia,"White, 20 to 24 years",400,284,71.0,274,68.4,11,3.8,1.7 – 5.9
+13,42,Georgia,"White, 25 to 34 years",809,677,83.7,658,81.3,19,2.8,1.6 – 4.0
+13,43,Georgia,"White, 35 to 44 years",776,650,83.8,632,81.5,17,2.7,1.5 – 3.9
+13,44,Georgia,"White, 45 to 54 years",880,716,81.3,701,79.6,15,2.1,1.1 – 3.1
+13,45,Georgia,"White, 55 to 64 years",816,519,63.5,507,62.1,11,2.2,1.0 – 3.4
+13,46,Georgia,"White, 65 years and over","1,022",195,19.0,189,18.5,5,2.6,0.5 – 4.7
+13,48,Georgia,"Black or African American, 20 to 24 years",231,165,71.3,142,61.6,22,13.6,8.6 – 18.6
+13,49,Georgia,"Black or African American, 25 to 34 years",521,423,81.2,398,76.5,25,5.9,3.8 – 8.0
+13,50,Georgia,"Black or African American, 35 to 44 years",433,355,82.0,343,79.2,12,3.4,1.7 – 5.1
+13,51,Georgia,"Black or African American, 45 to 54 years",440,341,77.7,329,74.8,13,3.7,1.9 – 5.5
+13,52,Georgia,"Black or African American, 55 to 64 years",373,217,58.0,208,55.8,8,3.8,1.5 – 6.1
+13,64,Georgia,"Hispanic or Latino ethnicity, 35 to 44 years",172,140,81.3,137,79.4,3,2.4,0.1 – 4.7
+15,01,Hawaii,Total,"1,092",678,62.1,661,60.5,18,2.6,2.1 – 3.1
+15,02,Hawaii,Men,527,350,66.3,339,64.4,10,3.0,2.2 – 3.8
+15,03,Hawaii,Women,565,329,58.2,321,56.9,7,2.2,1.5 – 2.9
+15,04,Hawaii,White,264,163,61.6,159,60.2,4,2.3,1.3 – 3.3
+15,05,Hawaii,"White, men",132,89,67.8,87,66.2,2,2.3,0.9 – 3.7
+15,06,Hawaii,"White, women",132,73,55.5,72,54.3,2,2.2,0.7 – 3.7
+15,10,Hawaii,Asian,478,291,60.8,286,60.0,4,1.5,1.0 – 2.0
+15,11,Hawaii,"Asian, men",220,140,63.8,138,62.8,2,1.5,0.8 – 2.2
+15,12,Hawaii,"Asian, women",258,150,58.3,148,57.5,2,1.4,0.8 – 2.0
+15,13,Hawaii,Hispanic or Latino ethnicity,94,60,63.9,58,61.4,2,3.9,1.9 – 5.9
+15,16,Hawaii,"Married men, spouse present",269,184,68.6,181,67.2,4,2.0,1.1 – 2.9
+15,17,Hawaii,"Married women, spouse present",279,168,60.4,166,59.4,3,1.6,0.8 – 2.4
+15,20,Hawaii,"Total, 20 to 24 years",78,55,71.2,53,68.7,2,3.5,1.4 – 5.6
+15,21,Hawaii,"Total, 25 to 34 years",164,132,80.7,129,78.8,3,2.4,1.3 – 3.5
+15,22,Hawaii,"Total, 35 to 44 years",180,149,82.4,145,80.4,4,2.5,1.4 – 3.6
+15,23,Hawaii,"Total, 45 to 54 years",175,140,80.2,137,78.3,3,2.4,1.3 – 3.5
+15,24,Hawaii,"Total, 55 to 64 years",178,125,70.6,124,69.7,2,1.2,0.4 – 2.0
+15,25,Hawaii,"Total, 65 years and over",251,55,21.9,53,21.3,1,2.5,0.7 – 4.3
+15,28,Hawaii,"Men, 25 to 34 years",79,70,88.8,69,86.6,2,2.5,0.9 – 4.1
+15,29,Hawaii,"Men, 35 to 44 years",84,73,86.7,71,83.9,2,3.3,1.5 – 5.1
+15,30,Hawaii,"Men, 45 to 54 years",88,75,85.2,73,82.6,2,3.0,1.3 – 4.7
+15,31,Hawaii,"Men, 55 to 64 years",87,62,71.6,61,70.5,1,1.5,0.2 – 2.8
+15,35,Hawaii,"Women, 25 to 34 years",84,62,73.2,60,71.4,1,2.4,0.7 – 4.1
+15,36,Hawaii,"Women, 35 to 44 years",96,76,78.7,74,77.3,1,1.7,0.4 – 3.0
+15,37,Hawaii,"Women, 45 to 54 years",86,65,75.2,64,73.8,1,1.8,0.4 – 3.2
+15,38,Hawaii,"Women, 55 to 64 years",91,63,69.7,63,69.0,1,1.0,(2)-
+15,56,Hawaii,"Asian, 25 to 34 years",50,44,88.2,43,87.2,1,1.1,0.1 – 2.1
+15,57,Hawaii,"Asian, 35 to 44 years",73,62,85.1,61,83.7,1,1.6,0.5 – 2.7
+15,58,Hawaii,"Asian, 45 to 54 years",80,67,83.8,67,83.2,(3)-,0.7,(2)-
+15,59,Hawaii,"Asian, 55 to 64 years",87,63,72.8,63,72.1,1,1.0,0.2 – 1.8
+16,01,Idaho,Total,"1,337",858,64.2,832,62.3,26,3.0,2.5 – 3.5
+16,02,Idaho,Men,663,473,71.4,460,69.4,13,2.8,2.1 – 3.5
+16,03,Idaho,Women,674,385,57.1,372,55.2,13,3.3,2.5 – 4.1
+16,04,Idaho,White,"1,261",809,64.2,785,62.3,24,3.0,2.4 – 3.6
+16,05,Idaho,"White, men",626,444,71.1,432,69.1,12,2.7,2.0 – 3.4
+16,06,Idaho,"White, women",635,365,57.4,352,55.5,12,3.3,2.4 – 4.2
+16,13,Idaho,Hispanic or Latino ethnicity,174,124,71.0,118,67.7,6,4.7,3.0 – 6.4
+16,14,Idaho,"Hispanic or Latino ethnicity, men",90,74,82.3,72,79.4,3,3.5,1.7 – 5.3
+16,15,Idaho,"Hispanic or Latino ethnicity, women",84,49,58.7,46,55.0,3,6.4,3.5 – 9.3
+16,16,Idaho,"Married men, spouse present",396,294,74.3,290,73.3,4,1.3,0.7 – 1.9
+16,17,Idaho,"Married women, spouse present",384,224,58.4,219,57.0,5,2.3,1.4 – 3.2
+16,18,Idaho,Women who maintain families,57,41,71.3,39,67.9,2,4.8,1.7 – 7.9
+16,19,Idaho,"Total, 16 to 19 years",94,41,43.1,36,38.1,5,11.5,6.7 – 16.3
+16,20,Idaho,"Total, 20 to 24 years",112,88,79.2,85,76.4,3,3.5,1.7 – 5.3
+16,21,Idaho,"Total, 25 to 34 years",231,189,81.9,186,80.3,4,2.0,1.1 – 2.9
+16,22,Idaho,"Total, 35 to 44 years",214,181,84.5,176,82.0,5,3.0,1.8 – 4.2
+16,23,Idaho,"Total, 45 to 54 years",198,164,82.5,159,80.3,4,2.6,1.5 – 3.7
+16,24,Idaho,"Total, 55 to 64 years",222,151,68.0,148,66.4,3,2.3,1.2 – 3.4
+16,25,Idaho,"Total, 65 years and over",265,44,16.6,43,16.2,1,2.8,0.5 – 5.1
+16,27,Idaho,"Men, 20 to 24 years",56,46,82.5,44,79.2,2,4.0,1.3 – 6.7
+16,28,Idaho,"Men, 25 to 34 years",118,108,91.4,106,89.5,2,2.0,0.8 – 3.2
+16,29,Idaho,"Men, 35 to 44 years",112,105,94.0,102,91.6,3,2.5,1.1 – 3.9
+16,30,Idaho,"Men, 45 to 54 years",98,86,88.1,85,86.4,2,1.9,0.6 – 3.2
+16,31,Idaho,"Men, 55 to 64 years",109,83,75.6,81,74.1,2,2.0,0.6 – 3.4
+16,34,Idaho,"Women, 20 to 24 years",56,42,75.9,41,73.6,1,3.0,0.6 – 5.4
+16,35,Idaho,"Women, 25 to 34 years",114,82,72.0,80,70.6,2,1.9,0.5 – 3.3
+16,36,Idaho,"Women, 35 to 44 years",103,76,74.3,73,71.6,3,3.6,1.6 – 5.6
+16,37,Idaho,"Women, 45 to 54 years",100,77,77.0,74,74.4,3,3.4,1.5 – 5.3
+16,38,Idaho,"Women, 55 to 64 years",113,68,60.6,66,59.0,2,2.6,0.8 – 4.4
+16,40,Idaho,"White, 16 to 19 years",88,39,44.3,34,39.1,5,11.7,6.8 – 16.6
+16,41,Idaho,"White, 20 to 24 years",104,83,79.3,80,76.4,3,3.6,1.7 – 5.5
+16,42,Idaho,"White, 25 to 34 years",213,176,82.4,172,80.9,3,1.9,1.0 – 2.8
+16,43,Idaho,"White, 35 to 44 years",201,171,85.0,166,82.6,5,2.8,1.6 – 4.0
+16,44,Idaho,"White, 45 to 54 years",186,155,83.1,151,80.9,4,2.7,1.5 – 3.9
+16,45,Idaho,"White, 55 to 64 years",212,144,68.1,141,66.5,3,2.4,1.2 – 3.6
+16,46,Idaho,"White, 65 years and over",256,42,16.3,41,15.9,1,2.4,0.2 – 4.6
+17,01,Illinois,Total,"10,035","6,471",64.5,"6,196",61.7,275,4.2,3.8 – 4.6
+17,02,Illinois,Men,"4,860","3,406",70.1,"3,251",66.9,155,4.6,4.0 – 5.2
+17,03,Illinois,Women,"5,175","3,065",59.2,"2,945",56.9,120,3.9,3.3 – 4.5
+17,04,Illinois,White,"7,782","5,081",65.3,"4,902",63.0,180,3.5,3.0 – 4.0
+17,05,Illinois,"White, men","3,816","2,717",71.2,"2,618",68.6,100,3.7,3.1 – 4.3
+17,06,Illinois,"White, women","3,966","2,364",59.6,"2,284",57.6,80,3.4,2.7 – 4.1
+17,07,Illinois,Black or African American,"1,401",845,60.3,772,55.1,73,8.7,6.9 – 10.5
+17,08,Illinois,"Black or African American, men",627,394,62.8,351,56.1,42,10.7,7.8 – 13.6
+17,09,Illinois,"Black or African American, women",775,452,58.3,421,54.3,31,6.8,4.6 – 9.0
+17,10,Illinois,Asian,636,393,61.8,379,59.6,14,3.6,2.2 – 5.0
+17,11,Illinois,"Asian, men",311,219,70.2,211,67.6,8,3.6,1.7 – 5.5
+17,12,Illinois,"Asian, women",325,174,53.7,168,51.8,6,3.6,1.4 – 5.8
+17,13,Illinois,Hispanic or Latino ethnicity,"1,573","1,081",68.7,"1,036",65.8,45,4.2,3.1 – 5.3
+17,14,Illinois,"Hispanic or Latino ethnicity, men",786,600,76.3,576,73.2,24,4.0,2.6 – 5.4
+17,15,Illinois,"Hispanic or Latino ethnicity, women",787,481,61.1,460,58.4,21,4.3,2.6 – 6.0
+17,16,Illinois,"Married men, spouse present","2,488","1,891",76.0,"1,846",74.2,45,2.4,1.8 – 3.0
+17,17,Illinois,"Married women, spouse present","2,455","1,475",60.1,"1,440",58.6,36,2.4,1.7 – 3.1
+17,18,Illinois,Women who maintain families,562,398,70.9,379,67.5,19,4.8,2.9 – 6.7
+17,19,Illinois,"Total, 16 to 19 years",682,238,34.9,204,29.8,35,14.5,10.2 – 18.8
+17,20,Illinois,"Total, 20 to 24 years",842,605,71.9,556,66.0,50,8.2,6.2 – 10.2
+17,21,Illinois,"Total, 25 to 34 years","1,691","1,420",84.0,"1,362",80.5,58,4.1,3.2 – 5.0
+17,22,Illinois,"Total, 35 to 44 years","1,615","1,335",82.6,"1,292",80.0,43,3.2,2.4 – 4.0
+17,23,Illinois,"Total, 45 to 54 years","1,710","1,396",81.6,"1,357",79.3,39,2.8,2.0 – 3.6
+17,24,Illinois,"Total, 55 to 64 years","1,614","1,109",68.7,"1,070",66.3,39,3.5,2.5 – 4.5
+17,25,Illinois,"Total, 65 years and over","1,880",368,19.6,356,19.0,12,3.2,1.6 – 4.8
+17,26,Illinois,"Men, 16 to 19 years",335,106,31.6,89,26.5,17,16.0,9.3 – 22.7
+17,27,Illinois,"Men, 20 to 24 years",411,283,68.9,256,62.2,28,9.7,6.5 – 12.9
+17,28,Illinois,"Men, 25 to 34 years",894,785,87.8,752,84.1,33,4.3,3.0 – 5.6
+17,29,Illinois,"Men, 35 to 44 years",771,704,91.3,681,88.3,23,3.3,2.1 – 4.5
+17,30,Illinois,"Men, 45 to 54 years",835,728,87.2,704,84.2,25,3.4,2.2 – 4.6
+17,31,Illinois,"Men, 55 to 64 years",803,597,74.4,575,71.6,23,3.8,2.4 – 5.2
+17,32,Illinois,"Men, 65 years and over",810,202,24.9,196,24.1,7,3.2,1.0 – 5.4
+17,33,Illinois,"Women, 16 to 19 years",347,132,38.1,115,33.0,18,13.4,7.9 – 18.9
+17,34,Illinois,"Women, 20 to 24 years",430,322,74.8,300,69.7,22,6.8,4.3 – 9.3
+17,35,Illinois,"Women, 25 to 34 years",797,635,79.6,610,76.5,25,3.9,2.5 – 5.3
+17,36,Illinois,"Women, 35 to 44 years",844,631,74.7,611,72.4,20,3.1,1.9 – 4.3
+17,37,Illinois,"Women, 45 to 54 years",875,667,76.2,653,74.6,14,2.1,1.1 – 3.1
+17,38,Illinois,"Women, 55 to 64 years",811,512,63.1,495,61.1,16,3.2,1.8 – 4.6
+17,39,Illinois,"Women, 65 years and over","1,070",166,15.5,161,15.0,5,3.1,0.7 – 5.5
+17,40,Illinois,"White, 16 to 19 years",475,171,36.1,153,32.2,19,10.8,6.5 – 15.1
+17,41,Illinois,"White, 20 to 24 years",625,474,75.8,441,70.6,32,6.8,4.7 – 8.9
+17,42,Illinois,"White, 25 to 34 years","1,279","1,097",85.8,"1,060",82.9,38,3.4,2.4 – 4.4
+17,43,Illinois,"White, 35 to 44 years","1,209",996,82.4,972,80.4,24,2.4,1.6 – 3.2
+17,44,Illinois,"White, 45 to 54 years","1,324","1,108",83.7,"1,079",81.5,28,2.6,1.8 – 3.4
+17,45,Illinois,"White, 55 to 64 years","1,316",923,70.1,893,67.9,30,3.2,2.2 – 4.2
+17,46,Illinois,"White, 65 years and over","1,555",312,20.1,304,19.5,8,2.7,1.1 – 4.3
+17,49,Illinois,"Black or African American, 25 to 34 years",243,195,80.2,182,74.8,13,6.7,3.3 – 10.1
+17,50,Illinois,"Black or African American, 35 to 44 years",233,195,83.8,181,78.0,14,6.9,3.5 – 10.3
+17,51,Illinois,"Black or African American, 45 to 54 years",242,168,69.5,160,66.3,8,4.6,1.6 – 7.6
+17,52,Illinois,"Black or African American, 55 to 64 years",214,131,61.2,123,57.5,8,6.1,2.2 – 10.0
+17,62,Illinois,"Hispanic or Latino ethnicity, 20 to 24 years",179,139,78.0,130,72.8,9,6.7,2.8 – 10.6
+17,63,Illinois,"Hispanic or Latino ethnicity, 25 to 34 years",342,280,81.9,271,79.5,8,3.0,1.2 – 4.8
+17,64,Illinois,"Hispanic or Latino ethnicity, 35 to 44 years",324,263,81.1,254,78.4,9,3.3,1.3 – 5.3
+17,65,Illinois,"Hispanic or Latino ethnicity, 45 to 54 years",296,223,75.2,214,72.5,8,3.7,1.4 – 6.0
+18,01,Indiana,Total,"5,208","3,407",65.4,"3,289",63.1,119,3.5,3.0 – 4.0
+18,02,Indiana,Men,"2,531","1,834",72.5,"1,773",70.1,62,3.4,2.7 – 4.1
+18,03,Indiana,Women,"2,677","1,573",58.8,"1,516",56.6,57,3.6,2.8 – 4.4
+18,04,Indiana,White,"4,496","2,935",65.3,"2,844",63.3,91,3.1,2.6 – 3.6
+18,05,Indiana,"White, men","2,201","1,599",72.6,"1,551",70.4,48,3.0,2.3 – 3.7
+18,06,Indiana,"White, women","2,295","1,337",58.2,"1,293",56.4,43,3.2,2.4 – 4.0
+18,07,Indiana,Black or African American,491,320,65.2,301,61.3,19,6.1,3.9 – 8.3
+18,08,Indiana,"Black or African American, men",225,157,69.9,149,66.2,8,5.2,2.2 – 8.2
+18,09,Indiana,"Black or African American, women",266,163,61.3,152,57.0,11,6.9,3.6 – 10.2
+18,13,Indiana,Hispanic or Latino ethnicity,337,251,74.6,243,72.1,8,3.2,1.5 – 4.9
+18,14,Indiana,"Hispanic or Latino ethnicity, men",185,160,86.3,155,83.7,5,3.0,0.9 – 5.1
+18,16,Indiana,"Married men, spouse present","1,358","1,025",75.5,"1,008",74.3,17,1.6,1.0 – 2.2
+18,17,Indiana,"Married women, spouse present","1,337",803,60.1,788,59.0,15,1.9,1.1 – 2.7
+18,18,Indiana,Women who maintain families,286,191,66.8,181,63.3,10,5.3,2.5 – 8.1
+18,19,Indiana,"Total, 16 to 19 years",361,156,43.2,138,38.2,18,11.4,6.9 – 15.9
+18,20,Indiana,"Total, 20 to 24 years",450,363,80.7,337,75.0,26,7.0,4.7 – 9.3
+18,21,Indiana,"Total, 25 to 34 years",854,715,83.7,696,81.4,19,2.7,1.7 – 3.7
+18,22,Indiana,"Total, 35 to 44 years",828,714,86.2,693,83.7,21,3.0,1.9 – 4.1
+18,23,Indiana,"Total, 45 to 54 years",803,657,81.8,640,79.6,17,2.6,1.6 – 3.6
+18,24,Indiana,"Total, 55 to 64 years",911,614,67.4,602,66.1,12,2.0,1.0 – 3.0
+18,25,Indiana,"Total, 65 years and over","1,000",188,18.8,183,18.3,6,3.0,0.9 – 5.1
+18,27,Indiana,"Men, 20 to 24 years",223,187,84.1,176,79.0,11,6.1,3.1 – 9.1
+18,28,Indiana,"Men, 25 to 34 years",420,386,92.0,377,89.6,10,2.6,1.2 – 4.0
+18,29,Indiana,"Men, 35 to 44 years",412,386,93.7,376,91.3,10,2.6,1.2 – 4.0
+18,30,Indiana,"Men, 45 to 54 years",383,343,89.5,335,87.6,8,2.2,0.9 – 3.5
+18,31,Indiana,"Men, 55 to 64 years",453,335,74.0,328,72.5,7,2.0,0.7 – 3.3
+18,32,Indiana,"Men, 65 years and over",451,116,25.8,112,24.9,4,3.2,0.5 – 5.9
+18,34,Indiana,"Women, 20 to 24 years",227,176,77.4,161,71.1,14,8.1,4.5 – 11.7
+18,35,Indiana,"Women, 25 to 34 years",434,329,75.7,319,73.5,9,2.8,1.3 – 4.3
+18,36,Indiana,"Women, 35 to 44 years",416,328,78.8,317,76.1,11,3.4,1.7 – 5.1
+18,37,Indiana,"Women, 45 to 54 years",420,314,74.7,304,72.4,10,3.1,1.4 – 4.8
+18,38,Indiana,"Women, 55 to 64 years",458,279,60.9,274,59.8,5,1.9,0.5 – 3.3
+18,40,Indiana,"White, 16 to 19 years",289,131,45.1,116,40.2,14,10.9,6.1 – 15.7
+18,41,Indiana,"White, 20 to 24 years",373,303,81.3,287,77.0,16,5.3,3.1 – 7.5
+18,42,Indiana,"White, 25 to 34 years",725,613,84.6,597,82.4,16,2.6,1.5 – 3.7
+18,43,Indiana,"White, 35 to 44 years",709,608,85.8,592,83.6,16,2.7,1.6 – 3.8
+18,44,Indiana,"White, 45 to 54 years",701,571,81.5,557,79.5,14,2.4,1.3 – 3.5
+18,45,Indiana,"White, 55 to 64 years",793,539,67.9,529,66.7,10,1.8,0.8 – 2.8
+18,46,Indiana,"White, 65 years and over",906,170,18.8,165,18.2,5,3.1,0.9 – 5.3
+19,01,Iowa,Total,"2,465","1,689",68.5,"1,646",66.8,43,2.5,2.0 – 3.0
+19,02,Iowa,Men,"1,216",898,73.8,875,72.0,23,2.5,1.8 – 3.2
+19,03,Iowa,Women,"1,249",791,63.4,771,61.8,20,2.5,1.7 – 3.3
+19,04,Iowa,White,"2,263","1,549",68.5,"1,514",66.9,35,2.2,1.7 – 2.7
+19,05,Iowa,"White, men","1,108",819,73.9,800,72.2,19,2.3,1.6 – 3.0
+19,06,Iowa,"White, women","1,155",730,63.3,714,61.9,16,2.2,1.4 – 3.0
+19,13,Iowa,Hispanic or Latino ethnicity,159,123,77.8,117,74.0,6,4.9,2.0 – 7.8
+19,16,Iowa,"Married men, spouse present",664,504,75.9,498,75.0,6,1.3,0.6 – 2.0
+19,17,Iowa,"Married women, spouse present",633,426,67.3,420,66.3,6,1.5,0.7 – 2.3
+19,20,Iowa,"Total, 20 to 24 years",216,170,78.5,161,74.6,8,5.0,2.6 – 7.4
+19,21,Iowa,"Total, 25 to 34 years",418,367,87.8,362,86.5,6,1.5,0.6 – 2.4
+19,22,Iowa,"Total, 35 to 44 years",362,316,87.4,309,85.5,7,2.1,1.0 – 3.2
+19,23,Iowa,"Total, 45 to 54 years",371,333,89.7,325,87.6,8,2.4,1.2 – 3.6
+19,24,Iowa,"Total, 55 to 64 years",395,291,73.7,285,72.1,6,2.2,1.0 – 3.4
+19,25,Iowa,"Total, 65 years and over",535,121,22.7,120,22.3,2,1.5,(2)-
+19,28,Iowa,"Men, 25 to 34 years",211,197,93.2,194,91.9,3,1.4,0.2 – 2.6
+19,29,Iowa,"Men, 35 to 44 years",182,172,94.1,169,92.7,3,1.5,0.2 – 2.8
+19,30,Iowa,"Men, 45 to 54 years",184,172,93.4,168,91.1,4,2.4,0.8 – 4.0
+19,31,Iowa,"Men, 55 to 64 years",198,159,80.1,155,78.2,4,2.3,0.7 – 3.9
+19,35,Iowa,"Women, 25 to 34 years",207,171,82.4,168,81.0,3,1.7,0.3 – 3.1
+19,36,Iowa,"Women, 35 to 44 years",179,144,80.5,140,78.2,4,2.9,1.0 – 4.8
+19,37,Iowa,"Women, 45 to 54 years",187,161,86.1,157,84.0,4,2.4,0.7 – 4.1
+19,38,Iowa,"Women, 55 to 64 years",197,133,67.2,130,65.9,3,2.0,0.3 – 3.7
+19,41,Iowa,"White, 20 to 24 years",191,154,80.4,148,77.1,6,4.2,1.9 – 6.5
+19,42,Iowa,"White, 25 to 34 years",364,319,87.9,315,86.7,4,1.3,0.4 – 2.2
+19,43,Iowa,"White, 35 to 44 years",329,289,87.8,284,86.3,5,1.8,0.7 – 2.9
+19,44,Iowa,"White, 45 to 54 years",346,314,90.9,307,88.9,7,2.2,1.1 – 3.3
+19,45,Iowa,"White, 55 to 64 years",373,278,74.4,272,72.8,6,2.1,0.9 – 3.3
+19,46,Iowa,"White, 65 years and over",516,115,22.2,113,22.0,2,1.3,(2)-
+20,01,Kansas,Total,"2,222","1,482",66.7,"1,431",64.4,51,3.4,2.8 – 4.0
+20,02,Kansas,Men,"1,088",794,73.0,768,70.6,26,3.3,2.5 – 4.1
+20,03,Kansas,Women,"1,133",687,60.6,663,58.5,24,3.6,2.7 – 4.5
+20,04,Kansas,White,"1,928","1,287",66.7,"1,249",64.8,38,2.9,2.3 – 3.5
+20,05,Kansas,"White, men",943,691,73.3,672,71.2,20,2.8,2.0 – 3.6
+20,06,Kansas,"White, women",985,596,60.5,578,58.6,18,3.1,2.2 – 4.0
+20,07,Kansas,Black or African American,130,78,60.0,71,54.5,7,9.1,5.5 – 12.7
+20,13,Kansas,Hispanic or Latino ethnicity,234,173,73.9,166,71.0,7,3.9,2.0 – 5.8
+20,14,Kansas,"Hispanic or Latino ethnicity, men",123,101,82.1,98,79.7,3,2.9,0.8 – 5.0
+20,15,Kansas,"Hispanic or Latino ethnicity, women",111,72,64.8,68,61.2,4,5.4,2.0 – 8.8
+20,16,Kansas,"Married men, spouse present",580,441,76.1,433,74.7,8,1.9,1.1 – 2.7
+20,17,Kansas,"Married women, spouse present",582,361,62.0,356,61.1,5,1.4,0.7 – 2.1
+20,18,Kansas,Women who maintain families,131,95,72.6,89,67.7,6,6.7,3.5 – 9.9
+20,19,Kansas,"Total, 16 to 19 years",147,70,47.7,65,44.0,5,7.7,3.7 – 11.7
+20,20,Kansas,"Total, 20 to 24 years",196,153,78.0,144,73.4,9,5.9,3.6 – 8.2
+20,21,Kansas,"Total, 25 to 34 years",372,321,86.3,310,83.3,11,3.4,2.2 – 4.6
+20,22,Kansas,"Total, 35 to 44 years",361,300,83.3,289,80.2,11,3.7,2.4 – 5.0
+20,23,Kansas,"Total, 45 to 54 years",326,274,84.1,270,82.7,5,1.7,0.8 – 2.6
+20,24,Kansas,"Total, 55 to 64 years",364,254,69.8,247,68.0,7,2.6,1.4 – 3.8
+20,25,Kansas,"Total, 65 years and over",457,109,24.0,106,23.3,3,2.7,0.8 – 4.6
+20,27,Kansas,"Men, 20 to 24 years",93,75,80.1,70,75.3,5,6.0,2.6 – 9.4
+20,28,Kansas,"Men, 25 to 34 years",186,175,94.3,170,91.4,5,3.1,1.5 – 4.7
+20,29,Kansas,"Men, 35 to 44 years",184,163,88.6,156,85.0,7,4.0,2.1 – 5.9
+20,30,Kansas,"Men, 45 to 54 years",164,148,90.1,146,88.7,2,1.5,0.3 – 2.7
+20,31,Kansas,"Men, 55 to 64 years",174,135,77.5,131,75.2,4,3.0,1.2 – 4.8
+20,32,Kansas,"Men, 65 years and over",209,63,30.1,62,29.5,1,2.0,(2)-
+20,34,Kansas,"Women, 20 to 24 years",102,78,76.2,73,71.7,5,5.8,2.5 – 9.1
+20,35,Kansas,"Women, 25 to 34 years",186,145,78.3,140,75.3,6,3.8,1.9 – 5.7
+20,36,Kansas,"Women, 35 to 44 years",177,137,77.7,133,75.1,5,3.3,1.4 – 5.2
+20,37,Kansas,"Women, 45 to 54 years",162,127,78.1,124,76.6,3,2.0,0.5 – 3.5
+20,38,Kansas,"Women, 55 to 64 years",190,119,62.8,117,61.4,3,2.1,0.5 – 3.7
+20,41,Kansas,"White, 20 to 24 years",165,129,78.2,123,74.9,5,4.2,2.0 – 6.4
+20,42,Kansas,"White, 25 to 34 years",293,255,87.0,247,84.0,9,3.5,2.1 – 4.9
+20,43,Kansas,"White, 35 to 44 years",315,263,83.4,255,80.8,8,3.1,1.8 – 4.4
+20,44,Kansas,"White, 45 to 54 years",287,247,86.0,243,84.5,4,1.7,0.7 – 2.7
+20,45,Kansas,"White, 55 to 64 years",326,233,71.5,228,69.9,5,2.3,1.1 – 3.5
+20,46,Kansas,"White, 65 years and over",416,100,24.2,99,23.7,2,1.9,0.3 – 3.5
+21,01,Kentucky,Total,"3,490","2,065",59.2,"1,975",56.6,90,4.4,3.7 – 5.1
+21,02,Kentucky,Men,"1,687","1,092",64.7,"1,043",61.8,49,4.4,3.4 – 5.4
+21,03,Kentucky,Women,"1,803",974,54.0,932,51.7,42,4.3,3.2 – 5.4
+21,04,Kentucky,White,"3,145","1,833",58.3,"1,758",55.9,74,4.1,3.4 – 4.8
+21,05,Kentucky,"White, men","1,523",979,64.3,938,61.6,40,4.1,3.1 – 5.1
+21,06,Kentucky,"White, women","1,622",854,52.6,820,50.6,34,4.0,2.9 – 5.1
+21,07,Kentucky,Black or African American,263,176,66.9,164,62.5,11,6.5,3.9 – 9.1
+21,08,Kentucky,"Black or African American, men",124,84,67.9,78,63.1,6,7.1,3.2 – 11.0
+21,09,Kentucky,"Black or African American, women",139,91,65.9,86,62.0,5,6.0,2.5 – 9.5
+21,13,Kentucky,Hispanic or Latino ethnicity,122,88,71.9,83,68.0,5,5.5,1.9 – 9.1
+21,16,Kentucky,"Married men, spouse present",912,618,67.8,607,66.6,11,1.8,0.9 – 2.7
+21,17,Kentucky,"Married women, spouse present",923,507,54.9,496,53.8,11,2.1,1.1 – 3.1
+21,18,Kentucky,Women who maintain families,203,123,60.7,112,55.2,11,8.9,4.7 – 13.1
+21,19,Kentucky,"Total, 16 to 19 years",235,99,42.4,87,37.0,13,12.7,7.1 – 18.3
+21,20,Kentucky,"Total, 20 to 24 years",288,218,75.7,197,68.4,21,9.6,6.3 – 12.9
+21,21,Kentucky,"Total, 25 to 34 years",554,463,83.5,443,80.0,20,4.2,2.7 – 5.7
+21,22,Kentucky,"Total, 35 to 44 years",543,432,79.5,418,76.9,14,3.3,1.9 – 4.7
+21,23,Kentucky,"Total, 45 to 54 years",548,412,75.1,401,73.2,10,2.5,1.3 – 3.7
+21,24,Kentucky,"Total, 55 to 64 years",579,331,57.1,322,55.6,9,2.7,1.3 – 4.1
+21,25,Kentucky,"Total, 65 years and over",742,109,14.8,106,14.3,4,3.3,0.5 – 6.1
+21,27,Kentucky,"Men, 20 to 24 years",139,111,79.6,99,71.6,11,10.1,5.3 – 14.9
+21,28,Kentucky,"Men, 25 to 34 years",280,254,90.7,245,87.4,9,3.6,1.7 – 5.5
+21,29,Kentucky,"Men, 35 to 44 years",265,224,84.3,215,81.1,8,3.8,1.7 – 5.9
+21,30,Kentucky,"Men, 45 to 54 years",275,216,78.4,209,76.0,7,3.1,1.2 – 5.0
+21,31,Kentucky,"Men, 55 to 64 years",278,176,63.2,171,61.7,4,2.5,0.6 – 4.4
+21,34,Kentucky,"Women, 20 to 24 years",149,108,72.1,98,65.5,10,9.1,4.5 – 13.7
+21,35,Kentucky,"Women, 25 to 34 years",274,209,76.2,198,72.4,10,5.0,2.5 – 7.5
+21,36,Kentucky,"Women, 35 to 44 years",278,209,75.0,203,72.9,6,2.8,1.0 – 4.6
+21,37,Kentucky,"Women, 45 to 54 years",273,196,71.8,193,70.4,4,1.9,0.3 – 3.5
+21,38,Kentucky,"Women, 55 to 64 years",301,155,51.5,151,50.1,4,2.9,0.7 – 5.1
+21,40,Kentucky,"White, 16 to 19 years",207,90,43.6,79,38.1,11,12.6,6.7 – 18.5
+21,41,Kentucky,"White, 20 to 24 years",252,191,75.7,174,69.2,17,8.7,5.3 – 12.1
+21,42,Kentucky,"White, 25 to 34 years",489,408,83.5,393,80.5,15,3.7,2.2 – 5.2
+21,43,Kentucky,"White, 35 to 44 years",471,376,79.8,364,77.4,11,3.1,1.7 – 4.5
+21,44,Kentucky,"White, 45 to 54 years",493,364,73.7,355,71.9,9,2.4,1.1 – 3.7
+21,45,Kentucky,"White, 55 to 64 years",526,299,56.9,292,55.4,8,2.6,1.1 – 4.1
+21,46,Kentucky,"White, 65 years and over",708,105,14.8,101,14.3,4,3.5,0.6 – 6.4
+22,01,Louisiana,Total,"3,582","2,103",58.7,"2,000",55.8,103,4.9,4.3 – 5.5
+22,02,Louisiana,Men,"1,699","1,095",64.4,"1,045",61.5,50,4.6,3.8 – 5.4
+22,03,Louisiana,Women,"1,883","1,008",53.6,955,50.7,53,5.3,4.4 – 6.2
+22,04,Louisiana,White,"2,308","1,373",59.5,"1,325",57.4,48,3.5,2.9 – 4.1
+22,05,Louisiana,"White, men","1,126",750,66.6,726,64.5,24,3.1,2.3 – 3.9
+22,06,Louisiana,"White, women","1,183",623,52.7,599,50.7,24,3.9,2.9 – 4.9
+22,07,Louisiana,Black or African American,"1,113",635,57.0,586,52.6,49,7.7,6.4 – 9.0
+22,08,Louisiana,"Black or African American, men",496,292,58.9,269,54.3,23,7.9,6.0 – 9.8
+22,09,Louisiana,"Black or African American, women",617,342,55.5,317,51.3,26,7.5,5.8 – 9.2
+22,10,Louisiana,Asian,73,45,61.9,44,59.9,1,3.1,0.7 – 5.5
+22,13,Louisiana,Hispanic or Latino ethnicity,213,142,66.8,135,63.6,7,4.8,2.7 – 6.9
+22,14,Louisiana,"Hispanic or Latino ethnicity, men",111,90,80.6,86,77.5,4,3.9,1.5 – 6.3
+22,15,Louisiana,"Hispanic or Latino ethnicity, women",102,53,51.7,49,48.5,3,6.2,2.3 – 10.1
+22,16,Louisiana,"Married men, spouse present",829,577,69.6,568,68.5,9,1.6,1.0 – 2.2
+22,17,Louisiana,"Married women, spouse present",795,439,55.3,427,53.7,13,2.9,1.9 – 3.9
+22,18,Louisiana,Women who maintain families,305,195,64.1,180,59.1,15,7.7,5.3 – 10.1
+22,19,Louisiana,"Total, 16 to 19 years",247,71,28.6,59,23.7,12,17.1,11.1 – 23.1
+22,20,Louisiana,"Total, 20 to 24 years",276,194,70.3,174,63.1,20,10.2,7.4 – 13.0
+22,21,Louisiana,"Total, 25 to 34 years",638,504,79.0,480,75.3,24,4.8,3.6 – 6.0
+22,22,Louisiana,"Total, 35 to 44 years",579,474,81.7,454,78.4,19,4.1,3.0 – 5.2
+22,23,Louisiana,"Total, 45 to 54 years",552,418,75.8,406,73.5,13,3.0,2.0 – 4.0
+22,24,Louisiana,"Total, 55 to 64 years",580,320,55.2,308,53.1,12,3.8,2.5 – 5.1
+22,25,Louisiana,"Total, 65 years and over",710,123,17.3,120,16.8,3,2.5,0.8 – 4.2
+22,27,Louisiana,"Men, 20 to 24 years",127,97,76.4,86,67.8,11,11.3,7.1 – 15.5
+22,28,Louisiana,"Men, 25 to 34 years",301,263,87.5,251,83.7,11,4.3,2.7 – 5.9
+22,29,Louisiana,"Men, 35 to 44 years",286,255,88.9,245,85.4,10,4.0,2.5 – 5.5
+22,30,Louisiana,"Men, 45 to 54 years",269,217,80.4,211,78.4,6,2.6,1.3 – 3.9
+22,31,Louisiana,"Men, 55 to 64 years",280,168,59.8,162,57.9,5,3.2,1.5 – 4.9
+22,32,Louisiana,"Men, 65 years and over",304,60,19.6,59,19.4,1,1.2,(2)-
+22,34,Louisiana,"Women, 20 to 24 years",149,97,65.0,88,59.0,9,9.2,5.4 – 13.0
+22,35,Louisiana,"Women, 25 to 34 years",337,241,71.5,229,67.8,13,5.2,3.4 – 7.0
+22,36,Louisiana,"Women, 35 to 44 years",293,219,74.7,210,71.6,9,4.2,2.5 – 5.9
+22,37,Louisiana,"Women, 45 to 54 years",282,202,71.4,194,68.9,7,3.5,1.9 – 5.1
+22,38,Louisiana,"Women, 55 to 64 years",299,153,51.0,146,48.7,7,4.5,2.4 – 6.6
+22,39,Louisiana,"Women, 65 years and over",406,63,15.5,61,14.9,2,3.7,0.7 – 6.7
+22,41,Louisiana,"White, 20 to 24 years",164,118,72.3,110,67.2,8,7.2,4.2 – 10.2
+22,42,Louisiana,"White, 25 to 34 years",391,316,80.8,306,78.3,10,3.2,2.0 – 4.4
+22,43,Louisiana,"White, 35 to 44 years",347,289,83.3,281,81.1,8,2.7,1.5 – 3.9
+22,44,Louisiana,"White, 45 to 54 years",374,292,78.1,285,76.3,7,2.3,1.2 – 3.4
+22,45,Louisiana,"White, 55 to 64 years",388,225,58.0,218,56.1,7,3.3,1.8 – 4.8
+22,46,Louisiana,"White, 65 years and over",510,92,18.0,90,17.6,2,1.7,(2)-
+22,48,Louisiana,"Black or African American, 20 to 24 years",96,65,67.5,55,57.2,10,15.3,9.7 – 20.9
+22,49,Louisiana,"Black or African American, 25 to 34 years",211,161,76.3,149,70.7,12,7.4,4.9 – 9.9
+22,50,Louisiana,"Black or African American, 35 to 44 years",198,157,79.5,147,74.2,11,6.7,4.3 – 9.1
+22,51,Louisiana,"Black or African American, 45 to 54 years",157,109,69.7,104,66.0,6,5.3,2.8 – 7.8
+22,52,Louisiana,"Black or African American, 55 to 64 years",175,89,50.8,85,48.2,5,5.2,2.4 – 8.0
+23,01,Maine,Total,"1,104",696,63.1,672,60.9,24,3.5,2.8 – 4.2
+23,02,Maine,Men,535,359,67.2,346,64.6,14,3.8,2.8 – 4.8
+23,03,Maine,Women,569,337,59.2,326,57.3,11,3.2,2.2 – 4.2
+23,04,Maine,White,"1,044",659,63.1,638,61.1,21,3.2,2.5 – 3.9
+23,05,Maine,"White, men",504,340,67.5,328,65.0,12,3.6,2.6 – 4.6
+23,06,Maine,"White, women",540,319,59.1,310,57.4,9,2.8,1.8 – 3.8
+23,16,Maine,"Married men, spouse present",281,193,68.7,189,67.3,4,2.0,1.0 – 3.0
+23,17,Maine,"Married women, spouse present",278,174,62.4,172,61.7,2,1.2,0.4 – 2.0
+23,20,Maine,"Total, 20 to 24 years",77,59,76.3,55,70.6,4,7.4,3.8 – 11.0
+23,21,Maine,"Total, 25 to 34 years",162,136,84.3,133,82.1,4,2.6,1.2 – 4.0
+23,22,Maine,"Total, 35 to 44 years",143,122,85.6,120,83.6,3,2.3,0.9 – 3.7
+23,23,Maine,"Total, 45 to 54 years",179,150,83.7,147,82.1,3,2.0,0.8 – 3.2
+23,24,Maine,"Total, 55 to 64 years",213,149,69.9,146,68.5,3,2.0,0.8 – 3.2
+23,25,Maine,"Total, 65 years and over",265,47,17.8,45,17.1,2,3.7,0.9 – 6.5
+23,28,Maine,"Men, 25 to 34 years",80,71,89.7,69,87.0,2,3.0,0.9 – 5.1
+23,29,Maine,"Men, 35 to 44 years",70,64,91.4,62,89.0,2,2.6,0.6 – 4.6
+23,30,Maine,"Men, 45 to 54 years",89,76,85.4,75,83.7,2,2.0,0.4 – 3.6
+23,31,Maine,"Men, 55 to 64 years",102,75,73.3,72,71.0,2,3.1,1.0 – 5.2
+23,35,Maine,"Women, 25 to 34 years",82,65,79.0,63,77.3,1,2.2,0.4 – 4.0
+23,36,Maine,"Women, 35 to 44 years",73,59,80.1,58,78.6,1,1.9,0.1 – 3.7
+23,37,Maine,"Women, 45 to 54 years",90,74,82.0,72,80.4,1,1.9,0.3 – 3.5
+23,38,Maine,"Women, 55 to 64 years",111,74,66.9,74,66.2,1,0.9,(2)-
+23,41,Maine,"White, 20 to 24 years",67,53,78.8,50,74.3,3,5.7,2.4 – 9.0
+23,42,Maine,"White, 25 to 34 years",150,127,84.5,124,82.3,3,2.6,1.2 – 4.0
+23,43,Maine,"White, 35 to 44 years",136,117,85.9,114,84.0,3,2.3,0.9 – 3.7
+23,44,Maine,"White, 45 to 54 years",168,142,84.5,139,82.9,3,1.8,0.7 – 2.9
+23,45,Maine,"White, 55 to 64 years",204,144,70.7,141,69.3,3,1.9,0.8 – 3.0
+23,46,Maine,"White, 65 years and over",260,47,18.0,45,17.3,2,3.5,0.7 – 6.3
+24,01,Maryland,Total,"4,755","3,184",66.9,"3,051",64.2,132,4.2,3.6 – 4.8
+24,02,Maryland,Men,"2,249","1,648",73.3,"1,580",70.2,69,4.2,3.3 – 5.1
+24,03,Maryland,Women,"2,506","1,535",61.3,"1,471",58.7,64,4.2,3.3 – 5.1
+24,04,Maryland,White,"2,862","1,925",67.3,"1,866",65.2,59,3.1,2.4 – 3.8
+24,05,Maryland,"White, men","1,393","1,035",74.3,"1,004",72.1,31,3.0,2.1 – 3.9
+24,06,Maryland,"White, women","1,469",890,60.6,862,58.6,28,3.2,2.2 – 4.2
+24,07,Maryland,Black or African American,"1,444",965,66.8,906,62.8,58,6.0,4.6 – 7.4
+24,08,Maryland,"Black or African American, men",646,454,70.2,427,66.0,27,5.9,3.9 – 7.9
+24,09,Maryland,"Black or African American, women",798,511,64.0,480,60.1,31,6.2,4.3 – 8.1
+24,10,Maryland,Asian,307,196,63.7,188,61.3,7,3.8,1.7 – 5.9
+24,11,Maryland,"Asian, men",138,104,75.5,99,71.7,5,5.0,1.7 – 8.3
+24,13,Maryland,Hispanic or Latino ethnicity,457,351,76.8,333,72.8,18,5.2,3.3 – 7.1
+24,14,Maryland,"Hispanic or Latino ethnicity, men",240,212,88.0,202,84.2,9,4.4,2.1 – 6.7
+24,15,Maryland,"Hispanic or Latino ethnicity, women",217,140,64.4,131,60.2,9,6.6,3.2 – 10.0
+24,16,Maryland,"Married men, spouse present","1,163",915,78.7,894,76.9,21,2.3,1.5 – 3.1
+24,17,Maryland,"Married women, spouse present","1,152",740,64.3,722,62.7,18,2.4,1.4 – 3.4
+24,18,Maryland,Women who maintain families,300,216,71.9,202,67.5,13,6.1,3.2 – 9.0
+24,19,Maryland,"Total, 16 to 19 years",297,103,34.6,86,29.1,16,15.9,9.2 – 22.6
+24,20,Maryland,"Total, 20 to 24 years",393,270,68.8,249,63.4,22,7.9,5.0 – 10.8
+24,21,Maryland,"Total, 25 to 34 years",836,715,85.6,690,82.6,25,3.5,2.3 – 4.7
+24,22,Maryland,"Total, 35 to 44 years",706,620,87.8,597,84.5,23,3.8,2.5 – 5.1
+24,23,Maryland,"Total, 45 to 54 years",806,675,83.8,656,81.4,19,2.8,1.7 – 3.9
+24,24,Maryland,"Total, 55 to 64 years",804,579,72.0,563,70.0,16,2.7,1.5 – 3.9
+24,25,Maryland,"Total, 65 years and over",914,221,24.2,210,23.0,11,4.9,2.4 – 7.4
+24,27,Maryland,"Men, 20 to 24 years",192,133,69.3,122,63.7,11,8.1,3.9 – 12.3
+24,28,Maryland,"Men, 25 to 34 years",408,367,89.8,354,86.7,12,3.4,1.8 – 5.0
+24,29,Maryland,"Men, 35 to 44 years",343,322,93.9,313,91.3,9,2.8,1.2 – 4.4
+24,30,Maryland,"Men, 45 to 54 years",370,339,91.5,328,88.7,11,3.2,1.5 – 4.9
+24,31,Maryland,"Men, 55 to 64 years",392,313,79.9,302,77.0,11,3.6,1.8 – 5.4
+24,32,Maryland,"Men, 65 years and over",397,120,30.3,114,28.8,6,4.9,1.5 – 8.3
+24,34,Maryland,"Women, 20 to 24 years",201,138,68.4,127,63.1,11,7.8,3.7 – 11.9
+24,35,Maryland,"Women, 25 to 34 years",427,349,81.5,336,78.5,13,3.7,1.9 – 5.5
+24,36,Maryland,"Women, 35 to 44 years",364,298,82.0,284,78.0,14,4.8,2.6 – 7.0
+24,37,Maryland,"Women, 45 to 54 years",436,336,77.1,328,75.2,8,2.5,1.0 – 4.0
+24,38,Maryland,"Women, 55 to 64 years",412,266,64.5,261,63.4,5,1.7,0.3 – 3.1
+24,39,Maryland,"Women, 65 years and over",517,101,19.6,96,18.6,5,4.9,1.2 – 8.6
+24,41,Maryland,"White, 20 to 24 years",211,153,72.6,142,67.2,11,7.4,3.7 – 11.1
+24,42,Maryland,"White, 25 to 34 years",465,396,85.0,385,82.7,11,2.8,1.4 – 4.2
+24,43,Maryland,"White, 35 to 44 years",409,359,87.8,352,86.1,7,2.0,0.7 – 3.3
+24,44,Maryland,"White, 45 to 54 years",469,400,85.2,393,83.7,7,1.8,0.6 – 3.0
+24,45,Maryland,"White, 55 to 64 years",542,404,74.6,395,72.8,9,2.3,1.0 – 3.6
+24,46,Maryland,"White, 65 years and over",614,153,24.9,146,23.8,7,4.3,1.4 – 7.2
+24,49,Maryland,"Black or African American, 25 to 34 years",266,231,87.1,222,83.5,10,4.1,1.8 – 6.4
+24,50,Maryland,"Black or African American, 35 to 44 years",209,186,89.1,172,82.4,14,7.5,4.0 – 11.0
+24,51,Maryland,"Black or African American, 45 to 54 years",270,230,85.1,220,81.3,10,4.5,2.0 – 7.0
+24,52,Maryland,"Black or African American, 55 to 64 years",204,133,65.1,127,62.1,6,4.5,1.3 – 7.7
+25,01,Massachusetts,Total,"5,630","3,823",67.9,"3,693",65.6,130,3.4,3.0 – 3.8
+25,02,Massachusetts,Men,"2,702","1,957",72.4,"1,881",69.6,76,3.9,3.3 – 4.5
+25,03,Massachusetts,Women,"2,928","1,866",63.7,"1,812",61.9,54,2.9,2.3 – 3.5
+25,04,Massachusetts,White,"4,588","3,112",67.8,"3,013",65.7,99,3.2,2.7 – 3.7
+25,05,Massachusetts,"White, men","2,187","1,597",73.0,"1,535",70.2,62,3.9,3.2 – 4.6
+25,06,Massachusetts,"White, women","2,401","1,515",63.1,"1,478",61.5,38,2.5,1.9 – 3.1
+25,07,Massachusetts,Black or African American,469,315,67.2,299,63.8,16,5.0,3.2 – 6.8
+25,08,Massachusetts,"Black or African American, men",222,150,67.7,142,63.8,9,5.7,2.9 – 8.5
+25,09,Massachusetts,"Black or African American, women",247,165,66.8,158,63.9,7,4.4,2.1 – 6.7
+25,10,Massachusetts,Asian,398,265,66.6,255,64.0,10,3.9,2.3 – 5.5
+25,11,Massachusetts,"Asian, men",194,135,69.6,132,67.9,3,2.5,0.7 – 4.3
+25,12,Massachusetts,"Asian, women",204,130,63.7,123,60.3,7,5.3,2.6 – 8.0
+25,13,Massachusetts,Hispanic or Latino ethnicity,571,399,69.8,377,66.0,22,5.4,3.6 – 7.2
+25,14,Massachusetts,"Hispanic or Latino ethnicity, men",280,207,73.9,194,69.3,13,6.2,3.5 – 8.9
+25,15,Massachusetts,"Hispanic or Latino ethnicity, women",292,192,65.8,183,62.8,9,4.6,2.2 – 7.0
+25,16,Massachusetts,"Married men, spouse present","1,350","1,038",76.8,"1,008",74.6,30,2.9,2.1 – 3.7
+25,17,Massachusetts,"Married women, spouse present","1,311",902,68.8,884,67.4,18,2.0,1.3 – 2.7
+25,18,Massachusetts,Women who maintain families,309,207,67.0,199,64.5,8,3.7,1.8 – 5.6
+25,19,Massachusetts,"Total, 16 to 19 years",313,110,35.1,96,30.6,14,12.7,7.8 – 17.6
+25,20,Massachusetts,"Total, 20 to 24 years",474,336,71.0,324,68.4,12,3.7,2.2 – 5.2
+25,21,Massachusetts,"Total, 25 to 34 years","1,053",904,85.9,875,83.1,29,3.2,2.3 – 4.1
+25,22,Massachusetts,"Total, 35 to 44 years",832,713,85.7,695,83.5,18,2.6,1.7 – 3.5
+25,23,Massachusetts,"Total, 45 to 54 years",948,798,84.2,774,81.7,23,2.9,2.0 – 3.8
+25,24,Massachusetts,"Total, 55 to 64 years",977,711,72.9,689,70.6,22,3.2,2.2 – 4.2
+25,25,Massachusetts,"Total, 65 years and over","1,033",250,24.2,240,23.2,11,4.2,2.3 – 6.1
+25,27,Massachusetts,"Men, 20 to 24 years",239,170,70.9,162,67.6,8,4.6,2.2 – 7.0
+25,28,Massachusetts,"Men, 25 to 34 years",523,470,89.9,452,86.5,18,3.8,2.5 – 5.1
+25,29,Massachusetts,"Men, 35 to 44 years",403,369,91.6,359,89.1,10,2.8,1.5 – 4.1
+25,30,Massachusetts,"Men, 45 to 54 years",459,407,88.6,395,86.0,12,3.0,1.7 – 4.3
+25,31,Massachusetts,"Men, 55 to 64 years",472,358,75.8,343,72.6,15,4.2,2.6 – 5.8
+25,32,Massachusetts,"Men, 65 years and over",447,131,29.3,125,27.9,6,4.9,2.1 – 7.7
+25,34,Massachusetts,"Women, 20 to 24 years",234,167,71.1,162,69.2,4,2.7,0.8 – 4.6
+25,35,Massachusetts,"Women, 25 to 34 years",530,434,81.9,423,79.7,12,2.7,1.6 – 3.8
+25,36,Massachusetts,"Women, 35 to 44 years",429,344,80.2,336,78.3,8,2.4,1.2 – 3.6
+25,37,Massachusetts,"Women, 45 to 54 years",489,391,80.0,380,77.7,11,2.9,1.6 – 4.2
+25,38,Massachusetts,"Women, 55 to 64 years",504,354,70.1,346,68.6,8,2.2,1.0 – 3.4
+25,39,Massachusetts,"Women, 65 years and over",586,119,20.3,115,19.6,4,3.4,1.0 – 5.8
+25,40,Massachusetts,"White, 16 to 19 years",237,92,38.8,82,34.7,10,10.5,5.6 – 15.4
+25,41,Massachusetts,"White, 20 to 24 years",354,268,75.7,258,72.9,10,3.7,2.0 – 5.4
+25,42,Massachusetts,"White, 25 to 34 years",818,712,87.0,692,84.6,20,2.7,1.8 – 3.6
+25,43,Massachusetts,"White, 35 to 44 years",634,544,85.7,533,84.0,11,2.0,1.1 – 2.9
+25,44,Massachusetts,"White, 45 to 54 years",756,641,84.7,621,82.1,20,3.2,2.2 – 4.2
+25,45,Massachusetts,"White, 55 to 64 years",852,627,73.6,608,71.4,19,3.0,2.0 – 4.0
+25,46,Massachusetts,"White, 65 years and over",936,229,24.5,219,23.4,10,4.3,2.3 – 6.3
+25,63,Massachusetts,"Hispanic or Latino ethnicity, 25 to 34 years",142,116,81.5,112,78.4,4,3.9,1.0 – 6.8
+25,64,Massachusetts,"Hispanic or Latino ethnicity, 35 to 44 years",117,97,83.2,92,78.9,5,5.2,1.6 – 8.8
+26,01,Michigan,Total,"7,986","4,905",61.4,"4,702",58.9,203,4.1,3.6 – 4.6
+26,02,Michigan,Men,"3,877","2,598",67.0,"2,481",64.0,117,4.5,3.8 – 5.2
+26,03,Michigan,Women,"4,108","2,307",56.2,"2,220",54.1,87,3.8,3.1 – 4.5
+26,04,Michigan,White,"6,438","3,985",61.9,"3,834",59.6,151,3.8,3.3 – 4.3
+26,05,Michigan,"White, men","3,155","2,141",67.9,"2,054",65.1,87,4.1,3.4 – 4.8
+26,06,Michigan,"White, women","3,283","1,844",56.2,"1,780",54.2,64,3.5,2.8 – 4.2
+26,07,Michigan,Black or African American,"1,063",610,57.4,571,53.7,39,6.4,4.6 – 8.2
+26,08,Michigan,"Black or African American, men",479,287,59.9,266,55.5,21,7.5,4.6 – 10.4
+26,09,Michigan,"Black or African American, women",583,322,55.3,305,52.3,17,5.4,3.1 – 7.7
+26,10,Michigan,Asian,335,215,64.2,209,62.5,6,2.6,1.0 – 4.2
+26,11,Michigan,"Asian, men",169,123,73.0,120,71.0,3,2.8,0.6 – 5.0
+26,13,Michigan,Hispanic or Latino ethnicity,320,196,61.1,186,58.1,10,4.9,2.5 – 7.3
+26,14,Michigan,"Hispanic or Latino ethnicity, men",179,131,73.2,124,69.5,7,5.0,2.0 – 8.0
+26,16,Michigan,"Married men, spouse present","1,937","1,352",69.8,"1,328",68.6,24,1.8,1.2 – 2.4
+26,17,Michigan,"Married women, spouse present","1,963","1,130",57.6,"1,104",56.2,27,2.4,1.6 – 3.2
+26,18,Michigan,Women who maintain families,519,339,65.2,317,61.1,21,6.3,4.0 – 8.6
+26,19,Michigan,"Total, 16 to 19 years",558,219,39.4,194,34.8,26,11.7,7.8 – 15.6
+26,20,Michigan,"Total, 20 to 24 years",635,481,75.8,443,69.7,38,8.0,5.8 – 10.2
+26,21,Michigan,"Total, 25 to 34 years","1,298","1,072",82.6,"1,027",79.1,45,4.2,3.2 – 5.2
+26,22,Michigan,"Total, 35 to 44 years","1,140",928,81.4,901,79.0,27,2.9,2.0 – 3.8
+26,23,Michigan,"Total, 45 to 54 years","1,380","1,128",81.7,"1,097",79.5,31,2.7,1.9 – 3.5
+26,24,Michigan,"Total, 55 to 64 years","1,332",801,60.2,776,58.3,25,3.2,2.1 – 4.3
+26,25,Michigan,"Total, 65 years and over","1,643",276,16.8,265,16.1,11,4.1,2.0 – 6.2
+26,26,Michigan,"Men, 16 to 19 years",287,108,37.8,90,31.5,18,16.6,10.0 – 23.2
+26,27,Michigan,"Men, 20 to 24 years",337,259,76.7,234,69.2,25,9.7,6.5 – 12.9
+26,28,Michigan,"Men, 25 to 34 years",626,553,88.3,529,84.6,23,4.2,2.7 – 5.7
+26,29,Michigan,"Men, 35 to 44 years",566,502,88.8,489,86.4,14,2.7,1.5 – 3.9
+26,30,Michigan,"Men, 45 to 54 years",676,596,88.0,578,85.4,18,3.0,1.8 – 4.2
+26,31,Michigan,"Men, 55 to 64 years",648,430,66.4,416,64.2,15,3.4,1.9 – 4.9
+26,32,Michigan,"Men, 65 years and over",738,150,20.4,146,19.8,4,2.8,0.5 – 5.1
+26,33,Michigan,"Women, 16 to 19 years",271,111,41.0,103,38.2,8,6.9,2.7 – 11.1
+26,34,Michigan,"Women, 20 to 24 years",298,223,74.7,209,70.3,13,5.9,3.2 – 8.6
+26,35,Michigan,"Women, 25 to 34 years",672,519,77.2,497,74.0,22,4.2,2.7 – 5.7
+26,36,Michigan,"Women, 35 to 44 years",574,425,74.1,412,71.8,13,3.1,1.7 – 4.5
+26,37,Michigan,"Women, 45 to 54 years",703,532,75.7,519,73.8,13,2.5,1.3 – 3.7
+26,38,Michigan,"Women, 55 to 64 years",684,371,54.3,361,52.7,11,2.9,1.4 – 4.4
+26,39,Michigan,"Women, 65 years and over",905,126,13.9,119,13.1,7,5.6,2.1 – 9.1
+26,40,Michigan,"White, 16 to 19 years",411,174,42.2,155,37.7,18,10.6,6.5 – 14.7
+26,41,Michigan,"White, 20 to 24 years",480,377,78.5,350,72.9,27,7.1,4.8 – 9.4
+26,42,Michigan,"White, 25 to 34 years",990,836,84.4,804,81.2,32,3.9,2.8 – 5.0
+26,43,Michigan,"White, 35 to 44 years",877,718,81.9,697,79.4,22,3.0,1.9 – 4.1
+26,44,Michigan,"White, 45 to 54 years","1,130",939,83.1,916,81.1,23,2.5,1.6 – 3.4
+26,45,Michigan,"White, 55 to 64 years","1,116",696,62.4,675,60.5,21,3.0,1.9 – 4.1
+26,46,Michigan,"White, 65 years and over","1,433",245,17.1,237,16.5,8,3.3,1.4 – 5.2
+26,49,Michigan,"Black or African American, 25 to 34 years",192,143,74.5,134,69.8,9,6.3,2.6 – 10.0
+26,50,Michigan,"Black or African American, 35 to 44 years",164,132,80.8,128,78.3,4,3.1,0.4 – 5.8
+26,51,Michigan,"Black or African American, 45 to 54 years",182,133,73.3,127,69.7,7,4.9,1.5 – 8.3
+27,01,Minnesota,Total,"4,395","3,062",69.7,"2,975",67.7,87,2.8,2.3 – 3.3
+27,02,Minnesota,Men,"2,171","1,589",73.2,"1,535",70.7,54,3.4,2.7 – 4.1
+27,03,Minnesota,Women,"2,224","1,473",66.3,"1,441",64.8,33,2.2,1.6 – 2.8
+27,04,Minnesota,White,"3,783","2,654",70.2,"2,587",68.4,67,2.5,2.0 – 3.0
+27,05,Minnesota,"White, men","1,874","1,381",73.7,"1,338",71.4,43,3.1,2.3 – 3.9
+27,06,Minnesota,"White, women","1,909","1,273",66.7,"1,248",65.4,25,1.9,1.3 – 2.5
+27,07,Minnesota,Black or African American,255,181,70.9,171,66.8,11,5.8,3.0 – 8.6
+27,10,Minnesota,Asian,215,138,64.2,132,61.6,6,4.1,1.1 – 7.1
+27,13,Minnesota,Hispanic or Latino ethnicity,200,144,72.0,138,69.0,6,4.2,1.3 – 7.1
+27,16,Minnesota,"Married men, spouse present","1,147",891,77.7,870,75.8,22,2.4,1.6 – 3.2
+27,17,Minnesota,"Married women, spouse present","1,179",831,70.5,821,69.6,10,1.2,0.6 – 1.8
+27,18,Minnesota,Women who maintain families,195,152,78.0,146,75.0,6,3.9,1.3 – 6.5
+27,19,Minnesota,"Total, 16 to 19 years",299,152,50.7,143,48.0,8,5.4,2.4 – 8.4
+27,20,Minnesota,"Total, 20 to 24 years",322,237,73.7,226,70.2,11,4.8,2.5 – 7.1
+27,21,Minnesota,"Total, 25 to 34 years",777,681,87.7,658,84.6,24,3.5,2.3 – 4.7
+27,22,Minnesota,"Total, 35 to 44 years",698,614,88.0,597,85.5,17,2.8,1.7 – 3.9
+27,23,Minnesota,"Total, 45 to 54 years",694,608,87.5,599,86.2,9,1.5,0.7 – 2.3
+27,24,Minnesota,"Total, 55 to 64 years",765,568,74.3,555,72.6,13,2.4,1.3 – 3.5
+27,25,Minnesota,"Total, 65 years and over",840,202,24.1,198,23.6,4,2.1,0.5 – 3.7
+27,28,Minnesota,"Men, 25 to 34 years",397,367,92.5,350,88.3,17,4.6,2.8 – 6.4
+27,29,Minnesota,"Men, 35 to 44 years",339,316,93.1,304,89.7,12,3.6,1.9 – 5.3
+27,30,Minnesota,"Men, 45 to 54 years",339,314,92.6,308,91.1,5,1.7,0.5 – 2.9
+27,31,Minnesota,"Men, 55 to 64 years",372,282,75.9,274,73.7,8,2.9,1.3 – 4.5
+27,35,Minnesota,"Women, 25 to 34 years",380,314,82.5,307,80.8,7,2.2,0.8 – 3.6
+27,36,Minnesota,"Women, 35 to 44 years",358,298,83.2,292,81.5,6,2.0,0.7 – 3.3
+27,37,Minnesota,"Women, 45 to 54 years",355,294,82.7,290,81.7,4,1.3,0.2 – 2.4
+27,38,Minnesota,"Women, 55 to 64 years",393,286,72.8,281,71.4,5,1.8,0.5 – 3.1
+27,41,Minnesota,"White, 20 to 24 years",260,196,75.5,188,72.5,8,4.0,1.7 – 6.3
+27,42,Minnesota,"White, 25 to 34 years",598,535,89.4,520,87.0,15,2.7,1.6 – 3.8
+27,43,Minnesota,"White, 35 to 44 years",605,533,88.1,518,85.6,15,2.8,1.6 – 4.0
+27,44,Minnesota,"White, 45 to 54 years",610,541,88.7,533,87.4,8,1.5,0.7 – 2.3
+27,45,Minnesota,"White, 55 to 64 years",693,528,76.2,516,74.4,12,2.3,1.2 – 3.4
+27,46,Minnesota,"White, 65 years and over",792,194,24.5,190,24.0,4,2.1,0.4 – 3.8
+28,01,Mississippi,Total,"2,293","1,277",55.7,"1,215",53.0,62,4.8,4.1 – 5.5
+28,02,Mississippi,Men,"1,078",657,61.0,627,58.1,31,4.7,3.7 – 5.7
+28,03,Mississippi,Women,"1,215",620,51.0,588,48.4,31,5.0,3.9 – 6.1
+28,04,Mississippi,White,"1,400",782,55.8,756,54.0,25,3.3,2.5 – 4.1
+28,05,Mississippi,"White, men",682,431,63.2,417,61.2,13,3.1,2.1 – 4.1
+28,06,Mississippi,"White, women",719,351,48.8,339,47.1,12,3.4,2.2 – 4.6
+28,07,Mississippi,Black or African American,835,467,55.9,432,51.8,35,7.5,6.0 – 9.0
+28,08,Mississippi,"Black or African American, men",372,213,57.3,196,52.7,17,8.1,5.7 – 10.5
+28,09,Mississippi,"Black or African American, women",463,254,54.8,236,51.0,18,6.9,4.9 – 8.9
+28,16,Mississippi,"Married men, spouse present",530,362,68.2,354,66.7,8,2.2,1.3 – 3.1
+28,17,Mississippi,"Married women, spouse present",526,283,53.8,276,52.5,7,2.3,1.2 – 3.4
+28,18,Mississippi,Women who maintain families,205,122,59.4,115,56.0,7,5.8,3.2 – 8.4
+28,19,Mississippi,"Total, 16 to 19 years",178,45,25.4,36,20.3,9,20.1,12.3 – 27.9
+28,20,Mississippi,"Total, 20 to 24 years",176,113,64.2,99,56.2,14,12.3,8.4 – 16.2
+28,21,Mississippi,"Total, 25 to 34 years",371,299,80.6,281,75.8,18,5.9,4.2 – 7.6
+28,22,Mississippi,"Total, 35 to 44 years",366,289,79.1,282,77.0,8,2.7,1.6 – 3.8
+28,23,Mississippi,"Total, 45 to 54 years",349,260,74.6,256,73.4,4,1.7,0.7 – 2.7
+28,24,Mississippi,"Total, 55 to 64 years",393,205,52.1,198,50.3,7,3.3,1.8 – 4.8
+28,25,Mississippi,"Total, 65 years and over",460,65,14.2,63,13.7,2,3.6,0.8 – 6.4
+28,27,Mississippi,"Men, 20 to 24 years",88,61,69.5,53,60.0,8,13.6,8.1 – 19.1
+28,28,Mississippi,"Men, 25 to 34 years",165,145,87.8,137,83.1,8,5.4,3.1 – 7.7
+28,29,Mississippi,"Men, 35 to 44 years",176,149,84.7,145,82.5,4,2.5,1.0 – 4.0
+28,30,Mississippi,"Men, 45 to 54 years",165,135,81.7,133,80.3,2,1.7,0.4 – 3.0
+28,31,Mississippi,"Men, 55 to 64 years",179,108,60.3,105,58.5,3,3.0,1.0 – 5.0
+28,34,Mississippi,"Women, 20 to 24 years",88,52,58.8,46,52.5,6,10.8,5.4 – 16.2
+28,35,Mississippi,"Women, 25 to 34 years",205,154,74.8,144,70.0,10,6.4,4.0 – 8.8
+28,36,Mississippi,"Women, 35 to 44 years",190,140,73.9,137,71.8,4,2.8,1.1 – 4.5
+28,37,Mississippi,"Women, 45 to 54 years",184,125,68.2,123,67.1,2,1.7,0.3 – 3.1
+28,38,Mississippi,"Women, 55 to 64 years",214,96,45.1,93,43.5,4,3.7,1.4 – 6.0
+28,41,Mississippi,"White, 20 to 24 years",96,64,66.1,58,60.1,6,9.1,4.6 – 13.6
+28,42,Mississippi,"White, 25 to 34 years",213,172,80.9,165,77.7,7,4.0,2.2 – 5.8
+28,43,Mississippi,"White, 35 to 44 years",213,169,79.3,165,77.7,3,2.0,0.7 – 3.3
+28,44,Mississippi,"White, 45 to 54 years",212,161,76.3,159,75.2,2,1.5,0.3 – 2.7
+28,45,Mississippi,"White, 55 to 64 years",252,145,57.4,140,55.7,4,3.0,1.3 – 4.7
+28,46,Mississippi,"White, 65 years and over",326,47,14.4,46,14.1,1,1.9,(2)-
+28,48,Mississippi,"Black or African American, 20 to 24 years",73,47,64.5,39,53.7,8,16.8,9.5 – 24.1
+28,49,Mississippi,"Black or African American, 25 to 34 years",150,120,80.0,110,73.2,10,8.5,5.2 – 11.8
+28,50,Mississippi,"Black or African American, 35 to 44 years",146,115,78.5,111,75.6,4,3.7,1.5 – 5.9
+28,51,Mississippi,"Black or African American, 45 to 54 years",129,92,71.8,90,70.3,2,2.0,0.2 – 3.8
+28,52,Mississippi,"Black or African American, 55 to 64 years",134,58,43.0,55,41.1,2,4.3,0.9 – 7.7
+29,01,Missouri,Total,"4,796","3,059",63.8,"2,960",61.7,99,3.2,2.6 – 3.8
+29,02,Missouri,Men,"2,313","1,571",67.9,"1,509",65.2,62,4.0,3.1 – 4.9
+29,03,Missouri,Women,"2,482","1,488",60.0,"1,451",58.5,37,2.5,1.8 – 3.2
+29,04,Missouri,White,"4,046","2,591",64.0,"2,518",62.2,73,2.8,2.2 – 3.4
+29,05,Missouri,"White, men","1,967","1,345",68.4,"1,303",66.2,42,3.2,2.3 – 4.1
+29,06,Missouri,"White, women","2,079","1,245",59.9,"1,215",58.5,30,2.4,1.6 – 3.2
+29,07,Missouri,Black or African American,526,342,64.9,321,61.1,20,5.9,3.7 – 8.1
+29,08,Missouri,"Black or African American, men",237,158,66.7,143,60.5,15,9.3,5.2 – 13.4
+29,09,Missouri,"Black or African American, women",289,184,63.5,178,61.6,5,2.9,0.8 – 5.0
+29,16,Missouri,"Married men, spouse present","1,248",895,71.7,878,70.3,17,1.9,1.1 – 2.7
+29,17,Missouri,"Married women, spouse present","1,236",763,61.7,751,60.7,12,1.6,0.8 – 2.4
+29,18,Missouri,Women who maintain families,262,171,65.1,167,63.8,4,2.1,0.1 – 4.1
+29,20,Missouri,"Total, 20 to 24 years",346,267,77.2,251,72.4,17,6.2,3.5 – 8.9
+29,21,Missouri,"Total, 25 to 34 years",794,679,85.5,656,82.6,23,3.4,2.1 – 4.7
+29,22,Missouri,"Total, 35 to 44 years",787,669,85.1,648,82.4,21,3.1,1.9 – 4.3
+29,23,Missouri,"Total, 45 to 54 years",682,561,82.3,550,80.6,11,2.0,0.9 – 3.1
+29,24,Missouri,"Total, 55 to 64 years",831,540,64.9,527,63.4,13,2.3,1.1 – 3.5
+29,25,Missouri,"Total, 65 years and over","1,045",226,21.6,222,21.3,4,1.7,0.2 – 3.2
+29,28,Missouri,"Men, 25 to 34 years",394,358,90.9,344,87.3,14,4.0,2.1 – 5.9
+29,29,Missouri,"Men, 35 to 44 years",383,355,92.6,340,88.7,15,4.2,2.3 – 6.1
+29,30,Missouri,"Men, 45 to 54 years",321,280,87.1,273,85.1,6,2.3,0.7 – 3.9
+29,31,Missouri,"Men, 55 to 64 years",396,277,70.0,267,67.6,10,3.5,1.5 – 5.5
+29,34,Missouri,"Women, 20 to 24 years",180,149,82.7,142,78.5,7,5.0,1.7 – 8.3
+29,35,Missouri,"Women, 25 to 34 years",400,321,80.2,312,77.9,9,2.8,1.1 – 4.5
+29,36,Missouri,"Women, 35 to 44 years",403,314,77.9,308,76.4,6,2.0,0.6 – 3.4
+29,37,Missouri,"Women, 45 to 54 years",361,281,78.0,277,76.7,5,1.7,0.3 – 3.1
+29,38,Missouri,"Women, 55 to 64 years",436,263,60.3,260,59.6,3,1.1,(2)-
+29,41,Missouri,"White, 20 to 24 years",281,220,78.3,207,73.9,12,5.5,2.7 – 8.3
+29,42,Missouri,"White, 25 to 34 years",611,531,87.0,515,84.4,16,3.0,1.7 – 4.3
+29,43,Missouri,"White, 35 to 44 years",663,566,85.4,551,83.1,15,2.7,1.5 – 3.9
+29,44,Missouri,"White, 45 to 54 years",583,489,83.8,480,82.4,8,1.7,0.7 – 2.7
+29,45,Missouri,"White, 55 to 64 years",723,481,66.5,471,65.1,10,2.1,0.9 – 3.3
+29,46,Missouri,"White, 65 years and over",935,204,21.8,200,21.4,3,1.6,(2)-
+30,01,Montana,Total,843,525,62.3,506,60.0,19,3.7,3.1 – 4.3
+30,02,Montana,Men,420,280,66.7,268,63.8,12,4.4,3.4 – 5.4
+30,03,Montana,Women,423,245,58.0,238,56.2,7,2.9,2.1 – 3.7
+30,04,Montana,White,787,493,62.7,476,60.5,17,3.5,2.9 – 4.1
+30,05,Montana,"White, men",394,264,67.1,254,64.4,11,4.0,3.1 – 4.9
+30,06,Montana,"White, women",393,229,58.2,222,56.6,7,2.9,2.0 – 3.8
+30,16,Montana,"Married men, spouse present",225,154,68.1,149,66.1,5,3.0,1.9 – 4.1
+30,17,Montana,"Married women, spouse present",224,132,58.8,129,57.6,3,2.1,1.1 – 3.1
+30,18,Montana,Women who maintain families,34,24,70.3,23,68.3,1,2.9,0.2 – 5.6
+30,20,Montana,"Total, 20 to 24 years",66,51,77.6,48,73.4,3,5.5,3.0 – 8.0
+30,21,Montana,"Total, 25 to 34 years",138,119,86.4,114,82.6,5,4.4,2.9 – 5.9
+30,22,Montana,"Total, 35 to 44 years",127,105,82.5,102,80.4,3,2.6,1.4 – 3.8
+30,23,Montana,"Total, 45 to 54 years",109,88,80.4,85,77.8,3,3.2,1.7 – 4.7
+30,24,Montana,"Total, 55 to 64 years",154,101,65.9,99,64.3,3,2.5,1.3 – 3.7
+30,25,Montana,"Total, 65 years and over",203,41,20.3,40,19.6,1,3.3,1.1 – 5.5
+30,27,Montana,"Men, 20 to 24 years",32,26,79.8,24,75.1,2,5.9,2.2 – 9.6
+30,28,Montana,"Men, 25 to 34 years",70,64,92.2,61,87.2,3,5.4,3.2 – 7.6
+30,29,Montana,"Men, 35 to 44 years",66,59,89.8,58,87.2,2,2.9,1.2 – 4.6
+30,30,Montana,"Men, 45 to 54 years",55,46,83.6,44,80.3,2,3.9,1.7 – 6.1
+30,31,Montana,"Men, 55 to 64 years",75,52,69.2,51,67.1,2,3.0,1.2 – 4.8
+30,34,Montana,"Women, 20 to 24 years",33,25,75.5,24,71.6,1,5.1,1.6 – 8.6
+30,35,Montana,"Women, 25 to 34 years",68,54,80.3,53,77.7,2,3.2,1.3 – 5.1
+30,36,Montana,"Women, 35 to 44 years",61,46,74.5,45,72.9,1,2.2,0.5 – 3.9
+30,37,Montana,"Women, 45 to 54 years",54,41,77.2,40,75.2,1,2.6,0.7 – 4.5
+30,38,Montana,"Women, 55 to 64 years",78,49,62.7,48,61.5,1,1.9,0.4 – 3.4
+30,41,Montana,"White, 20 to 24 years",58,47,80.0,44,75.6,3,5.5,2.9 – 8.1
+30,42,Montana,"White, 25 to 34 years",126,110,87.2,106,83.7,4,4.0,2.5 – 5.5
+30,43,Montana,"White, 35 to 44 years",116,98,84.4,95,82.5,2,2.2,1.1 – 3.3
+30,44,Montana,"White, 45 to 54 years",102,83,81.5,81,79.1,2,2.9,1.5 – 4.3
+30,45,Montana,"White, 55 to 64 years",147,97,66.1,95,64.5,2,2.5,1.3 – 3.7
+30,46,Montana,"White, 65 years and over",197,40,20.1,38,19.4,1,3.4,1.2 – 5.6
+31,01,Nebraska,Total,"1,474","1,030",69.8,"1,001",67.9,29,2.8,2.2 – 3.4
+31,02,Nebraska,Men,726,546,75.1,529,72.9,16,3.0,2.2 – 3.8
+31,03,Nebraska,Women,748,484,64.7,471,63.0,13,2.6,1.8 – 3.4
+31,04,Nebraska,White,"1,333",939,70.4,916,68.7,23,2.4,1.8 – 3.0
+31,05,Nebraska,"White, men",661,499,75.5,485,73.5,13,2.6,1.8 – 3.4
+31,06,Nebraska,"White, women",672,441,65.5,431,64.1,10,2.2,1.4 – 3.0
+31,13,Nebraska,Hispanic or Latino ethnicity,168,126,74.8,119,70.5,7,5.7,3.1 – 8.3
+31,14,Nebraska,"Hispanic or Latino ethnicity, men",90,75,83.3,71,78.8,4,5.4,2.2 – 8.6
+31,16,Nebraska,"Married men, spouse present",393,305,77.8,300,76.5,5,1.7,0.9 – 2.5
+31,17,Nebraska,"Married women, spouse present",399,274,68.6,269,67.4,5,1.8,0.9 – 2.7
+31,20,Nebraska,"Total, 20 to 24 years",142,112,79.5,107,75.8,5,4.6,2.3 – 6.9
+31,21,Nebraska,"Total, 25 to 34 years",255,226,88.7,218,85.7,8,3.4,2.0 – 4.8
+31,22,Nebraska,"Total, 35 to 44 years",229,201,87.6,196,85.7,5,2.3,1.1 – 3.5
+31,23,Nebraska,"Total, 45 to 54 years",216,189,87.5,186,86.2,3,1.5,0.5 – 2.5
+31,24,Nebraska,"Total, 55 to 64 years",237,176,74.4,173,73.2,3,1.6,0.5 – 2.7
+31,25,Nebraska,"Total, 65 years and over",300,77,25.6,75,25.1,2,2.1,0.2 – 4.0
+31,28,Nebraska,"Men, 25 to 34 years",130,123,94.1,118,90.4,5,3.9,1.9 – 5.9
+31,29,Nebraska,"Men, 35 to 44 years",119,110,92.2,107,89.7,3,2.7,0.9 – 4.5
+31,30,Nebraska,"Men, 45 to 54 years",113,102,89.8,100,88.4,2,1.6,0.2 – 3.0
+31,31,Nebraska,"Men, 55 to 64 years",119,91,76.6,90,75.4,2,1.7,0.1 – 3.3
+31,35,Nebraska,"Women, 25 to 34 years",124,103,83.1,100,80.8,3,2.8,0.9 – 4.7
+31,36,Nebraska,"Women, 35 to 44 years",110,91,82.7,90,81.3,2,1.7,0.2 – 3.2
+31,37,Nebraska,"Women, 45 to 54 years",103,87,84.9,86,83.8,1,1.3,(2)-
+31,38,Nebraska,"Women, 55 to 64 years",118,85,72.2,84,71.1,1,1.6,(2)-
+31,41,Nebraska,"White, 20 to 24 years",124,103,83.2,99,80.1,4,3.8,1.6 – 6.0
+31,42,Nebraska,"White, 25 to 34 years",222,199,89.6,193,87.1,6,2.8,1.5 – 4.1
+31,43,Nebraska,"White, 35 to 44 years",205,180,88.0,178,86.6,3,1.5,0.5 – 2.5
+31,44,Nebraska,"White, 45 to 54 years",197,175,88.5,172,87.2,3,1.5,0.5 – 2.5
+31,45,Nebraska,"White, 55 to 64 years",219,166,75.8,164,74.7,2,1.5,0.4 – 2.6
+31,46,Nebraska,"White, 65 years and over",281,72,25.7,71,25.2,1,2.0,0.1 – 3.9
+32,01,Nevada,Total,"2,382","1,510",63.4,"1,442",60.5,68,4.5,3.8 – 5.2
+32,02,Nevada,Men,"1,177",819,69.6,783,66.6,36,4.3,3.4 – 5.2
+32,03,Nevada,Women,"1,205",691,57.4,659,54.7,33,4.7,3.7 – 5.7
+32,04,Nevada,White,"1,748","1,078",61.6,"1,031",59.0,47,4.3,3.5 – 5.1
+32,05,Nevada,"White, men",881,598,67.9,571,64.8,27,4.6,3.5 – 5.7
+32,06,Nevada,"White, women",867,479,55.3,460,53.1,19,4.0,2.9 – 5.1
+32,07,Nevada,Black or African American,221,144,65.2,135,61.0,9,6.6,4.2 – 9.0
+32,08,Nevada,"Black or African American, men",104,74,71.1,70,67.6,4,4.8,1.9 – 7.7
+32,09,Nevada,"Black or African American, women",117,70,60.1,65,55.1,6,8.4,4.5 – 12.3
+32,10,Nevada,Asian,203,130,64.1,126,62.1,4,3.0,1.4 – 4.6
+32,11,Nevada,"Asian, men",88,61,69.0,60,68.4,(3)-,0.8,(2)-
+32,12,Nevada,"Asian, women",115,70,60.3,66,57.3,3,5.0,2.2 – 7.8
+32,13,Nevada,Hispanic or Latino ethnicity,635,454,71.4,430,67.7,23,5.1,3.8 – 6.4
+32,14,Nevada,"Hispanic or Latino ethnicity, men",319,260,81.5,248,77.6,12,4.8,3.1 – 6.5
+32,15,Nevada,"Hispanic or Latino ethnicity, women",316,194,61.2,183,57.8,11,5.6,3.4 – 7.8
+32,16,Nevada,"Married men, spouse present",554,394,71.2,385,69.6,9,2.3,1.4 – 3.2
+32,17,Nevada,"Married women, spouse present",534,301,56.4,293,54.8,9,2.9,1.7 – 4.1
+32,18,Nevada,Women who maintain families,135,102,75.5,94,69.9,7,7.3,4.0 – 10.6
+32,19,Nevada,"Total, 16 to 19 years",148,50,33.6,41,27.8,9,17.5,10.2 – 24.8
+32,20,Nevada,"Total, 20 to 24 years",187,145,77.3,137,73.1,8,5.5,3.1 – 7.9
+32,21,Nevada,"Total, 25 to 34 years",415,349,84.0,331,79.6,18,5.2,3.7 – 6.7
+32,22,Nevada,"Total, 35 to 44 years",397,331,83.2,320,80.6,10,3.1,1.9 – 4.3
+32,23,Nevada,"Total, 45 to 54 years",387,309,79.8,298,76.9,11,3.6,2.3 – 4.9
+32,24,Nevada,"Total, 55 to 64 years",377,230,60.9,221,58.7,8,3.6,2.0 – 5.2
+32,25,Nevada,"Total, 65 years and over",470,98,20.8,94,20.0,4,3.9,1.4 – 6.4
+32,27,Nevada,"Men, 20 to 24 years",91,71,78.5,67,73.7,4,6.2,2.5 – 9.9
+32,28,Nevada,"Men, 25 to 34 years",210,188,89.9,177,84.5,11,6.0,3.8 – 8.2
+32,29,Nevada,"Men, 35 to 44 years",206,185,89.7,181,87.6,4,2.4,1.0 – 3.8
+32,30,Nevada,"Men, 45 to 54 years",198,172,87.0,167,84.4,5,3.0,1.4 – 4.6
+32,31,Nevada,"Men, 55 to 64 years",187,127,67.9,123,65.7,4,3.3,1.3 – 5.3
+32,32,Nevada,"Men, 65 years and over",217,52,23.7,50,23.2,1,2.4,(2)-
+32,34,Nevada,"Women, 20 to 24 years",96,73,76.2,70,72.5,4,4.9,1.7 – 8.1
+32,35,Nevada,"Women, 25 to 34 years",205,160,78.0,153,74.7,7,4.2,2.2 – 6.2
+32,36,Nevada,"Women, 35 to 44 years",191,145,76.1,140,73.1,6,4.0,1.9 – 6.1
+32,37,Nevada,"Women, 45 to 54 years",189,137,72.3,131,69.2,6,4.4,2.2 – 6.6
+32,38,Nevada,"Women, 55 to 64 years",190,103,54.0,99,51.9,4,3.9,1.5 – 6.3
+32,41,Nevada,"White, 20 to 24 years",124,95,77.0,89,72.0,6,6.5,3.3 – 9.7
+32,42,Nevada,"White, 25 to 34 years",276,231,83.6,221,79.8,11,4.6,2.8 – 6.4
+32,43,Nevada,"White, 35 to 44 years",278,231,83.0,224,80.6,7,3.0,1.6 – 4.4
+32,44,Nevada,"White, 45 to 54 years",277,219,79.3,211,76.4,8,3.7,2.1 – 5.3
+32,45,Nevada,"White, 55 to 64 years",307,187,60.8,179,58.4,7,4.0,2.2 – 5.8
+32,46,Nevada,"White, 65 years and over",385,78,20.4,76,19.8,2,2.7,0.4 – 5.0
+32,62,Nevada,"Hispanic or Latino ethnicity, 20 to 24 years",82,68,83.1,65,78.7,4,5.2,1.7 – 8.7
+32,63,Nevada,"Hispanic or Latino ethnicity, 25 to 34 years",136,114,83.6,107,78.4,7,6.2,3.2 – 9.2
+32,64,Nevada,"Hispanic or Latino ethnicity, 35 to 44 years",123,100,81.0,96,78.1,4,3.6,1.2 – 6.0
+32,65,Nevada,"Hispanic or Latino ethnicity, 45 to 54 years",118,97,82.1,94,79.2,3,3.5,1.1 – 5.9
+33,01,New Hampshire,Total,"1,114",765,68.7,745,66.9,20,2.6,2.2 – 3.0
+33,02,New Hampshire,Men,548,406,74.1,395,72.1,11,2.6,2.0 – 3.2
+33,03,New Hampshire,Women,566,360,63.5,350,61.9,9,2.6,1.9 – 3.3
+33,04,New Hampshire,White,"1,045",718,68.7,699,66.9,18,2.5,2.1 – 2.9
+33,05,New Hampshire,"White, men",517,383,74.1,374,72.2,10,2.5,1.9 – 3.1
+33,06,New Hampshire,"White, women",528,334,63.3,326,61.7,9,2.5,1.8 – 3.2
+33,16,New Hampshire,"Married men, spouse present",298,225,75.5,222,74.6,3,1.1,0.6 – 1.6
+33,17,New Hampshire,"Married women, spouse present",286,186,65.0,183,63.8,3,1.9,1.1 – 2.7
+33,18,New Hampshire,Women who maintain families,53,37,69.5,36,67.2,1,3.4,1.1 – 5.7
+33,19,New Hampshire,"Total, 16 to 19 years",68,35,51.7,32,47.1,3,8.8,5.0 – 12.6
+33,20,New Hampshire,"Total, 20 to 24 years",85,63,74.6,60,70.6,3,5.3,3.1 – 7.5
+33,21,New Hampshire,"Total, 25 to 34 years",160,142,89.0,139,87.1,3,2.1,1.2 – 3.0
+33,22,New Hampshire,"Total, 35 to 44 years",164,145,88.4,141,86.0,4,2.7,1.6 – 3.8
+33,23,New Hampshire,"Total, 45 to 54 years",187,161,86.1,158,84.7,3,1.7,0.9 – 2.5
+33,24,New Hampshire,"Total, 55 to 64 years",214,162,75.8,160,74.4,3,1.8,1.0 – 2.6
+33,25,New Hampshire,"Total, 65 years and over",237,57,24.2,56,23.7,1,1.8,0.4 – 3.2
+33,28,New Hampshire,"Men, 25 to 34 years",83,78,93.2,76,91.1,2,2.3,1.0 – 3.6
+33,29,New Hampshire,"Men, 35 to 44 years",82,80,96.9,78,94.6,2,2.4,1.1 – 3.7
+33,30,New Hampshire,"Men, 45 to 54 years",91,81,89.8,80,88.2,2,1.9,0.7 – 3.1
+33,31,New Hampshire,"Men, 55 to 64 years",109,86,78.5,84,77.1,2,1.8,0.7 – 2.9
+33,35,New Hampshire,"Women, 25 to 34 years",76,64,84.3,63,82.7,1,1.8,0.5 – 3.1
+33,36,New Hampshire,"Women, 35 to 44 years",82,65,79.7,63,77.3,2,3.0,1.4 – 4.6
+33,37,New Hampshire,"Women, 45 to 54 years",96,79,82.6,78,81.4,1,1.5,0.4 – 2.6
+33,38,New Hampshire,"Women, 55 to 64 years",105,77,73.0,76,71.7,1,1.8,0.6 – 3.0
+33,40,New Hampshire,"White, 16 to 19 years",63,33,52.8,30,47.9,3,9.3,5.2 – 13.4
+33,41,New Hampshire,"White, 20 to 24 years",78,60,76.8,57,73.1,3,4.9,2.7 – 7.1
+33,42,New Hampshire,"White, 25 to 34 years",146,131,89.3,128,87.4,3,2.1,1.1 – 3.1
+33,43,New Hampshire,"White, 35 to 44 years",150,134,89.4,131,87.3,3,2.3,1.3 – 3.3
+33,44,New Hampshire,"White, 45 to 54 years",174,151,86.6,148,85.2,2,1.6,0.8 – 2.4
+33,45,New Hampshire,"White, 55 to 64 years",205,154,75.1,151,73.7,3,1.8,1.0 – 2.6
+33,46,New Hampshire,"White, 65 years and over",230,56,24.3,55,23.9,1,1.8,0.4 – 3.2
+34,01,New Jersey,Total,"7,082","4,418",62.4,"4,232",59.8,186,4.2,3.7 – 4.7
+34,02,New Jersey,Men,"3,405","2,322",68.2,"2,229",65.5,93,4.0,3.3 – 4.7
+34,03,New Jersey,Women,"3,677","2,096",57.0,"2,002",54.5,93,4.5,3.7 – 5.3
+34,04,New Jersey,White,"5,294","3,251",61.4,"3,127",59.1,124,3.8,3.2 – 4.4
+34,05,New Jersey,"White, men","2,582","1,738",67.3,"1,676",64.9,62,3.6,2.8 – 4.4
+34,06,New Jersey,"White, women","2,712","1,513",55.8,"1,451",53.5,62,4.1,3.2 – 5.0
+34,07,New Jersey,Black or African American,"1,015",645,63.5,602,59.4,43,6.6,4.9 – 8.3
+34,08,New Jersey,"Black or African American, men",462,303,65.6,281,60.8,22,7.3,4.7 – 9.9
+34,09,New Jersey,"Black or African American, women",552,341,61.8,321,58.2,20,6.0,3.8 – 8.2
+34,10,New Jersey,Asian,702,472,67.3,455,64.9,17,3.7,2.4 – 5.0
+34,11,New Jersey,"Asian, men",328,256,78.1,248,75.7,8,3.0,1.4 – 4.6
+34,12,New Jersey,"Asian, women",374,216,57.9,207,55.3,10,4.4,2.2 – 6.6
+34,13,New Jersey,Hispanic or Latino ethnicity,"1,186",777,65.5,742,62.6,35,4.5,3.2 – 5.8
+34,14,New Jersey,"Hispanic or Latino ethnicity, men",569,420,73.9,405,71.2,15,3.7,2.0 – 5.4
+34,15,New Jersey,"Hispanic or Latino ethnicity, women",616,356,57.8,337,54.6,20,5.6,3.4 – 7.8
+34,16,New Jersey,"Married men, spouse present","1,798","1,311",72.9,"1,276",71.0,35,2.7,1.9 – 3.5
+34,17,New Jersey,"Married women, spouse present","1,786","1,059",59.3,"1,025",57.4,34,3.2,2.2 – 4.2
+34,18,New Jersey,Women who maintain families,388,266,68.4,253,65.0,13,4.9,2.5 – 7.3
+34,19,New Jersey,"Total, 16 to 19 years",466,127,27.2,112,24.0,15,11.9,6.6 – 17.2
+34,20,New Jersey,"Total, 20 to 24 years",624,398,63.9,375,60.1,24,5.9,3.8 – 8.0
+34,21,New Jersey,"Total, 25 to 34 years","1,104",926,83.9,881,79.8,46,4.9,3.6 – 6.2
+34,22,New Jersey,"Total, 35 to 44 years","1,071",905,84.5,884,82.5,21,2.3,1.4 – 3.2
+34,23,New Jersey,"Total, 45 to 54 years","1,170",960,82.1,930,79.5,30,3.2,2.2 – 4.2
+34,24,New Jersey,"Total, 55 to 64 years","1,172",797,68.0,764,65.2,33,4.2,2.9 – 5.5
+34,25,New Jersey,"Total, 65 years and over","1,476",304,20.6,287,19.4,17,5.6,3.2 – 8.0
+34,27,New Jersey,"Men, 20 to 24 years",305,182,59.8,171,56.2,11,6.0,2.8 – 9.2
+34,28,New Jersey,"Men, 25 to 34 years",578,523,90.5,498,86.2,25,4.8,3.1 – 6.5
+34,29,New Jersey,"Men, 35 to 44 years",516,485,93.9,473,91.6,12,2.4,1.2 – 3.6
+34,30,New Jersey,"Men, 45 to 54 years",556,499,89.7,479,86.2,20,3.9,2.4 – 5.4
+34,31,New Jersey,"Men, 55 to 64 years",548,408,74.4,396,72.2,12,3.0,1.5 – 4.5
+34,32,New Jersey,"Men, 65 years and over",672,165,24.6,158,23.6,7,4.2,1.4 – 7.0
+34,34,New Jersey,"Women, 20 to 24 years",319,216,67.8,204,63.8,13,5.9,3.0 – 8.8
+34,35,New Jersey,"Women, 25 to 34 years",526,403,76.6,383,72.7,21,5.1,3.1 – 7.1
+34,36,New Jersey,"Women, 35 to 44 years",554,420,75.7,411,74.1,9,2.2,0.9 – 3.5
+34,37,New Jersey,"Women, 45 to 54 years",614,462,75.2,451,73.4,11,2.3,1.1 – 3.5
+34,38,New Jersey,"Women, 55 to 64 years",624,389,62.4,369,59.1,21,5.3,3.3 – 7.3
+34,39,New Jersey,"Women, 65 years and over",804,139,17.3,129,16.0,10,7.4,3.4 – 11.4
+34,41,New Jersey,"White, 20 to 24 years",462,305,66.0,286,61.9,19,6.2,3.7 – 8.7
+34,42,New Jersey,"White, 25 to 34 years",749,634,84.7,606,80.9,28,4.5,3.0 – 6.0
+34,43,New Jersey,"White, 35 to 44 years",749,630,84.2,615,82.1,16,2.5,1.4 – 3.6
+34,44,New Jersey,"White, 45 to 54 years",844,687,81.4,668,79.1,19,2.8,1.7 – 3.9
+34,45,New Jersey,"White, 55 to 64 years",929,638,68.7,616,66.3,23,3.5,2.2 – 4.8
+34,46,New Jersey,"White, 65 years and over","1,225",264,21.5,252,20.6,12,4.5,2.2 – 6.8
+34,49,New Jersey,"Black or African American, 25 to 34 years",191,157,81.9,145,75.8,12,7.5,3.8 – 11.2
+34,50,New Jersey,"Black or African American, 35 to 44 years",151,134,88.5,129,85.8,4,3.1,0.5 – 5.7
+34,51,New Jersey,"Black or African American, 45 to 54 years",181,151,83.4,143,78.8,8,5.5,2.3 – 8.7
+34,56,New Jersey,"Asian, 25 to 34 years",148,123,83.0,118,79.3,6,4.5,1.6 – 7.4
+34,57,New Jersey,"Asian, 35 to 44 years",158,130,82.2,129,81.5,1,0.9,(2)-
+34,58,New Jersey,"Asian, 45 to 54 years",134,113,83.9,110,81.8,3,2.5,0.2 – 4.8
+34,63,New Jersey,"Hispanic or Latino ethnicity, 25 to 34 years",242,197,81.5,189,78.4,8,3.8,1.3 – 6.3
+34,64,New Jersey,"Hispanic or Latino ethnicity, 35 to 44 years",222,178,80.3,171,77.1,7,4.0,1.3 – 6.7
+34,65,New Jersey,"Hispanic or Latino ethnicity, 45 to 54 years",184,147,79.8,144,78.2,3,2.0,(2)-
+34,66,New Jersey,"Hispanic or Latino ethnicity, 55 to 64 years",172,105,60.7,99,57.6,5,5.1,1.2 – 9.0
+35,01,New Mexico,Total,"1,633",949,58.1,905,55.4,45,4.7,4.0 – 5.4
+35,02,New Mexico,Men,792,501,63.3,476,60.1,25,5.1,4.1 – 6.1
+35,03,New Mexico,Women,840,448,53.3,429,51.0,19,4.3,3.3 – 5.3
+35,04,New Mexico,White,"1,327",778,58.6,746,56.2,33,4.2,3.4 – 5.0
+35,05,New Mexico,"White, men",646,417,64.6,399,61.8,18,4.3,3.2 – 5.4
+35,06,New Mexico,"White, women",681,361,53.0,346,50.8,15,4.0,2.9 – 5.1
+35,13,New Mexico,Hispanic or Latino ethnicity,700,422,60.3,403,57.6,19,4.5,3.6 – 5.4
+35,14,New Mexico,"Hispanic or Latino ethnicity, men",339,224,66.0,213,63.0,10,4.5,3.2 – 5.8
+35,15,New Mexico,"Hispanic or Latino ethnicity, women",361,199,55.0,190,52.6,9,4.4,3.0 – 5.8
+35,16,New Mexico,"Married men, spouse present",377,249,66.0,242,64.1,7,2.8,1.7 – 3.9
+35,17,New Mexico,"Married women, spouse present",354,187,52.9,183,51.7,4,2.3,1.1 – 3.5
+35,18,New Mexico,Women who maintain families,121,79,65.1,74,60.8,5,6.6,3.6 – 9.6
+35,19,New Mexico,"Total, 16 to 19 years",112,38,34.0,33,29.5,5,13.2,7.1 – 19.3
+35,20,New Mexico,"Total, 20 to 24 years",142,104,73.6,94,66.6,10,9.6,6.4 – 12.8
+35,21,New Mexico,"Total, 25 to 34 years",270,207,76.7,196,72.8,11,5.1,3.5 – 6.7
+35,22,New Mexico,"Total, 35 to 44 years",237,192,81.1,186,78.4,6,3.3,1.9 – 4.7
+35,23,New Mexico,"Total, 45 to 54 years",245,184,75.2,178,72.8,6,3.2,1.8 – 4.6
+35,24,New Mexico,"Total, 55 to 64 years",280,160,57.2,156,55.7,4,2.7,1.3 – 4.1
+35,25,New Mexico,"Total, 65 years and over",348,64,18.3,62,17.7,2,3.7,1.2 – 6.2
+35,27,New Mexico,"Men, 20 to 24 years",72,55,75.6,47,65.8,7,13.0,7.9 – 18.1
+35,28,New Mexico,"Men, 25 to 34 years",129,108,83.5,103,79.6,5,4.7,2.5 – 6.9
+35,29,New Mexico,"Men, 35 to 44 years",123,109,88.5,105,85.5,4,3.4,1.6 – 5.2
+35,30,New Mexico,"Men, 45 to 54 years",119,96,80.7,93,78.1,3,3.1,1.2 – 5.0
+35,31,New Mexico,"Men, 55 to 64 years",135,80,59.2,77,57.3,3,3.3,1.2 – 5.4
+35,32,New Mexico,"Men, 65 years and over",157,34,21.4,32,20.5,2,4.5,0.7 – 8.3
+35,34,New Mexico,"Women, 20 to 24 years",69,50,71.6,47,67.4,3,5.9,2.3 – 9.5
+35,35,New Mexico,"Women, 25 to 34 years",141,99,70.5,93,66.5,6,5.6,3.1 – 8.1
+35,36,New Mexico,"Women, 35 to 44 years",114,84,73.2,81,70.9,3,3.2,1.2 – 5.2
+35,37,New Mexico,"Women, 45 to 54 years",125,88,69.9,85,67.7,3,3.2,1.2 – 5.2
+35,38,New Mexico,"Women, 55 to 64 years",145,80,55.4,78,54.2,2,2.1,0.4 – 3.8
+35,41,New Mexico,"White, 20 to 24 years",109,83,76.4,76,69.9,7,8.5,5.2 – 11.8
+35,42,New Mexico,"White, 25 to 34 years",207,162,78.2,154,74.6,7,4.5,2.8 – 6.2
+35,43,New Mexico,"White, 35 to 44 years",185,154,83.3,149,80.6,5,3.2,1.7 – 4.7
+35,44,New Mexico,"White, 45 to 54 years",200,154,76.8,149,74.5,5,3.0,1.5 – 4.5
+35,45,New Mexico,"White, 55 to 64 years",235,138,58.7,134,57.3,3,2.5,1.1 – 3.9
+35,46,New Mexico,"White, 65 years and over",306,57,18.8,55,18.1,2,3.5,0.9 – 6.1
+35,62,New Mexico,"Hispanic or Latino ethnicity, 20 to 24 years",73,56,77.3,52,70.6,5,8.6,5.1 – 12.1
+35,63,New Mexico,"Hispanic or Latino ethnicity, 25 to 34 years",133,106,79.2,101,75.9,4,4.1,2.3 – 5.9
+35,64,New Mexico,"Hispanic or Latino ethnicity, 35 to 44 years",108,92,84.7,88,81.6,3,3.7,1.9 – 5.5
+35,65,New Mexico,"Hispanic or Latino ethnicity, 45 to 54 years",107,81,76.4,79,74.5,2,2.6,1.0 – 4.2
+35,66,New Mexico,"Hispanic or Latino ethnicity, 55 to 64 years",99,49,49.9,48,48.8,1,2.3,0.3 – 4.3
+36,01,New York,Total,"15,705","9,542",60.8,"9,147",58.2,395,4.1,3.7 – 4.5
+36,02,New York,Men,"7,501","4,972",66.3,"4,748",63.3,225,4.5,3.9 – 5.1
+36,03,New York,Women,"8,205","4,570",55.7,"4,399",53.6,170,3.7,3.2 – 4.2
+36,04,New York,White,"11,121","6,846",61.6,"6,591",59.3,255,3.7,3.3 – 4.1
+36,05,New York,"White, men","5,409","3,645",67.4,"3,496",64.6,149,4.1,3.5 – 4.7
+36,06,New York,"White, women","5,712","3,201",56.0,"3,095",54.2,105,3.3,2.7 – 3.9
+36,07,New York,Black or African American,"2,672","1,531",57.3,"1,420",53.2,111,7.2,6.0 – 8.4
+36,08,New York,"Black or African American, men","1,197",711,59.4,653,54.6,58,8.1,6.2 – 10.0
+36,09,New York,"Black or African American, women","1,476",820,55.6,767,52.0,53,6.5,4.9 – 8.1
+36,10,New York,Asian,"1,533",929,60.6,906,59.1,22,2.4,1.6 – 3.2
+36,11,New York,"Asian, men",718,505,70.4,492,68.5,14,2.7,1.5 – 3.9
+36,12,New York,"Asian, women",815,423,52.0,415,50.9,9,2.1,1.0 – 3.2
+36,13,New York,Hispanic or Latino ethnicity,"2,634","1,620",61.5,"1,543",58.6,77,4.8,3.8 – 5.8
+36,14,New York,"Hispanic or Latino ethnicity, men","1,261",876,69.5,834,66.2,42,4.8,3.4 – 6.2
+36,15,New York,"Hispanic or Latino ethnicity, women","1,373",744,54.2,709,51.6,35,4.8,3.3 – 6.3
+36,16,New York,"Married men, spouse present","3,479","2,451",70.5,"2,386",68.6,64,2.6,2.0 – 3.2
+36,17,New York,"Married women, spouse present","3,426","1,945",56.8,"1,898",55.4,47,2.4,1.7 – 3.1
+36,18,New York,Women who maintain families,"1,081",681,63.0,647,59.8,34,5.0,3.4 – 6.6
+36,19,New York,"Total, 16 to 19 years",953,272,28.5,244,25.5,28,10.4,6.8 – 14.0
+36,20,New York,"Total, 20 to 24 years","1,285",802,62.4,740,57.6,62,7.7,5.9 – 9.5
+36,21,New York,"Total, 25 to 34 years","2,854","2,335",81.8,"2,240",78.5,95,4.1,3.3 – 4.9
+36,22,New York,"Total, 35 to 44 years","2,429","1,974",81.3,"1,899",78.2,75,3.8,3.0 – 4.6
+36,23,New York,"Total, 45 to 54 years","2,324","1,846",79.4,"1,784",76.8,62,3.3,2.5 – 4.1
+36,24,New York,"Total, 55 to 64 years","2,625","1,657",63.1,"1,611",61.4,46,2.8,2.0 – 3.6
+36,25,New York,"Total, 65 years and over","3,234",657,20.3,630,19.5,27,4.1,2.6 – 5.6
+36,26,New York,"Men, 16 to 19 years",483,133,27.5,120,24.8,13,9.9,4.8 – 15.0
+36,27,New York,"Men, 20 to 24 years",634,417,65.8,383,60.4,34,8.1,5.5 – 10.7
+36,28,New York,"Men, 25 to 34 years","1,408","1,242",88.2,"1,184",84.1,58,4.6,3.5 – 5.7
+36,29,New York,"Men, 35 to 44 years","1,190","1,060",89.0,"1,018",85.5,42,3.9,2.8 – 5.0
+36,30,New York,"Men, 45 to 54 years","1,124",943,83.9,908,80.8,35,3.7,2.5 – 4.9
+36,31,New York,"Men, 55 to 64 years","1,240",820,66.1,796,64.2,24,3.0,1.9 – 4.1
+36,32,New York,"Men, 65 years and over","1,422",358,25.2,339,23.8,19,5.3,3.0 – 7.6
+36,33,New York,"Women, 16 to 19 years",470,139,29.6,124,26.3,15,10.9,5.7 – 16.1
+36,34,New York,"Women, 20 to 24 years",652,385,59.0,357,54.8,28,7.2,4.7 – 9.7
+36,35,New York,"Women, 25 to 34 years","1,446","1,093",75.6,"1,055",73.0,38,3.4,2.4 – 4.4
+36,36,New York,"Women, 35 to 44 years","1,238",915,73.8,881,71.1,34,3.7,2.5 – 4.9
+36,37,New York,"Women, 45 to 54 years","1,201",902,75.2,876,72.9,27,2.9,1.9 – 3.9
+36,38,New York,"Women, 55 to 64 years","1,385",837,60.4,815,58.9,22,2.6,1.6 – 3.6
+36,39,New York,"Women, 65 years and over","1,812",299,16.5,291,16.1,8,2.6,0.9 – 4.3
+36,40,New York,"White, 16 to 19 years",659,209,31.8,188,28.5,21,10.2,6.1 – 14.3
+36,41,New York,"White, 20 to 24 years",824,544,66.1,507,61.5,37,6.9,4.8 – 9.0
+36,42,New York,"White, 25 to 34 years","1,962","1,649",84.1,"1,592",81.1,57,3.5,2.6 – 4.4
+36,43,New York,"White, 35 to 44 years","1,595","1,328",83.2,"1,286",80.6,41,3.1,2.2 – 4.0
+36,44,New York,"White, 45 to 54 years","1,648","1,338",81.2,"1,295",78.6,43,3.2,2.3 – 4.1
+36,45,New York,"White, 55 to 64 years","1,917","1,248",65.1,"1,218",63.5,30,2.4,1.6 – 3.2
+36,46,New York,"White, 65 years and over","2,515",530,21.1,506,20.1,24,4.5,2.8 – 6.2
+36,48,New York,"Black or African American, 20 to 24 years",254,150,58.9,129,50.7,21,13.9,8.4 – 19.4
+36,49,New York,"Black or African American, 25 to 34 years",493,373,75.5,341,69.1,32,8.5,5.8 – 11.2
+36,50,New York,"Black or African American, 35 to 44 years",458,354,77.3,330,72.1,24,6.7,4.2 – 9.2
+36,51,New York,"Black or African American, 45 to 54 years",399,293,73.4,279,70.0,14,4.7,2.4 – 7.0
+36,52,New York,"Black or African American, 55 to 64 years",426,241,56.5,229,53.8,11,4.8,2.2 – 7.4
+36,56,New York,"Asian, 25 to 34 years",305,241,79.0,237,77.7,4,1.6,0.3 – 2.9
+36,57,New York,"Asian, 35 to 44 years",311,241,77.3,233,75.0,7,3.0,1.2 – 4.8
+36,58,New York,"Asian, 45 to 54 years",223,171,76.6,167,74.9,4,2.3,0.4 – 4.2
+36,59,New York,"Asian, 55 to 64 years",236,141,59.6,136,57.6,5,3.3,0.8 – 5.8
+36,62,New York,"Hispanic or Latino ethnicity, 20 to 24 years",241,149,61.7,137,56.7,12,8.1,3.7 – 12.5
+36,63,New York,"Hispanic or Latino ethnicity, 25 to 34 years",553,442,79.9,418,75.6,24,5.4,3.3 – 7.5
+36,64,New York,"Hispanic or Latino ethnicity, 35 to 44 years",516,421,81.6,403,78.2,18,4.2,2.3 – 6.1
+36,65,New York,"Hispanic or Latino ethnicity, 45 to 54 years",433,335,77.5,324,74.9,11,3.3,1.4 – 5.2
+36,66,New York,"Hispanic or Latino ethnicity, 55 to 64 years",324,183,56.5,178,55.1,5,2.5,0.3 – 4.7
+37,01,North Carolina,Total,"8,141","4,989",61.3,"4,800",59.0,189,3.8,3.3 – 4.3
+37,02,North Carolina,Men,"3,856","2,581",66.9,"2,490",64.6,91,3.5,2.8 – 4.2
+37,03,North Carolina,Women,"4,285","2,408",56.2,"2,310",53.9,99,4.1,3.4 – 4.8
+37,04,North Carolina,White,"5,808","3,547",61.1,"3,438",59.2,110,3.1,2.6 – 3.6
+37,05,North Carolina,"White, men","2,821","1,908",67.7,"1,856",65.8,53,2.8,2.1 – 3.5
+37,06,North Carolina,"White, women","2,988","1,639",54.9,"1,582",52.9,57,3.5,2.7 – 4.3
+37,07,North Carolina,Black or African American,"1,754","1,113",63.5,"1,047",59.7,65,5.9,4.6 – 7.2
+37,08,North Carolina,"Black or African American, men",786,512,65.1,480,61.1,32,6.2,4.2 – 8.2
+37,09,North Carolina,"Black or African American, women",968,601,62.1,568,58.6,34,5.6,3.8 – 7.4
+37,10,North Carolina,Asian,238,145,60.8,141,59.2,4,2.7,0.6 – 4.8
+37,13,North Carolina,Hispanic or Latino ethnicity,705,492,69.8,469,66.6,23,4.6,2.9 – 6.3
+37,14,North Carolina,"Hispanic or Latino ethnicity, men",353,300,85.1,293,83.0,7,2.5,0.9 – 4.1
+37,15,North Carolina,"Hispanic or Latino ethnicity, women",352,191,54.4,176,50.1,15,8.0,4.5 – 11.5
+37,16,North Carolina,"Married men, spouse present","1,948","1,392",71.4,"1,374",70.5,17,1.3,0.7 – 1.9
+37,17,North Carolina,"Married women, spouse present","2,000","1,142",57.1,"1,105",55.2,37,3.3,2.3 – 4.3
+37,18,North Carolina,Women who maintain families,592,378,63.9,356,60.2,22,5.9,3.7 – 8.1
+37,19,North Carolina,"Total, 16 to 19 years",461,149,32.2,121,26.3,27,18.4,12.1 – 24.7
+37,20,North Carolina,"Total, 20 to 24 years",739,502,68.0,474,64.2,28,5.6,3.7 – 7.5
+37,21,North Carolina,"Total, 25 to 34 years","1,421","1,142",80.4,"1,098",77.3,44,3.8,2.8 – 4.8
+37,22,North Carolina,"Total, 35 to 44 years","1,170",980,83.7,949,81.1,31,3.1,2.1 – 4.1
+37,23,North Carolina,"Total, 45 to 54 years","1,381","1,101",79.7,"1,067",77.3,34,3.1,2.1 – 4.1
+37,24,North Carolina,"Total, 55 to 64 years","1,361",838,61.6,823,60.4,16,1.9,1.0 – 2.8
+37,25,North Carolina,"Total, 65 years and over","1,608",277,17.2,268,16.6,10,3.5,1.5 – 5.5
+37,27,North Carolina,"Men, 20 to 24 years",358,256,71.5,237,66.3,19,7.3,4.3 – 10.3
+37,28,North Carolina,"Men, 25 to 34 years",675,589,87.3,568,84.2,21,3.6,2.2 – 5.0
+37,29,North Carolina,"Men, 35 to 44 years",573,517,90.4,505,88.1,13,2.5,1.2 – 3.8
+37,30,North Carolina,"Men, 45 to 54 years",684,585,85.5,570,83.4,15,2.5,1.3 – 3.7
+37,31,North Carolina,"Men, 55 to 64 years",623,410,65.8,403,64.7,7,1.7,0.5 – 2.9
+37,32,North Carolina,"Men, 65 years and over",711,153,21.6,152,21.4,1,0.9,(2)-
+37,34,North Carolina,"Women, 20 to 24 years",380,246,64.7,237,62.2,9,3.8,1.6 – 6.0
+37,35,North Carolina,"Women, 25 to 34 years",746,553,74.1,530,71.0,23,4.1,2.5 – 5.7
+37,36,North Carolina,"Women, 35 to 44 years",598,462,77.4,444,74.4,18,3.8,2.2 – 5.4
+37,37,North Carolina,"Women, 45 to 54 years",698,517,74.1,497,71.3,19,3.7,2.2 – 5.2
+37,38,North Carolina,"Women, 55 to 64 years",737,428,58.1,419,56.8,9,2.1,0.8 – 3.4
+37,39,North Carolina,"Women, 65 years and over",898,124,13.8,116,12.9,8,6.7,2.5 – 10.9
+37,41,North Carolina,"White, 20 to 24 years",478,328,68.5,309,64.7,18,5.5,3.2 – 7.8
+37,42,North Carolina,"White, 25 to 34 years",959,768,80.1,746,77.8,22,2.9,1.8 – 4.0
+37,43,North Carolina,"White, 35 to 44 years",827,692,83.6,674,81.4,18,2.6,1.5 – 3.7
+37,44,North Carolina,"White, 45 to 54 years",986,793,80.5,776,78.7,18,2.2,1.3 – 3.1
+37,45,North Carolina,"White, 55 to 64 years",998,633,63.5,622,62.3,12,1.8,0.9 – 2.7
+37,46,North Carolina,"White, 65 years and over","1,254",229,18.3,223,17.8,6,2.8,0.8 – 4.8
+37,48,North Carolina,"Black or African American, 20 to 24 years",195,138,70.7,130,66.7,8,5.6,1.9 – 9.3
+37,49,North Carolina,"Black or African American, 25 to 34 years",345,283,82.0,267,77.6,15,5.4,2.9 – 7.9
+37,50,North Carolina,"Black or African American, 35 to 44 years",252,217,86.2,206,81.9,11,5.0,2.2 – 7.8
+37,51,North Carolina,"Black or African American, 45 to 54 years",303,241,79.5,225,74.3,16,6.6,3.6 – 9.6
+37,52,North Carolina,"Black or African American, 55 to 64 years",284,165,58.1,161,56.7,4,2.4,0.2 – 4.6
+37,63,North Carolina,"Hispanic or Latino ethnicity, 25 to 34 years",206,157,76.4,149,72.5,8,5.1,2.0 – 8.2
+37,64,North Carolina,"Hispanic or Latino ethnicity, 35 to 44 years",160,128,80.4,124,77.7,4,3.3,0.6 – 6.0
+38,01,North Dakota,Total,582,400,68.7,388,66.8,11,2.8,2.3 – 3.3
+38,02,North Dakota,Men,296,220,74.2,212,71.8,7,3.3,2.6 – 4.0
+38,03,North Dakota,Women,286,180,63.1,176,61.6,4,2.3,1.6 – 3.0
+38,04,North Dakota,White,513,358,69.8,350,68.2,8,2.2,1.7 – 2.7
+38,05,North Dakota,"White, men",259,195,75.2,190,73.2,5,2.6,1.9 – 3.3
+38,06,North Dakota,"White, women",254,163,64.3,161,63.1,3,1.8,1.2 – 2.4
+38,16,North Dakota,"Married men, spouse present",151,117,77.4,115,75.9,2,2.0,1.2 – 2.8
+38,17,North Dakota,"Married women, spouse present",153,102,66.4,100,65.3,2,1.6,0.8 – 2.4
+38,20,North Dakota,"Total, 20 to 24 years",55,42,77.3,41,74.7,1,3.3,1.6 – 5.0
+38,21,North Dakota,"Total, 25 to 34 years",117,100,84.9,96,82.3,3,3.1,2.0 – 4.2
+38,22,North Dakota,"Total, 35 to 44 years",90,80,88.4,78,86.7,2,1.9,1.0 – 2.8
+38,23,North Dakota,"Total, 45 to 54 years",80,70,87.8,68,85.4,2,2.8,1.6 – 4.0
+38,24,North Dakota,"Total, 55 to 64 years",96,68,71.0,66,69.2,2,2.4,1.3 – 3.5
+38,25,North Dakota,"Total, 65 years and over",109,24,22.4,24,21.9,1,2.1,0.3 – 3.9
+38,27,North Dakota,"Men, 20 to 24 years",28,22,78.5,22,75.9,1,3.4,1.0 – 5.8
+38,28,North Dakota,"Men, 25 to 34 years",62,57,92.0,55,88.8,2,3.4,1.9 – 4.9
+38,29,North Dakota,"Men, 35 to 44 years",48,45,94.0,44,91.6,1,2.6,1.2 – 4.0
+38,30,North Dakota,"Men, 45 to 54 years",42,38,90.4,37,87.3,1,3.4,1.6 – 5.2
+38,31,North Dakota,"Men, 55 to 64 years",47,36,77.4,35,75.2,1,2.8,1.1 – 4.5
+38,34,North Dakota,"Women, 20 to 24 years",26,20,76.0,19,73.5,1,3.3,0.8 – 5.8
+38,35,North Dakota,"Women, 25 to 34 years",56,43,77.1,42,75.0,1,2.7,1.2 – 4.2
+38,36,North Dakota,"Women, 35 to 44 years",42,35,82.1,34,81.2,(3)-,1.1,(2)-
+38,37,North Dakota,"Women, 45 to 54 years",38,32,84.9,31,83.2,1,2.1,0.6 – 3.6
+38,38,North Dakota,"Women, 55 to 64 years",49,32,64.8,31,63.5,1,2.0,0.5 – 3.5
+38,41,North Dakota,"White, 20 to 24 years",45,35,78.7,34,76.6,1,2.8,1.1 – 4.5
+38,42,North Dakota,"White, 25 to 34 years",98,86,87.6,84,86.1,2,1.8,0.9 – 2.7
+38,43,North Dakota,"White, 35 to 44 years",78,71,90.9,70,89.3,1,1.7,0.8 – 2.6
+38,44,North Dakota,"White, 45 to 54 years",72,64,89.4,63,87.3,2,2.4,1.2 – 3.6
+38,45,North Dakota,"White, 55 to 64 years",91,66,72.4,64,70.7,2,2.3,1.2 – 3.4
+38,46,North Dakota,"White, 65 years and over",104,23,22.5,23,22.1,(3)-,2.0,0.3 – 3.7
+39,01,Ohio,Total,"9,229","5,756",62.4,"5,495",59.5,261,4.5,4.0 – 5.0
+39,02,Ohio,Men,"4,454","3,026",67.9,"2,870",64.4,156,5.2,4.4 – 6.0
+39,03,Ohio,Women,"4,775","2,730",57.2,"2,625",55.0,105,3.8,3.1 – 4.5
+39,04,Ohio,White,"7,712","4,847",62.9,"4,645",60.2,202,4.2,3.7 – 4.7
+39,05,Ohio,"White, men","3,746","2,589",69.1,"2,471",66.0,118,4.6,3.8 – 5.4
+39,06,Ohio,"White, women","3,965","2,259",57.0,"2,174",54.8,85,3.7,3.0 – 4.4
+39,07,Ohio,Black or African American,"1,106",647,58.5,606,54.8,41,6.4,4.5 – 8.3
+39,08,Ohio,"Black or African American, men",506,292,57.8,267,52.8,25,8.7,5.4 – 12.0
+39,09,Ohio,"Black or African American, women",600,355,59.2,339,56.5,16,4.5,2.4 – 6.6
+39,10,Ohio,Asian,204,125,61.4,120,59.1,5,3.7,1.9 – 5.5
+39,13,Ohio,Hispanic or Latino ethnicity,274,185,67.5,173,63.3,11,6.2,3.0 – 9.4
+39,14,Ohio,"Hispanic or Latino ethnicity, men",140,109,78.5,100,71.6,10,8.8,3.9 – 13.7
+39,16,Ohio,"Married men, spouse present","2,308","1,631",70.7,"1,591",68.9,40,2.5,1.8 – 3.2
+39,17,Ohio,"Married women, spouse present","2,253","1,340",59.5,"1,309",58.1,31,2.3,1.5 – 3.1
+39,18,Ohio,Women who maintain families,552,359,65.0,337,61.0,22,6.1,3.7 – 8.5
+39,19,Ohio,"Total, 16 to 19 years",633,262,41.3,223,35.3,38,14.6,10.3 – 18.9
+39,20,Ohio,"Total, 20 to 24 years",753,587,77.9,541,71.8,45,7.8,5.7 – 9.9
+39,21,Ohio,"Total, 25 to 34 years","1,521","1,268",83.4,"1,218",80.0,51,4.0,3.0 – 5.0
+39,22,Ohio,"Total, 35 to 44 years","1,322","1,107",83.7,"1,065",80.5,41,3.7,2.6 – 4.8
+39,23,Ohio,"Total, 45 to 54 years","1,500","1,190",79.3,"1,146",76.4,44,3.7,2.7 – 4.7
+39,24,Ohio,"Total, 55 to 64 years","1,559","1,013",65.0,985,63.2,29,2.8,1.8 – 3.8
+39,25,Ohio,"Total, 65 years and over","1,940",330,17.0,317,16.3,13,3.8,1.8 – 5.8
+39,26,Ohio,"Men, 16 to 19 years",317,129,40.8,106,33.5,23,17.9,11.1 – 24.7
+39,27,Ohio,"Men, 20 to 24 years",390,312,79.9,288,73.9,23,7.5,4.7 – 10.3
+39,28,Ohio,"Men, 25 to 34 years",747,668,89.4,635,84.9,33,5.0,3.4 – 6.6
+39,29,Ohio,"Men, 35 to 44 years",650,589,90.7,567,87.2,23,3.8,2.3 – 5.3
+39,30,Ohio,"Men, 45 to 54 years",735,611,83.1,582,79.2,29,4.7,3.1 – 6.3
+39,31,Ohio,"Men, 55 to 64 years",774,538,69.5,520,67.2,18,3.4,1.9 – 4.9
+39,32,Ohio,"Men, 65 years and over",842,179,21.2,172,20.4,7,3.8,1.1 – 6.5
+39,33,Ohio,"Women, 16 to 19 years",316,132,41.9,117,37.1,15,11.4,6.0 – 16.8
+39,34,Ohio,"Women, 20 to 24 years",363,275,75.7,253,69.6,22,8.0,4.9 – 11.1
+39,35,Ohio,"Women, 25 to 34 years",774,600,77.6,583,75.3,17,2.9,1.6 – 4.2
+39,36,Ohio,"Women, 35 to 44 years",673,517,76.9,498,74.1,19,3.6,2.1 – 5.1
+39,37,Ohio,"Women, 45 to 54 years",765,579,75.7,564,73.7,15,2.7,1.4 – 4.0
+39,38,Ohio,"Women, 55 to 64 years",785,476,60.6,465,59.2,11,2.2,1.0 – 3.4
+39,39,Ohio,"Women, 65 years and over","1,098",151,13.8,145,13.2,6,3.8,0.9 – 6.7
+39,40,Ohio,"White, 16 to 19 years",499,215,43.0,187,37.4,28,12.9,8.4 – 17.4
+39,41,Ohio,"White, 20 to 24 years",592,467,78.9,433,73.2,34,7.3,5.0 – 9.6
+39,42,Ohio,"White, 25 to 34 years","1,223","1,037",84.8,"1,002",81.9,35,3.4,2.4 – 4.4
+39,43,Ohio,"White, 35 to 44 years","1,065",903,84.8,872,81.9,31,3.5,2.4 – 4.6
+39,44,Ohio,"White, 45 to 54 years","1,269","1,035",81.6,"1,000",78.8,35,3.4,2.3 – 4.5
+39,45,Ohio,"White, 55 to 64 years","1,334",891,66.8,865,64.8,26,3.0,1.9 – 4.1
+39,46,Ohio,"White, 65 years and over","1,730",299,17.3,286,16.5,13,4.2,2.0 – 6.4
+39,49,Ohio,"Black or African American, 25 to 34 years",216,162,75.0,152,70.4,10,6.1,2.4 – 9.8
+39,50,Ohio,"Black or African American, 35 to 44 years",176,143,81.4,134,76.1,9,6.5,2.4 – 10.6
+39,51,Ohio,"Black or African American, 45 to 54 years",171,110,64.5,103,60.4,7,6.4,1.8 – 11.0
+40,01,Oklahoma,Total,"3,011","1,845",61.3,"1,782",59.2,63,3.4,2.8 – 4.0
+40,02,Oklahoma,Men,"1,461","1,016",69.6,982,67.2,34,3.4,2.6 – 4.2
+40,03,Oklahoma,Women,"1,550",828,53.5,800,51.6,29,3.5,2.6 – 4.4
+40,04,Oklahoma,White,"2,326","1,428",61.4,"1,390",59.8,38,2.7,2.1 – 3.3
+40,05,Oklahoma,"White, men","1,134",797,70.3,776,68.4,21,2.7,1.9 – 3.5
+40,06,Oklahoma,"White, women","1,192",631,52.9,614,51.5,17,2.7,1.8 – 3.6
+40,07,Oklahoma,Black or African American,205,125,61.0,116,56.6,9,7.2,4.1 – 10.3
+40,13,Oklahoma,Hispanic or Latino ethnicity,323,222,68.8,215,66.4,8,3.4,1.9 – 4.9
+40,14,Oklahoma,"Hispanic or Latino ethnicity, men",168,142,84.5,138,82.3,4,2.6,0.9 – 4.3
+40,16,Oklahoma,"Married men, spouse present",800,598,74.7,587,73.4,11,1.8,1.0 – 2.6
+40,17,Oklahoma,"Married women, spouse present",778,442,56.8,433,55.7,9,2.0,1.0 – 3.0
+40,18,Oklahoma,Women who maintain families,175,108,61.8,104,59.2,5,4.3,1.5 – 7.1
+40,20,Oklahoma,"Total, 20 to 24 years",240,170,71.1,160,66.8,10,6.0,3.4 – 8.6
+40,21,Oklahoma,"Total, 25 to 34 years",548,426,77.7,411,75.0,15,3.5,2.2 – 4.8
+40,22,Oklahoma,"Total, 35 to 44 years",479,388,80.9,376,78.5,11,2.9,1.7 – 4.1
+40,23,Oklahoma,"Total, 45 to 54 years",441,343,77.8,335,75.8,9,2.5,1.3 – 3.7
+40,24,Oklahoma,"Total, 55 to 64 years",487,317,65.0,312,64.0,5,1.6,0.6 – 2.6
+40,25,Oklahoma,"Total, 65 years and over",609,125,20.5,121,19.8,4,3.3,1.0 – 5.6
+40,27,Oklahoma,"Men, 20 to 24 years",120,98,81.6,92,76.7,6,6.0,2.5 – 9.5
+40,28,Oklahoma,"Men, 25 to 34 years",261,227,87.1,221,84.7,6,2.8,1.2 – 4.4
+40,29,Oklahoma,"Men, 35 to 44 years",244,221,90.5,215,87.8,6,2.9,1.3 – 4.5
+40,30,Oklahoma,"Men, 45 to 54 years",225,196,87.1,191,84.9,5,2.6,1.0 – 4.2
+40,31,Oklahoma,"Men, 55 to 64 years",233,168,72.2,165,70.8,3,2.0,0.5 – 3.5
+40,35,Oklahoma,"Women, 25 to 34 years",287,199,69.2,190,66.2,9,4.3,2.2 – 6.4
+40,36,Oklahoma,"Women, 35 to 44 years",235,167,70.9,162,68.9,5,2.9,1.0 – 4.8
+40,37,Oklahoma,"Women, 45 to 54 years",217,148,68.2,144,66.5,4,2.5,0.7 – 4.3
+40,38,Oklahoma,"Women, 55 to 64 years",254,149,58.5,147,57.7,2,1.3,(2)-
+40,41,Oklahoma,"White, 20 to 24 years",166,119,71.6,114,68.7,5,4.0,1.4 – 6.6
+40,42,Oklahoma,"White, 25 to 34 years",395,310,78.4,301,76.3,8,2.7,1.4 – 4.0
+40,43,Oklahoma,"White, 35 to 44 years",373,304,81.5,299,80.1,5,1.7,0.7 – 2.7
+40,44,Oklahoma,"White, 45 to 54 years",346,271,78.2,264,76.2,7,2.5,1.2 – 3.8
+40,45,Oklahoma,"White, 55 to 64 years",396,266,67.0,263,66.3,3,1.0,0.1 – 1.9
+40,46,Oklahoma,"White, 65 years and over",505,100,19.9,97,19.2,4,3.5,0.9 – 6.1
+41,01,Oregon,Total,"3,376","2,085",61.8,"1,999",59.2,86,4.1,3.5 – 4.7
+41,02,Oregon,Men,"1,651","1,095",66.3,"1,047",63.4,48,4.4,3.6 – 5.2
+41,03,Oregon,Women,"1,724",989,57.4,951,55.2,38,3.8,3.0 – 4.6
+41,04,Oregon,White,"2,947","1,811",61.4,"1,736",58.9,75,4.1,3.5 – 4.7
+41,05,Oregon,"White, men","1,443",957,66.4,914,63.4,43,4.5,3.6 – 5.4
+41,06,Oregon,"White, women","1,505",853,56.7,822,54.6,31,3.7,2.9 – 4.5
+41,10,Oregon,Asian,153,101,66.0,99,64.6,2,2.1,0.4 – 3.8
+41,13,Oregon,Hispanic or Latino ethnicity,386,286,73.9,270,69.8,16,5.6,3.7 – 7.5
+41,14,Oregon,"Hispanic or Latino ethnicity, men",199,156,78.4,147,74.1,9,5.5,2.9 – 8.1
+41,15,Oregon,"Hispanic or Latino ethnicity, women",188,130,69.2,123,65.3,7,5.6,2.8 – 8.4
+41,16,Oregon,"Married men, spouse present",855,601,70.3,588,68.8,13,2.2,1.4 – 3.0
+41,17,Oregon,"Married women, spouse present",843,487,57.7,476,56.4,11,2.3,1.4 – 3.2
+41,18,Oregon,Women who maintain families,186,131,70.5,125,67.0,7,5.0,2.5 – 7.5
+41,19,Oregon,"Total, 16 to 19 years",189,67,35.3,58,30.9,8,12.5,7.0 – 18.0
+41,20,Oregon,"Total, 20 to 24 years",237,178,75.3,167,70.4,11,6.4,4.0 – 8.8
+41,21,Oregon,"Total, 25 to 34 years",599,487,81.4,466,77.8,22,4.5,3.3 – 5.7
+41,22,Oregon,"Total, 35 to 44 years",569,481,84.5,464,81.5,17,3.6,2.5 – 4.7
+41,23,Oregon,"Total, 45 to 54 years",495,408,82.4,394,79.6,14,3.4,2.2 – 4.6
+41,24,Oregon,"Total, 55 to 64 years",538,333,61.9,324,60.2,9,2.7,1.5 – 3.9
+41,25,Oregon,"Total, 65 years and over",749,131,17.4,126,16.8,5,3.7,1.5 – 5.9
+41,27,Oregon,"Men, 20 to 24 years",125,89,70.8,81,64.8,8,8.5,4.5 – 12.5
+41,28,Oregon,"Men, 25 to 34 years",307,266,86.8,253,82.5,13,5.0,3.2 – 6.8
+41,29,Oregon,"Men, 35 to 44 years",272,246,90.5,237,87.2,9,3.7,2.1 – 5.3
+41,30,Oregon,"Men, 45 to 54 years",242,209,86.1,202,83.3,7,3.3,1.7 – 4.9
+41,31,Oregon,"Men, 55 to 64 years",264,179,67.8,175,66.2,4,2.4,0.9 – 3.9
+41,32,Oregon,"Men, 65 years and over",343,74,21.4,71,20.8,2,3.0,0.4 – 5.6
+41,34,Oregon,"Women, 20 to 24 years",112,90,80.2,86,76.8,4,4.3,1.5 – 7.1
+41,35,Oregon,"Women, 25 to 34 years",292,221,75.8,213,72.8,9,3.9,2.2 – 5.6
+41,36,Oregon,"Women, 35 to 44 years",297,235,79.0,227,76.3,8,3.4,1.9 – 4.9
+41,37,Oregon,"Women, 45 to 54 years",253,199,78.7,192,76.0,7,3.4,1.7 – 5.1
+41,38,Oregon,"Women, 55 to 64 years",274,154,56.2,149,54.5,5,3.1,1.3 – 4.9
+41,39,Oregon,"Women, 65 years and over",405,57,14.1,54,13.4,3,4.5,0.9 – 8.1
+41,40,Oregon,"White, 16 to 19 years",155,58,37.3,51,32.8,7,12.2,6.3 – 18.1
+41,41,Oregon,"White, 20 to 24 years",189,144,76.4,136,71.8,9,6.0,3.4 – 8.6
+41,42,Oregon,"White, 25 to 34 years",505,417,82.7,398,78.9,19,4.5,3.2 – 5.8
+41,43,Oregon,"White, 35 to 44 years",482,409,84.8,394,81.7,15,3.6,2.4 – 4.8
+41,44,Oregon,"White, 45 to 54 years",439,360,82.0,347,79.2,12,3.5,2.2 – 4.8
+41,45,Oregon,"White, 55 to 64 years",488,304,62.3,295,60.5,9,2.9,1.6 – 4.2
+41,46,Oregon,"White, 65 years and over",690,119,17.2,115,16.6,4,3.5,1.3 – 5.7
+41,63,Oregon,"Hispanic or Latino ethnicity, 25 to 34 years",86,73,84.2,67,77.8,6,7.6,3.2 – 12.0
+41,64,Oregon,"Hispanic or Latino ethnicity, 35 to 44 years",85,74,87.1,70,83.0,3,4.7,1.3 – 8.1
+42,01,Pennsylvania,Total,"10,271","6,432",62.6,"6,156",59.9,276,4.3,3.9 – 4.7
+42,02,Pennsylvania,Men,"4,950","3,381",68.3,"3,231",65.3,151,4.5,3.9 – 5.1
+42,03,Pennsylvania,Women,"5,321","3,050",57.3,"2,925",55.0,125,4.1,3.5 – 4.7
+42,04,Pennsylvania,White,"8,477","5,299",62.5,"5,090",60.0,209,3.9,3.4 – 4.4
+42,05,Pennsylvania,"White, men","4,126","2,833",68.7,"2,719",65.9,115,4.0,3.4 – 4.6
+42,06,Pennsylvania,"White, women","4,351","2,465",56.7,"2,371",54.5,94,3.8,3.1 – 4.5
+42,07,Pennsylvania,Black or African American,"1,117",692,62.0,644,57.6,49,7.0,5.3 – 8.7
+42,08,Pennsylvania,"Black or African American, men",508,329,64.8,304,59.9,25,7.7,5.1 – 10.3
+42,09,Pennsylvania,"Black or African American, women",609,363,59.6,340,55.8,24,6.5,4.3 – 8.7
+42,10,Pennsylvania,Asian,478,317,66.3,306,64.0,11,3.4,1.8 – 5.0
+42,11,Pennsylvania,"Asian, men",224,159,71.1,152,67.9,7,4.5,1.9 – 7.1
+42,12,Pennsylvania,"Asian, women",254,158,62.1,154,60.6,4,2.4,0.5 – 4.3
+42,13,Pennsylvania,Hispanic or Latino ethnicity,645,403,62.6,378,58.6,26,6.3,4.2 – 8.4
+42,14,Pennsylvania,"Hispanic or Latino ethnicity, men",311,220,70.9,207,66.7,13,6.0,3.2 – 8.8
+42,15,Pennsylvania,"Hispanic or Latino ethnicity, women",334,183,54.8,171,51.1,12,6.7,3.5 – 9.9
+42,16,Pennsylvania,"Married men, spouse present","2,553","1,816",71.1,"1,782",69.8,33,1.8,1.3 – 2.3
+42,17,Pennsylvania,"Married women, spouse present","2,522","1,516",60.1,"1,479",58.7,37,2.4,1.7 – 3.1
+42,18,Pennsylvania,Women who maintain families,602,399,66.2,374,62.2,24,6.1,4.0 – 8.2
+42,19,Pennsylvania,"Total, 16 to 19 years",663,282,42.5,250,37.7,32,11.5,8.0 – 15.0
+42,20,Pennsylvania,"Total, 20 to 24 years",792,569,71.8,529,66.8,40,6.9,5.0 – 8.8
+42,21,Pennsylvania,"Total, 25 to 34 years","1,629","1,367",83.9,"1,300",79.8,66,4.9,3.9 – 5.9
+42,22,Pennsylvania,"Total, 35 to 44 years","1,493","1,264",84.7,"1,220",81.7,44,3.5,2.6 – 4.4
+42,23,Pennsylvania,"Total, 45 to 54 years","1,569","1,308",83.4,"1,270",81.0,37,2.9,2.1 – 3.7
+42,24,Pennsylvania,"Total, 55 to 64 years","1,779","1,180",66.3,"1,141",64.2,38,3.3,2.4 – 4.2
+42,25,Pennsylvania,"Total, 65 years and over","2,345",462,19.7,444,18.9,18,3.9,2.3 – 5.5
+42,26,Pennsylvania,"Men, 16 to 19 years",347,149,42.9,128,37.0,21,13.8,8.6 – 19.0
+42,27,Pennsylvania,"Men, 20 to 24 years",407,295,72.5,271,66.5,24,8.3,5.4 – 11.2
+42,28,Pennsylvania,"Men, 25 to 34 years",789,703,89.1,669,84.8,34,4.9,3.5 – 6.3
+42,29,Pennsylvania,"Men, 35 to 44 years",736,678,92.0,657,89.2,21,3.1,1.9 – 4.3
+42,30,Pennsylvania,"Men, 45 to 54 years",768,681,88.7,663,86.2,19,2.7,1.6 – 3.8
+42,31,Pennsylvania,"Men, 55 to 64 years",849,618,72.8,595,70.1,23,3.6,2.3 – 4.9
+42,32,Pennsylvania,"Men, 65 years and over","1,052",257,24.4,248,23.6,9,3.5,1.5 – 5.5
+42,33,Pennsylvania,"Women, 16 to 19 years",316,133,42.1,121,38.4,12,8.8,4.4 – 13.2
+42,34,Pennsylvania,"Women, 20 to 24 years",386,274,71.0,258,67.0,15,5.5,3.1 – 7.9
+42,35,Pennsylvania,"Women, 25 to 34 years",839,663,79.0,631,75.2,32,4.8,3.3 – 6.3
+42,36,Pennsylvania,"Women, 35 to 44 years",757,587,77.5,564,74.5,23,3.9,2.5 – 5.3
+42,37,Pennsylvania,"Women, 45 to 54 years",800,627,78.3,608,76.0,19,3.0,1.8 – 4.2
+42,38,Pennsylvania,"Women, 55 to 64 years",930,562,60.4,546,58.7,16,2.8,1.6 – 4.0
+42,39,Pennsylvania,"Women, 65 years and over","1,293",205,15.9,196,15.2,9,4.4,1.9 – 6.9
+42,40,Pennsylvania,"White, 16 to 19 years",501,212,42.4,189,37.8,23,10.8,6.9 – 14.7
+42,41,Pennsylvania,"White, 20 to 24 years",592,447,75.5,420,70.9,27,6.1,4.1 – 8.1
+42,42,Pennsylvania,"White, 25 to 34 years","1,267","1,079",85.2,"1,030",81.3,50,4.6,3.5 – 5.7
+42,43,Pennsylvania,"White, 35 to 44 years","1,193","1,010",84.7,978,82.0,32,3.2,2.2 – 4.2
+42,44,Pennsylvania,"White, 45 to 54 years","1,307","1,103",84.4,"1,075",82.3,28,2.6,1.8 – 3.4
+42,45,Pennsylvania,"White, 55 to 64 years","1,524","1,035",67.9,"1,001",65.7,34,3.3,2.3 – 4.3
+42,46,Pennsylvania,"White, 65 years and over","2,093",411,19.6,396,18.9,15,3.6,2.0 – 5.2
+42,49,Pennsylvania,"Black or African American, 25 to 34 years",195,155,79.1,142,72.7,13,8.1,4.3 – 11.9
+42,50,Pennsylvania,"Black or African American, 35 to 44 years",188,159,84.4,149,79.5,9,5.8,2.6 – 9.0
+42,51,Pennsylvania,"Black or African American, 45 to 54 years",173,133,77.0,124,71.8,9,6.7,2.9 – 10.5
+42,63,Pennsylvania,"Hispanic or Latino ethnicity, 25 to 34 years",161,127,78.4,121,74.7,6,4.8,1.5 – 8.1
+44,01,Rhode Island,Total,861,557,64.6,534,62.0,23,4.1,3.3 – 4.9
+44,02,Rhode Island,Men,413,288,69.9,276,66.9,12,4.2,3.1 – 5.3
+44,03,Rhode Island,Women,448,268,59.8,257,57.4,11,4.0,2.9 – 5.1
+44,04,Rhode Island,White,757,485,64.1,467,61.7,18,3.7,2.9 – 4.5
+44,05,Rhode Island,"White, men",363,251,69.0,241,66.3,10,3.8,2.7 – 4.9
+44,06,Rhode Island,"White, women",394,235,59.6,226,57.4,8,3.6,2.5 – 4.7
+44,07,Rhode Island,Black or African American,58,41,69.7,38,65.4,3,6.3,3.1 – 9.5
+44,13,Rhode Island,Hispanic or Latino ethnicity,119,80,67.1,74,62.3,6,7.2,4.5 – 9.9
+44,14,Rhode Island,"Hispanic or Latino ethnicity, men",53,40,75.2,37,69.3,3,7.9,3.9 – 11.9
+44,15,Rhode Island,"Hispanic or Latino ethnicity, women",66,40,60.6,38,56.7,3,6.5,2.9 – 10.1
+44,16,Rhode Island,"Married men, spouse present",207,152,73.6,149,71.8,4,2.4,1.3 – 3.5
+44,17,Rhode Island,"Married women, spouse present",195,124,63.6,121,62.0,3,2.6,1.3 – 3.9
+44,18,Rhode Island,Women who maintain families,55,36,66.7,35,63.6,2,4.7,1.5 – 7.9
+44,20,Rhode Island,"Total, 20 to 24 years",65,49,76.1,46,71.3,3,6.3,3.1 – 9.5
+44,21,Rhode Island,"Total, 25 to 34 years",146,124,84.5,119,81.4,4,3.6,2.1 – 5.1
+44,22,Rhode Island,"Total, 35 to 44 years",133,114,85.7,111,83.6,3,2.5,1.2 – 3.8
+44,23,Rhode Island,"Total, 45 to 54 years",131,108,82.5,104,79.6,4,3.5,1.9 – 5.1
+44,24,Rhode Island,"Total, 55 to 64 years",154,103,67.0,99,64.5,4,3.6,1.9 – 5.3
+44,25,Rhode Island,"Total, 65 years and over",177,37,20.7,36,20.2,1,2.2,(2)-
+44,28,Rhode Island,"Men, 25 to 34 years",72,66,92.4,64,89.0,2,3.7,1.6 – 5.8
+44,29,Rhode Island,"Men, 35 to 44 years",68,62,90.6,61,88.7,1,2.0,0.4 – 3.6
+44,30,Rhode Island,"Men, 45 to 54 years",61,54,88.1,52,85.5,2,3.0,0.9 – 5.1
+44,31,Rhode Island,"Men, 55 to 64 years",73,52,71.1,50,68.6,2,3.5,1.2 – 5.8
+44,35,Rhode Island,"Women, 25 to 34 years",75,57,76.8,55,74.2,2,3.4,1.3 – 5.5
+44,36,Rhode Island,"Women, 35 to 44 years",65,52,80.5,50,78.1,2,3.0,0.9 – 5.1
+44,37,Rhode Island,"Women, 45 to 54 years",70,54,77.6,52,74.4,2,4.1,1.7 – 6.5
+44,38,Rhode Island,"Women, 55 to 64 years",81,51,63.2,49,60.9,2,3.7,1.3 – 6.1
+44,41,Rhode Island,"White, 20 to 24 years",53,41,77.2,38,71.9,3,6.9,3.3 – 10.5
+44,42,Rhode Island,"White, 25 to 34 years",120,102,85.4,99,82.6,3,3.2,1.6 – 4.8
+44,43,Rhode Island,"White, 35 to 44 years",110,95,86.3,93,84.4,2,2.2,0.8 – 3.6
+44,44,Rhode Island,"White, 45 to 54 years",116,97,83.6,94,80.8,3,3.3,1.7 – 4.9
+44,45,Rhode Island,"White, 55 to 64 years",146,98,67.0,94,64.6,3,3.5,1.8 – 5.2
+44,46,Rhode Island,"White, 65 years and over",165,34,20.9,34,20.4,1,2.2,(2)-
+45,01,South Carolina,Total,"4,004","2,317",57.9,"2,235",55.8,82,3.5,2.9 – 4.1
+45,02,South Carolina,Men,"1,889","1,222",64.7,"1,180",62.5,42,3.4,2.6 – 4.2
+45,03,South Carolina,Women,"2,115","1,094",51.7,"1,054",49.9,40,3.6,2.8 – 4.4
+45,04,South Carolina,White,"2,846","1,635",57.5,"1,594",56.0,41,2.5,1.9 – 3.1
+45,05,South Carolina,"White, men","1,372",898,65.4,878,64.0,20,2.3,1.5 – 3.1
+45,06,South Carolina,"White, women","1,474",737,50.0,716,48.6,21,2.8,1.9 – 3.7
+45,07,South Carolina,Black or African American,"1,039",601,57.9,563,54.2,38,6.3,4.8 – 7.8
+45,08,South Carolina,"Black or African American, men",461,286,62.0,267,57.8,19,6.7,4.5 – 8.9
+45,09,South Carolina,"Black or African American, women",577,315,54.6,297,51.4,19,6.0,4.0 – 8.0
+45,13,South Carolina,Hispanic or Latino ethnicity,184,128,69.9,123,66.8,6,4.5,2.0 – 7.0
+45,16,South Carolina,"Married men, spouse present","1,018",693,68.1,685,67.3,8,1.2,0.6 – 1.8
+45,17,South Carolina,"Married women, spouse present","1,022",534,52.3,525,51.4,9,1.7,0.9 – 2.5
+45,18,South Carolina,Women who maintain families,261,165,63.2,155,59.4,10,6.0,3.2 – 8.8
+45,20,South Carolina,"Total, 20 to 24 years",290,206,71.2,192,66.1,15,7.1,4.4 – 9.8
+45,21,South Carolina,"Total, 25 to 34 years",650,525,80.7,501,77.1,24,4.6,3.2 – 6.0
+45,22,South Carolina,"Total, 35 to 44 years",610,497,81.4,486,79.7,10,2.1,1.1 – 3.1
+45,23,South Carolina,"Total, 45 to 54 years",603,462,76.6,449,74.5,13,2.7,1.6 – 3.8
+45,24,South Carolina,"Total, 55 to 64 years",669,385,57.5,378,56.6,6,1.6,0.6 – 2.6
+45,25,South Carolina,"Total, 65 years and over",928,158,17.0,155,16.7,3,2.1,0.4 – 3.8
+45,27,South Carolina,"Men, 20 to 24 years",141,105,74.1,98,69.3,7,6.5,2.8 – 10.2
+45,28,South Carolina,"Men, 25 to 34 years",312,272,87.4,264,84.7,8,3.0,1.5 – 4.5
+45,29,South Carolina,"Men, 35 to 44 years",296,270,91.3,263,88.9,7,2.6,1.2 – 4.0
+45,30,South Carolina,"Men, 45 to 54 years",287,239,83.4,232,80.9,7,2.9,1.3 – 4.5
+45,31,South Carolina,"Men, 55 to 64 years",314,203,64.7,199,63.4,4,2.0,0.5 – 3.5
+45,34,South Carolina,"Women, 20 to 24 years",149,102,68.3,94,63.0,8,7.9,3.8 – 12.0
+45,35,South Carolina,"Women, 25 to 34 years",338,252,74.6,237,70.0,16,6.2,3.9 – 8.5
+45,36,South Carolina,"Women, 35 to 44 years",314,226,72.0,223,71.0,3,1.5,0.3 – 2.7
+45,37,South Carolina,"Women, 45 to 54 years",316,222,70.4,217,68.6,6,2.5,0.9 – 4.1
+45,38,South Carolina,"Women, 55 to 64 years",355,181,51.1,179,50.6,2,1.2,(2)-
+45,41,South Carolina,"White, 20 to 24 years",181,133,73.5,125,69.0,8,6.2,3.0 – 9.4
+45,42,South Carolina,"White, 25 to 34 years",444,357,80.6,348,78.4,10,2.7,1.4 – 4.0
+45,43,South Carolina,"White, 35 to 44 years",432,356,82.4,351,81.2,5,1.4,0.5 – 2.3
+45,44,South Carolina,"White, 45 to 54 years",408,314,76.9,306,75.0,8,2.5,1.2 – 3.8
+45,45,South Carolina,"White, 55 to 64 years",485,295,60.9,291,60.0,4,1.4,0.4 – 2.4
+45,46,South Carolina,"White, 65 years and over",741,128,17.3,126,16.9,3,2.1,0.2 – 4.0
+45,49,South Carolina,"Black or African American, 25 to 34 years",178,142,79.6,128,71.9,14,9.6,5.8 – 13.4
+45,50,South Carolina,"Black or African American, 35 to 44 years",157,124,78.7,118,75.3,5,4.3,1.6 – 7.0
+45,51,South Carolina,"Black or African American, 45 to 54 years",173,129,74.7,125,72.0,5,3.6,1.2 – 6.0
+46,01,South Dakota,Total,669,460,68.8,447,66.8,14,2.9,2.2 – 3.6
+46,02,South Dakota,Men,334,246,73.7,239,71.6,7,2.9,1.9 – 3.9
+46,03,South Dakota,Women,335,214,63.9,208,62.0,7,3.0,1.9 – 4.1
+46,04,South Dakota,White,581,409,70.4,401,69.0,8,1.9,1.3 – 2.5
+46,05,South Dakota,"White, men",294,221,75.1,216,73.6,4,2.0,1.1 – 2.9
+46,06,South Dakota,"White, women",287,188,65.5,185,64.3,4,1.9,0.9 – 2.9
+46,16,South Dakota,"Married men, spouse present",175,134,76.4,133,75.7,1,0.9,0.1 – 1.7
+46,17,South Dakota,"Married women, spouse present",175,122,69.6,120,68.6,2,1.4,0.4 – 2.4
+46,20,South Dakota,"Total, 20 to 24 years",61,47,78.1,44,72.6,3,7.0,3.4 – 10.6
+46,21,South Dakota,"Total, 25 to 34 years",106,93,87.1,89,84.0,3,3.6,1.7 – 5.5
+46,22,South Dakota,"Total, 35 to 44 years",99,88,88.6,86,87.0,2,1.9,0.5 – 3.3
+46,23,South Dakota,"Total, 45 to 54 years",97,85,87.8,83,85.8,2,2.4,0.8 – 4.0
+46,24,South Dakota,"Total, 55 to 64 years",117,91,77.0,89,76.0,1,1.4,0.2 – 2.6
+46,28,South Dakota,"Men, 25 to 34 years",54,50,93.1,49,90.2,2,3.1,0.8 – 5.4
+46,29,South Dakota,"Men, 35 to 44 years",52,47,91.0,46,88.6,1,2.6,0.4 – 4.8
+46,30,South Dakota,"Men, 45 to 54 years",47,44,93.1,43,90.5,1,2.8,0.4 – 5.2
+46,31,South Dakota,"Men, 55 to 64 years",61,49,79.9,48,78.9,1,1.3,(2)-
+46,42,South Dakota,"White, 25 to 34 years",87,79,90.4,77,88.7,1,1.8,0.4 – 3.2
+46,43,South Dakota,"White, 35 to 44 years",83,76,91.7,76,90.8,1,0.9,(2)-
+46,44,South Dakota,"White, 45 to 54 years",86,78,90.4,76,88.8,1,1.8,0.4 – 3.2
+46,45,South Dakota,"White, 55 to 64 years",107,84,79.0,83,78.0,1,1.3,0.1 – 2.5
+47,01,Tennessee,Total,"5,329","3,241",60.8,"3,127",58.7,114,3.5,3.0 – 4.0
+47,02,Tennessee,Men,"2,548","1,726",67.7,"1,671",65.6,55,3.2,2.5 – 3.9
+47,03,Tennessee,Women,"2,781","1,515",54.5,"1,456",52.4,59,3.9,3.1 – 4.7
+47,04,Tennessee,White,"4,210","2,539",60.3,"2,459",58.4,80,3.2,2.6 – 3.8
+47,05,Tennessee,"White, men","2,041","1,386",67.9,"1,348",66.1,38,2.8,2.1 – 3.5
+47,06,Tennessee,"White, women","2,169","1,153",53.1,"1,111",51.2,42,3.6,2.7 – 4.5
+47,07,Tennessee,Black or African American,863,538,62.3,509,58.9,29,5.4,3.8 – 7.0
+47,08,Tennessee,"Black or African American, men",389,256,65.8,243,62.4,13,5.1,2.9 – 7.3
+47,09,Tennessee,"Black or African American, women",474,282,59.5,266,56.1,16,5.7,3.5 – 7.9
+47,13,Tennessee,Hispanic or Latino ethnicity,249,174,70.0,168,67.5,6,3.6,1.5 – 5.7
+47,14,Tennessee,"Hispanic or Latino ethnicity, men",134,116,86.7,113,84.6,3,2.4,0.4 – 4.4
+47,16,Tennessee,"Married men, spouse present","1,346",955,71.0,940,69.9,14,1.5,0.9 – 2.1
+47,17,Tennessee,"Married women, spouse present","1,346",737,54.7,717,53.3,20,2.7,1.7 – 3.7
+47,18,Tennessee,Women who maintain families,329,192,58.3,184,55.9,8,4.2,1.8 – 6.6
+47,19,Tennessee,"Total, 16 to 19 years",324,123,37.8,109,33.6,14,11.2,6.3 – 16.1
+47,20,Tennessee,"Total, 20 to 24 years",464,340,73.3,313,67.5,27,7.8,5.3 – 10.3
+47,21,Tennessee,"Total, 25 to 34 years",927,776,83.7,753,81.2,22,2.9,1.9 – 3.9
+47,22,Tennessee,"Total, 35 to 44 years",778,607,78.0,590,75.8,17,2.8,1.7 – 3.9
+47,23,Tennessee,"Total, 45 to 54 years",847,647,76.4,632,74.7,15,2.2,1.3 – 3.1
+47,24,Tennessee,"Total, 55 to 64 years",894,546,61.1,532,59.5,15,2.7,1.5 – 3.9
+47,25,Tennessee,"Total, 65 years and over","1,094",203,18.5,198,18.1,5,2.6,0.7 – 4.5
+47,27,Tennessee,"Men, 20 to 24 years",224,172,76.8,157,69.9,15,8.9,5.2 – 12.6
+47,28,Tennessee,"Men, 25 to 34 years",448,412,91.9,399,89.1,12,3.0,1.6 – 4.4
+47,29,Tennessee,"Men, 35 to 44 years",387,333,86.1,323,83.6,10,3.0,1.4 – 4.6
+47,30,Tennessee,"Men, 45 to 54 years",422,350,83.1,345,81.9,5,1.5,0.4 – 2.6
+47,31,Tennessee,"Men, 55 to 64 years",415,286,68.9,281,67.8,5,1.7,0.4 – 3.0
+47,32,Tennessee,"Men, 65 years and over",488,115,23.5,113,23.1,2,1.7,(2)-
+47,34,Tennessee,"Women, 20 to 24 years",240,168,69.9,156,65.3,11,6.6,3.4 – 9.8
+47,35,Tennessee,"Women, 25 to 34 years",479,364,76.0,354,73.9,10,2.8,1.4 – 4.2
+47,36,Tennessee,"Women, 35 to 44 years",392,274,70.0,267,68.1,7,2.6,1.0 – 4.2
+47,37,Tennessee,"Women, 45 to 54 years",425,296,69.7,287,67.5,9,3.2,1.5 – 4.9
+47,38,Tennessee,"Women, 55 to 64 years",479,260,54.3,251,52.3,10,3.7,1.8 – 5.6
+47,41,Tennessee,"White, 20 to 24 years",348,258,74.1,238,68.5,19,7.5,4.7 – 10.3
+47,42,Tennessee,"White, 25 to 34 years",694,579,83.5,564,81.2,16,2.7,1.6 – 3.8
+47,43,Tennessee,"White, 35 to 44 years",592,472,79.8,462,78.1,10,2.2,1.1 – 3.3
+47,44,Tennessee,"White, 45 to 54 years",672,506,75.3,494,73.5,12,2.4,1.3 – 3.5
+47,45,Tennessee,"White, 55 to 64 years",729,452,62.0,442,60.7,10,2.1,1.0 – 3.2
+47,46,Tennessee,"White, 65 years and over",949,180,19.0,176,18.6,4,2.0,0.3 – 3.7
+47,49,Tennessee,"Black or African American, 25 to 34 years",173,147,85.3,141,81.9,6,3.9,1.3 – 6.5
+48,01,Texas,Total,"21,635","13,888",64.2,"13,353",61.7,535,3.8,3.5 – 4.1
+48,02,Texas,Men,"10,533","7,645",72.6,"7,364",69.9,282,3.7,3.3 – 4.1
+48,03,Texas,Women,"11,101","6,243",56.2,"5,990",54.0,253,4.1,3.6 – 4.6
+48,04,Texas,White,"17,038","10,848",63.7,"10,459",61.4,389,3.6,3.3 – 3.9
+48,05,Texas,"White, men","8,349","6,108",73.2,"5,902",70.7,206,3.4,3.0 – 3.8
+48,06,Texas,"White, women","8,688","4,740",54.6,"4,557",52.4,184,3.9,3.4 – 4.4
+48,07,Texas,Black or African American,"2,702","1,809",66.9,"1,706",63.1,103,5.7,4.7 – 6.7
+48,08,Texas,"Black or African American, men","1,246",853,68.4,797,63.9,56,6.6,5.0 – 8.2
+48,09,Texas,"Black or African American, women","1,456",956,65.7,909,62.5,47,4.9,3.6 – 6.2
+48,10,Texas,Asian,"1,183",739,62.5,720,60.8,20,2.7,1.8 – 3.6
+48,11,Texas,"Asian, men",573,405,70.7,396,69.1,9,2.3,1.1 – 3.5
+48,12,Texas,"Asian, women",610,334,54.8,324,53.1,10,3.1,1.6 – 4.6
+48,13,Texas,Hispanic or Latino ethnicity,"7,902","5,137",65.0,"4,912",62.2,224,4.4,3.8 – 5.0
+48,14,Texas,"Hispanic or Latino ethnicity, men","3,956","3,014",76.2,"2,890",73.1,124,4.1,3.4 – 4.8
+48,15,Texas,"Hispanic or Latino ethnicity, women","3,947","2,122",53.8,"2,022",51.2,100,4.7,3.8 – 5.6
+48,16,Texas,"Married men, spouse present","5,550","4,309",77.6,"4,221",76.1,88,2.0,1.6 – 2.4
+48,17,Texas,"Married women, spouse present","5,384","2,996",55.6,"2,913",54.1,83,2.8,2.2 – 3.4
+48,18,Texas,Women who maintain families,"1,346",924,68.6,875,65.0,49,5.3,3.9 – 6.7
+48,19,Texas,"Total, 16 to 19 years","1,570",504,32.1,441,28.1,64,12.6,9.6 – 15.6
+48,20,Texas,"Total, 20 to 24 years","2,026","1,427",70.4,"1,331",65.7,96,6.7,5.4 – 8.0
+48,21,Texas,"Total, 25 to 34 years","4,087","3,288",80.5,"3,171",77.6,118,3.6,3.0 – 4.2
+48,22,Texas,"Total, 35 to 44 years","3,714","3,058",82.3,"2,963",79.8,95,3.1,2.5 – 3.7
+48,23,Texas,"Total, 45 to 54 years","3,443","2,778",80.7,"2,703",78.5,75,2.7,2.1 – 3.3
+48,24,Texas,"Total, 55 to 64 years","3,154","2,072",65.7,"2,006",63.6,66,3.2,2.5 – 3.9
+48,25,Texas,"Total, 65 years and over","3,642",760,20.9,739,20.3,21,2.8,1.6 – 4.0
+48,26,Texas,"Men, 16 to 19 years",776,250,32.2,215,27.7,35,14.1,9.6 – 18.6
+48,27,Texas,"Men, 20 to 24 years","1,042",784,75.3,724,69.5,60,7.7,5.8 – 9.6
+48,28,Texas,"Men, 25 to 34 years","2,059","1,839",89.3,"1,779",86.4,60,3.3,2.5 – 4.1
+48,29,Texas,"Men, 35 to 44 years","1,804","1,677",93.0,"1,637",90.8,40,2.4,1.7 – 3.1
+48,30,Texas,"Men, 45 to 54 years","1,716","1,525",88.9,"1,492",87.0,33,2.1,1.4 – 2.8
+48,31,Texas,"Men, 55 to 64 years","1,522","1,150",75.5,"1,110",72.9,40,3.4,2.4 – 4.4
+48,32,Texas,"Men, 65 years and over","1,614",421,26.1,407,25.2,14,3.4,1.7 – 5.1
+48,33,Texas,"Women, 16 to 19 years",794,255,32.1,226,28.5,29,11.3,7.3 – 15.3
+48,34,Texas,"Women, 20 to 24 years",984,643,65.4,607,61.7,36,5.6,3.8 – 7.4
+48,35,Texas,"Women, 25 to 34 years","2,028","1,449",71.5,"1,392",68.6,57,4.0,3.0 – 5.0
+48,36,Texas,"Women, 35 to 44 years","1,910","1,381",72.3,"1,326",69.4,55,4.0,3.0 – 5.0
+48,37,Texas,"Women, 45 to 54 years","1,726","1,253",72.6,"1,211",70.1,42,3.3,2.3 – 4.3
+48,38,Texas,"Women, 55 to 64 years","1,632",923,56.5,896,54.9,27,2.9,1.8 – 4.0
+48,39,Texas,"Women, 65 years and over","2,028",339,16.7,333,16.4,7,2.0,0.6 – 3.4
+48,40,Texas,"White, 16 to 19 years","1,274",409,32.1,359,28.1,50,12.3,9.0 – 15.6
+48,41,Texas,"White, 20 to 24 years","1,552","1,102",71.0,"1,037",66.8,66,6.0,4.6 – 7.4
+48,42,Texas,"White, 25 to 34 years","3,084","2,469",80.1,"2,386",77.4,83,3.4,2.7 – 4.1
+48,43,Texas,"White, 35 to 44 years","2,857","2,356",82.5,"2,292",80.2,64,2.7,2.1 – 3.3
+48,44,Texas,"White, 45 to 54 years","2,709","2,179",80.5,"2,124",78.4,55,2.5,1.9 – 3.1
+48,45,Texas,"White, 55 to 64 years","2,532","1,690",66.8,"1,636",64.6,54,3.2,2.4 – 4.0
+48,46,Texas,"White, 65 years and over","3,030",643,21.2,626,20.7,17,2.6,1.4 – 3.8
+48,48,Texas,"Black or African American, 20 to 24 years",267,189,71.0,168,63.0,21,11.3,6.8 – 15.8
+48,49,Texas,"Black or African American, 25 to 34 years",568,484,85.3,460,80.9,25,5.1,3.2 – 7.0
+48,50,Texas,"Black or African American, 35 to 44 years",520,444,85.4,419,80.6,25,5.6,3.5 – 7.7
+48,51,Texas,"Black or African American, 45 to 54 years",419,340,81.3,331,79.0,10,2.9,1.2 – 4.6
+48,52,Texas,"Black or African American, 55 to 64 years",384,226,58.8,216,56.2,10,4.4,1.8 – 7.0
+48,56,Texas,"Asian, 25 to 34 years",300,220,73.4,213,71.2,7,3.0,1.2 – 4.8
+48,57,Texas,"Asian, 35 to 44 years",213,157,73.7,155,72.6,2,1.5,(2)-
+48,58,Texas,"Asian, 45 to 54 years",201,167,82.8,162,80.4,5,2.9,0.9 – 4.9
+48,61,Texas,"Hispanic or Latino ethnicity, 16 to 19 years",787,237,30.1,205,26.0,32,13.6,9.1 – 18.1
+48,62,Texas,"Hispanic or Latino ethnicity, 20 to 24 years",894,619,69.2,578,64.7,40,6.5,4.6 – 8.4
+48,63,Texas,"Hispanic or Latino ethnicity, 25 to 34 years","1,715","1,341",78.2,"1,287",75.1,53,4.0,3.0 – 5.0
+48,64,Texas,"Hispanic or Latino ethnicity, 35 to 44 years","1,555","1,241",79.8,"1,199",77.1,42,3.4,2.4 – 4.4
+48,65,Texas,"Hispanic or Latino ethnicity, 45 to 54 years","1,240",971,78.3,946,76.3,25,2.6,1.6 – 3.6
+48,66,Texas,"Hispanic or Latino ethnicity, 55 to 64 years",881,569,64.6,546,62.0,23,4.0,2.4 – 5.6
+48,67,Texas,"Hispanic or Latino ethnicity, 65 years and over",830,159,19.1,151,18.2,8,5.2,1.8 – 8.6
+49,01,Utah,Total,"2,303","1,555",67.5,"1,504",65.3,51,3.3,2.7 – 3.9
+49,02,Utah,Men,"1,144",870,76.1,845,73.8,26,2.9,2.2 – 3.6
+49,03,Utah,Women,"1,159",684,59.1,659,56.9,25,3.7,2.8 – 4.6
+49,04,Utah,White,"2,138","1,441",67.4,"1,395",65.3,46,3.2,2.6 – 3.8
+49,05,Utah,"White, men","1,060",807,76.2,784,73.9,24,3.0,2.3 – 3.7
+49,06,Utah,"White, women","1,078",633,58.8,612,56.7,22,3.5,2.6 – 4.4
+49,13,Utah,Hispanic or Latino ethnicity,304,214,70.5,206,67.8,8,3.8,2.3 – 5.3
+49,14,Utah,"Hispanic or Latino ethnicity, men",155,124,79.9,120,76.9,5,3.8,1.8 – 5.8
+49,15,Utah,"Hispanic or Latino ethnicity, women",148,90,60.6,86,58.2,4,3.9,1.6 – 6.2
+49,16,Utah,"Married men, spouse present",659,528,80.1,520,78.9,8,1.5,0.9 – 2.1
+49,17,Utah,"Married women, spouse present",651,379,58.2,369,56.7,10,2.7,1.7 – 3.7
+49,19,Utah,"Total, 16 to 19 years",190,97,51.3,87,45.9,10,10.4,6.5 – 14.3
+49,20,Utah,"Total, 20 to 24 years",260,208,80.2,198,76.2,10,5.0,3.1 – 6.9
+49,21,Utah,"Total, 25 to 34 years",433,345,79.6,335,77.4,10,2.8,1.7 – 3.9
+49,22,Utah,"Total, 35 to 44 years",453,376,82.9,367,81.0,8,2.3,1.4 – 3.2
+49,23,Utah,"Total, 45 to 54 years",288,239,82.9,235,81.3,5,1.9,0.8 – 3.0
+49,24,Utah,"Total, 55 to 64 years",300,218,72.6,213,71.2,4,1.9,0.8 – 3.0
+49,25,Utah,"Total, 65 years and over",379,72,19.0,69,18.2,3,4.3,1.4 – 7.2
+49,27,Utah,"Men, 20 to 24 years",130,111,85.2,105,81.0,5,4.9,2.4 – 7.4
+49,28,Utah,"Men, 25 to 34 years",222,203,91.1,197,88.5,6,2.9,1.5 – 4.3
+49,29,Utah,"Men, 35 to 44 years",227,214,94.3,211,93.3,2,1.1,0.2 – 2.0
+49,30,Utah,"Men, 45 to 54 years",146,134,91.9,132,90.4,2,1.6,0.3 – 2.9
+49,31,Utah,"Men, 55 to 64 years",147,117,80.0,115,78.5,2,1.9,0.4 – 3.4
+49,34,Utah,"Women, 20 to 24 years",130,98,75.1,93,71.3,5,5.0,2.3 – 7.7
+49,35,Utah,"Women, 25 to 34 years",211,142,67.5,138,65.6,4,2.7,1.1 – 4.3
+49,36,Utah,"Women, 35 to 44 years",226,162,71.5,156,68.8,6,3.8,2.0 – 5.6
+49,37,Utah,"Women, 45 to 54 years",142,105,73.6,102,72.0,2,2.3,0.5 – 4.1
+49,38,Utah,"Women, 55 to 64 years",153,100,65.6,98,64.3,2,2.0,0.3 – 3.7
+49,40,Utah,"White, 16 to 19 years",174,92,52.9,83,47.6,9,10.1,6.1 – 14.1
+49,41,Utah,"White, 20 to 24 years",230,185,80.7,177,77.0,9,4.6,2.7 – 6.5
+49,42,Utah,"White, 25 to 34 years",395,312,79.0,303,76.8,9,2.9,1.7 – 4.1
+49,43,Utah,"White, 35 to 44 years",421,350,83.2,342,81.4,7,2.1,1.2 – 3.0
+49,44,Utah,"White, 45 to 54 years",270,224,82.8,220,81.2,4,2.0,0.9 – 3.1
+49,45,Utah,"White, 55 to 64 years",284,208,73.2,204,71.8,4,2.0,0.8 – 3.2
+49,46,Utah,"White, 65 years and over",364,70,19.1,67,18.3,3,4.5,1.5 – 7.5
+50,01,Vermont,Total,519,347,66.9,338,65.1,9,2.7,2.2 – 3.2
+50,02,Vermont,Men,254,180,70.9,176,69.1,4,2.4,1.8 – 3.0
+50,03,Vermont,Women,264,167,63.2,162,61.3,5,3.0,2.2 – 3.8
+50,04,Vermont,White,492,329,66.8,320,65.1,9,2.6,2.1 – 3.1
+50,05,Vermont,"White, men",240,170,70.6,166,68.9,4,2.4,1.7 – 3.1
+50,06,Vermont,"White, women",252,159,63.2,155,61.4,5,2.9,2.1 – 3.7
+50,16,Vermont,"Married men, spouse present",135,99,73.0,98,72.1,1,1.2,0.6 – 1.8
+50,17,Vermont,"Married women, spouse present",130,88,67.3,86,66.2,1,1.7,0.9 – 2.5
+50,18,Vermont,Women who maintain families,24,17,73.1,17,69.4,1,5.0,2.0 – 8.0
+50,20,Vermont,"Total, 20 to 24 years",37,28,75.3,27,72.0,1,4.5,2.2 – 6.8
+50,21,Vermont,"Total, 25 to 34 years",78,68,87.3,67,85.7,1,1.9,0.9 – 2.9
+50,22,Vermont,"Total, 35 to 44 years",78,69,88.0,67,85.6,2,2.7,1.6 – 3.8
+50,23,Vermont,"Total, 45 to 54 years",82,69,84.0,67,82.0,2,2.5,1.4 – 3.6
+50,24,Vermont,"Total, 55 to 64 years",88,67,75.7,65,74.1,1,2.1,1.1 – 3.1
+50,25,Vermont,"Total, 65 years and over",125,33,26.6,32,25.9,1,2.6,1.0 – 4.2
+50,28,Vermont,"Men, 25 to 34 years",39,36,91.5,35,89.8,1,1.9,0.6 – 3.2
+50,29,Vermont,"Men, 35 to 44 years",40,37,92.9,36,90.7,1,2.4,0.9 – 3.9
+50,30,Vermont,"Men, 45 to 54 years",41,36,88.2,35,86.6,1,1.9,0.6 – 3.2
+50,31,Vermont,"Men, 55 to 64 years",42,32,77.7,32,76.2,1,2.0,0.6 – 3.4
+50,32,Vermont,"Men, 65 years and over",59,17,29.5,17,28.7,1,2.9,0.6 – 5.2
+50,35,Vermont,"Women, 25 to 34 years",39,32,83.0,31,81.5,1,1.9,0.5 – 3.3
+50,36,Vermont,"Women, 35 to 44 years",38,32,82.9,31,80.3,1,3.2,1.4 – 5.0
+50,37,Vermont,"Women, 45 to 54 years",41,33,79.9,32,77.4,1,3.1,1.4 – 4.8
+50,38,Vermont,"Women, 55 to 64 years",46,34,74.0,34,72.3,1,2.2,0.8 – 3.6
+50,41,Vermont,"White, 20 to 24 years",35,26,74.7,25,71.6,1,4.2,1.9 – 6.5
+50,42,Vermont,"White, 25 to 34 years",72,63,87.2,61,85.5,1,2.0,1.0 – 3.0
+50,43,Vermont,"White, 35 to 44 years",71,63,87.8,61,85.5,2,2.6,1.5 – 3.7
+50,44,Vermont,"White, 45 to 54 years",79,67,85.0,66,83.0,2,2.4,1.3 – 3.5
+50,45,Vermont,"White, 55 to 64 years",86,66,76.3,64,74.6,1,2.2,1.1 – 3.3
+50,46,Vermont,"White, 65 years and over",122,32,26.4,31,25.7,1,2.6,1.0 – 4.2
+51,01,Virginia,Total,"6,645","4,352",65.5,"4,224",63.6,127,2.9,2.4 – 3.4
+51,02,Virginia,Men,"3,187","2,292",71.9,"2,222",69.7,70,3.0,2.3 – 3.7
+51,03,Virginia,Women,"3,458","2,060",59.6,"2,002",57.9,58,2.8,2.1 – 3.5
+51,04,Virginia,White,"4,738","3,073",64.9,"2,996",63.2,77,2.5,2.0 – 3.0
+51,05,Virginia,"White, men","2,294","1,661",72.4,"1,619",70.6,42,2.5,1.8 – 3.2
+51,06,Virginia,"White, women","2,444","1,412",57.8,"1,377",56.4,35,2.5,1.7 – 3.3
+51,07,Virginia,Black or African American,"1,266",859,67.8,821,64.9,37,4.4,3.1 – 5.7
+51,08,Virginia,"Black or African American, men",574,396,68.8,376,65.4,20,5.0,2.9 – 7.1
+51,09,Virginia,"Black or African American, women",692,463,67.0,446,64.4,18,3.9,2.2 – 5.6
+51,10,Virginia,Asian,471,300,63.7,293,62.2,7,2.5,1.0 – 4.0
+51,11,Virginia,"Asian, men",235,172,73.5,169,71.9,4,2.1,0.3 – 3.9
+51,13,Virginia,Hispanic or Latino ethnicity,700,524,74.9,504,72.0,20,3.8,2.2 – 5.4
+51,14,Virginia,"Hispanic or Latino ethnicity, men",358,296,82.6,285,79.6,11,3.6,1.6 – 5.6
+51,15,Virginia,"Hispanic or Latino ethnicity, women",342,228,66.7,219,64.0,9,4.1,1.6 – 6.6
+51,16,Virginia,"Married men, spouse present","1,760","1,333",75.7,"1,313",74.6,19,1.4,0.8 – 2.0
+51,17,Virginia,"Married women, spouse present","1,710","1,026",60.0,"1,005",58.8,21,2.1,1.3 – 2.9
+51,18,Virginia,Women who maintain families,382,279,73.0,270,70.6,9,3.2,1.2 – 5.2
+51,20,Virginia,"Total, 20 to 24 years",470,356,75.8,337,71.7,19,5.4,3.1 – 7.7
+51,21,Virginia,"Total, 25 to 34 years","1,178",987,83.8,958,81.3,29,2.9,1.9 – 3.9
+51,22,Virginia,"Total, 35 to 44 years","1,071",893,83.4,874,81.6,20,2.2,1.3 – 3.1
+51,23,Virginia,"Total, 45 to 54 years","1,135",936,82.5,916,80.7,20,2.2,1.3 – 3.1
+51,24,Virginia,"Total, 55 to 64 years","1,135",779,68.7,764,67.4,15,1.9,1.0 – 2.8
+51,25,Virginia,"Total, 65 years and over","1,218",245,20.1,238,19.5,7,2.8,0.8 – 4.8
+51,28,Virginia,"Men, 25 to 34 years",563,515,91.5,498,88.5,17,3.3,1.8 – 4.8
+51,29,Virginia,"Men, 35 to 44 years",540,491,90.9,480,88.9,11,2.2,0.9 – 3.5
+51,30,Virginia,"Men, 45 to 54 years",548,494,90.2,482,88.0,12,2.4,1.1 – 3.7
+51,31,Virginia,"Men, 55 to 64 years",565,419,74.2,412,72.9,7,1.8,0.6 – 3.0
+51,34,Virginia,"Women, 20 to 24 years",245,189,77.2,181,73.8,8,4.4,1.6 – 7.2
+51,35,Virginia,"Women, 25 to 34 years",616,472,76.7,460,74.7,12,2.5,1.1 – 3.9
+51,36,Virginia,"Women, 35 to 44 years",531,403,75.9,394,74.2,9,2.2,0.8 – 3.6
+51,37,Virginia,"Women, 45 to 54 years",587,442,75.3,434,73.9,8,1.9,0.7 – 3.1
+51,38,Virginia,"Women, 55 to 64 years",570,360,63.2,353,61.9,7,2.0,0.6 – 3.4
+51,41,Virginia,"White, 20 to 24 years",316,250,79.1,236,74.7,14,5.6,2.8 – 8.4
+51,42,Virginia,"White, 25 to 34 years",802,675,84.2,661,82.5,14,2.0,1.0 – 3.0
+51,43,Virginia,"White, 35 to 44 years",715,600,83.9,587,82.1,12,2.1,1.0 – 3.2
+51,44,Virginia,"White, 45 to 54 years",810,671,82.8,657,81.2,14,2.0,1.0 – 3.0
+51,45,Virginia,"White, 55 to 64 years",830,582,70.2,571,68.8,11,1.9,0.8 – 3.0
+51,46,Virginia,"White, 65 years and over",968,184,19.0,180,18.6,4,2.3,0.2 – 4.4
+51,49,Virginia,"Black or African American, 25 to 34 years",238,207,86.9,197,82.6,10,4.9,2.1 – 7.7
+51,50,Virginia,"Black or African American, 35 to 44 years",212,180,84.6,175,82.4,5,2.6,0.4 – 4.8
+51,51,Virginia,"Black or African American, 45 to 54 years",212,179,84.5,175,82.6,4,2.2,0.2 – 4.2
+53,01,Washington,Total,"5,941","3,781",63.6,"3,613",60.8,168,4.4,3.8 – 5.0
+53,02,Washington,Men,"2,930","2,076",70.9,"1,978",67.5,98,4.7,3.9 – 5.5
+53,03,Washington,Women,"3,011","1,705",56.6,"1,635",54.3,69,4.1,3.3 – 4.9
+53,04,Washington,White,"4,760","2,998",63.0,"2,869",60.3,129,4.3,3.7 – 4.9
+53,05,Washington,"White, men","2,355","1,662",70.5,"1,586",67.3,75,4.5,3.6 – 5.4
+53,06,Washington,"White, women","2,405","1,337",55.6,"1,283",53.4,54,4.0,3.1 – 4.9
+53,07,Washington,Black or African American,224,145,64.7,139,62.0,6,4.3,1.6 – 7.0
+53,10,Washington,Asian,608,412,67.7,399,65.6,13,3.2,1.9 – 4.5
+53,11,Washington,"Asian, men",286,209,73.0,200,69.8,9,4.4,2.3 – 6.5
+53,12,Washington,"Asian, women",323,203,63.0,199,61.8,4,1.9,0.5 – 3.3
+53,13,Washington,Hispanic or Latino ethnicity,749,517,69.1,481,64.2,36,7.0,4.9 – 9.1
+53,14,Washington,"Hispanic or Latino ethnicity, men",380,299,78.6,280,73.5,19,6.5,3.8 – 9.2
+53,15,Washington,"Hispanic or Latino ethnicity, women",369,219,59.3,202,54.7,17,7.7,4.3 – 11.1
+53,16,Washington,"Married men, spouse present","1,520","1,141",75.0,"1,109",73.0,31,2.7,1.9 – 3.5
+53,17,Washington,"Married women, spouse present","1,521",880,57.9,854,56.1,26,3.0,2.0 – 4.0
+53,18,Washington,Women who maintain families,279,187,66.9,177,63.5,9,5.0,2.3 – 7.7
+53,19,Washington,"Total, 16 to 19 years",380,128,33.7,108,28.5,20,15.3,9.6 – 21.0
+53,20,Washington,"Total, 20 to 24 years",473,325,68.7,294,62.1,31,9.6,6.8 – 12.4
+53,21,Washington,"Total, 25 to 34 years","1,085",906,83.5,867,79.9,39,4.3,3.2 – 5.4
+53,22,Washington,"Total, 35 to 44 years",972,791,81.4,766,78.8,26,3.2,2.2 – 4.2
+53,23,Washington,"Total, 45 to 54 years",967,791,81.7,767,79.3,23,2.9,1.9 – 3.9
+53,24,Washington,"Total, 55 to 64 years",997,655,65.7,634,63.6,21,3.2,2.1 – 4.3
+53,25,Washington,"Total, 65 years and over","1,066",185,17.3,177,16.6,8,4.3,1.8 – 6.8
+53,27,Washington,"Men, 20 to 24 years",238,173,72.6,154,64.6,19,11.1,6.9 – 15.3
+53,28,Washington,"Men, 25 to 34 years",563,508,90.3,484,86.0,24,4.7,3.1 – 6.3
+53,29,Washington,"Men, 35 to 44 years",484,443,91.5,429,88.5,15,3.3,1.9 – 4.7
+53,30,Washington,"Men, 45 to 54 years",499,442,88.7,429,86.1,13,3.0,1.6 – 4.4
+53,31,Washington,"Men, 55 to 64 years",477,343,71.9,331,69.4,12,3.5,1.8 – 5.2
+53,32,Washington,"Men, 65 years and over",482,102,21.1,97,20.1,5,5.0,1.3 – 8.7
+53,34,Washington,"Women, 20 to 24 years",235,152,64.7,140,59.6,12,7.9,4.1 – 11.7
+53,35,Washington,"Women, 25 to 34 years",522,398,76.3,383,73.4,15,3.8,2.2 – 5.4
+53,36,Washington,"Women, 35 to 44 years",488,348,71.3,337,69.1,11,3.1,1.5 – 4.7
+53,37,Washington,"Women, 45 to 54 years",469,348,74.4,338,72.2,10,2.9,1.4 – 4.4
+53,38,Washington,"Women, 55 to 64 years",520,312,60.0,303,58.3,9,3.0,1.4 – 4.6
+53,40,Washington,"White, 16 to 19 years",298,106,35.7,91,30.6,15,14.3,8.2 – 20.4
+53,41,Washington,"White, 20 to 24 years",343,242,70.5,222,64.9,19,7.9,4.9 – 10.9
+53,42,Washington,"White, 25 to 34 years",784,654,83.3,624,79.5,30,4.6,3.2 – 6.0
+53,43,Washington,"White, 35 to 44 years",758,628,82.8,605,79.8,22,3.6,2.3 – 4.9
+53,44,Washington,"White, 45 to 54 years",789,645,81.7,627,79.5,18,2.7,1.6 – 3.8
+53,45,Washington,"White, 55 to 64 years",858,559,65.2,540,63.0,19,3.3,2.0 – 4.6
+53,46,Washington,"White, 65 years and over",930,165,17.8,159,17.1,6,3.8,1.3 – 6.3
+53,56,Washington,"Asian, 25 to 34 years",136,114,83.8,111,81.7,3,2.6,0.4 – 4.8
+53,57,Washington,"Asian, 35 to 44 years",121,96,79.1,95,78.9,(3)-,0.3,(2)-
+53,58,Washington,"Asian, 45 to 54 years",107,94,87.8,91,85.2,3,3.1,0.4 – 5.8
+53,63,Washington,"Hispanic or Latino ethnicity, 25 to 34 years",156,130,83.8,125,80.6,5,3.8,0.7 – 6.9
+53,64,Washington,"Hispanic or Latino ethnicity, 35 to 44 years",177,133,75.5,128,72.2,6,4.3,1.0 – 7.6
+53,65,Washington,"Hispanic or Latino ethnicity, 45 to 54 years",117,94,80.2,89,76.1,5,5.1,0.9 – 9.3
+54,01,West Virginia,Total,"1,456",784,53.8,743,51.0,41,5.3,4.5 – 6.1
+54,02,West Virginia,Men,711,420,59.1,395,55.6,25,5.9,4.8 – 7.0
+54,03,West Virginia,Women,746,364,48.8,347,46.6,16,4.5,3.5 – 5.5
+54,04,West Virginia,White,"1,370",731,53.3,694,50.7,37,5.0,4.2 – 5.8
+54,05,West Virginia,"White, men",668,391,58.6,369,55.3,22,5.6,4.5 – 6.7
+54,06,West Virginia,"White, women",702,339,48.3,325,46.2,15,4.4,3.3 – 5.5
+54,07,West Virginia,Black or African American,45,27,59.4,25,54.1,2,8.9,4.6 – 13.2
+54,16,West Virginia,"Married men, spouse present",361,224,62.0,217,60.0,7,3.2,2.1 – 4.3
+54,17,West Virginia,"Married women, spouse present",369,190,51.6,186,50.3,5,2.4,1.4 – 3.4
+54,18,West Virginia,Women who maintain families,83,47,56.8,44,53.0,3,6.7,3.2 – 10.2
+54,19,West Virginia,"Total, 16 to 19 years",89,28,31.8,23,25.8,5,18.8,11.2 – 26.4
+54,20,West Virginia,"Total, 20 to 24 years",112,75,67.2,68,60.9,7,9.3,6.0 – 12.6
+54,21,West Virginia,"Total, 25 to 34 years",213,163,76.4,151,71.0,11,7.0,5.1 – 8.9
+54,22,West Virginia,"Total, 35 to 44 years",203,155,76.3,146,72.2,8,5.4,3.7 – 7.1
+54,23,West Virginia,"Total, 45 to 54 years",237,173,73.0,168,71.0,5,2.7,1.5 – 3.9
+54,24,West Virginia,"Total, 55 to 64 years",257,137,53.4,134,52.1,4,2.6,1.3 – 3.9
+54,25,West Virginia,"Total, 65 years and over",346,53,15.2,52,14.9,1,1.7,(2)-
+54,27,West Virginia,"Men, 20 to 24 years",61,43,70.8,39,63.7,4,10.1,5.6 – 14.6
+54,28,West Virginia,"Men, 25 to 34 years",106,89,84.5,82,77.7,7,8.0,5.2 – 10.8
+54,29,West Virginia,"Men, 35 to 44 years",99,81,82.0,76,76.7,5,6.5,3.9 – 9.1
+54,30,West Virginia,"Men, 45 to 54 years",118,92,78.1,89,75.5,3,3.3,1.5 – 5.1
+54,31,West Virginia,"Men, 55 to 64 years",124,72,58.2,70,56.5,2,2.8,1.0 – 4.6
+54,32,West Virginia,"Men, 65 years and over",159,30,18.8,29,18.4,1,1.8,(2)-
+54,34,West Virginia,"Women, 20 to 24 years",51,32,62.8,30,57.6,3,8.4,3.6 – 13.2
+54,35,West Virginia,"Women, 25 to 34 years",107,74,68.5,69,64.4,4,5.9,3.3 – 8.5
+54,36,West Virginia,"Women, 35 to 44 years",104,73,70.8,70,67.8,3,4.2,2.0 – 6.4
+54,37,West Virginia,"Women, 45 to 54 years",119,81,68.1,80,66.6,2,2.1,0.6 – 3.6
+54,38,West Virginia,"Women, 55 to 64 years",133,65,49.1,64,47.9,2,2.4,0.6 – 4.2
+54,39,West Virginia,"Women, 65 years and over",187,23,12.1,22,12.0,(3)-,1.5,(2)-
+54,40,West Virginia,"White, 16 to 19 years",82,26,31.4,21,25.7,5,18.4,10.6 – 26.2
+54,41,West Virginia,"White, 20 to 24 years",101,67,66.3,61,60.7,6,8.5,5.2 – 11.8
+54,42,West Virginia,"White, 25 to 34 years",194,148,76.2,138,71.2,10,6.5,4.6 – 8.4
+54,43,West Virginia,"White, 35 to 44 years",191,145,76.0,137,71.8,8,5.5,3.7 – 7.3
+54,44,West Virginia,"White, 45 to 54 years",225,164,72.8,159,70.9,4,2.7,1.5 – 3.9
+54,45,West Virginia,"White, 55 to 64 years",245,132,53.8,129,52.5,3,2.5,1.2 – 3.8
+54,46,West Virginia,"White, 65 years and over",332,49,14.8,48,14.6,1,1.7,(2)-
+55,01,Wisconsin,Total,"4,615","3,121",67.6,"3,029",65.6,92,3.0,2.5 – 3.5
+55,02,Wisconsin,Men,"2,271","1,610",70.9,"1,562",68.8,49,3.0,2.3 – 3.7
+55,03,Wisconsin,Women,"2,344","1,510",64.4,"1,467",62.6,44,2.9,2.2 – 3.6
+55,04,Wisconsin,White,"4,148","2,805",67.6,"2,730",65.8,75,2.7,2.2 – 3.2
+55,05,Wisconsin,"White, men","2,049","1,464",71.5,"1,424",69.5,41,2.8,2.1 – 3.5
+55,06,Wisconsin,"White, women","2,099","1,340",63.9,"1,306",62.2,34,2.6,1.9 – 3.3
+55,07,Wisconsin,Black or African American,252,158,62.7,146,57.9,12,7.7,4.5 – 10.9
+55,13,Wisconsin,Hispanic or Latino ethnicity,248,183,74.1,177,71.5,6,3.5,1.2 – 5.8
+55,16,Wisconsin,"Married men, spouse present","1,204",876,72.8,859,71.4,17,2.0,1.2 – 2.8
+55,17,Wisconsin,"Married women, spouse present","1,243",801,64.4,787,63.3,13,1.7,0.9 – 2.5
+55,18,Wisconsin,Women who maintain families,217,169,77.6,163,74.9,6,3.5,1.1 – 5.9
+55,19,Wisconsin,"Total, 16 to 19 years",291,164,56.5,150,51.6,14,8.6,4.8 – 12.4
+55,20,Wisconsin,"Total, 20 to 24 years",364,293,80.5,279,76.6,14,4.8,2.7 – 6.9
+55,21,Wisconsin,"Total, 25 to 34 years",739,647,87.6,626,84.7,22,3.3,2.1 – 4.5
+55,22,Wisconsin,"Total, 35 to 44 years",716,646,90.3,640,89.4,6,1.0,0.3 – 1.7
+55,23,Wisconsin,"Total, 45 to 54 years",706,603,85.5,587,83.2,16,2.7,1.6 – 3.8
+55,24,Wisconsin,"Total, 55 to 64 years",831,581,70.0,565,68.1,16,2.8,1.6 – 4.0
+55,25,Wisconsin,"Total, 65 years and over",969,185,19.1,182,18.7,4,2.0,0.3 – 3.7
+55,27,Wisconsin,"Men, 20 to 24 years",187,149,79.5,143,76.1,6,4.3,1.5 – 7.1
+55,28,Wisconsin,"Men, 25 to 34 years",369,339,92.1,330,89.6,9,2.7,1.2 – 4.2
+55,29,Wisconsin,"Men, 35 to 44 years",352,332,94.5,330,93.7,3,0.8,(2)-
+55,30,Wisconsin,"Men, 45 to 54 years",332,293,88.1,285,85.7,8,2.8,1.2 – 4.4
+55,31,Wisconsin,"Men, 55 to 64 years",415,311,74.9,301,72.4,10,3.3,1.6 – 5.0
+55,34,Wisconsin,"Women, 20 to 24 years",177,144,81.4,137,77.1,8,5.3,2.1 – 8.5
+55,35,Wisconsin,"Women, 25 to 34 years",370,308,83.1,296,79.8,12,4.0,2.1 – 5.9
+55,36,Wisconsin,"Women, 35 to 44 years",364,314,86.3,310,85.3,4,1.2,0.2 – 2.2
+55,37,Wisconsin,"Women, 45 to 54 years",373,310,83.1,302,80.9,8,2.6,1.1 – 4.1
+55,38,Wisconsin,"Women, 55 to 64 years",415,270,65.1,265,63.7,6,2.1,0.6 – 3.6
+55,40,Wisconsin,"White, 16 to 19 years",249,143,57.4,131,52.4,12,8.7,4.6 – 12.8
+55,41,Wisconsin,"White, 20 to 24 years",302,252,83.4,241,79.8,11,4.4,2.2 – 6.6
+55,42,Wisconsin,"White, 25 to 34 years",614,549,89.4,532,86.6,17,3.2,1.9 – 4.5
+55,43,Wisconsin,"White, 35 to 44 years",648,588,90.7,583,89.9,5,0.9,0.2 – 1.6
+55,44,Wisconsin,"White, 45 to 54 years",638,553,86.7,542,85.0,10,1.9,0.9 – 2.9
+55,45,Wisconsin,"White, 55 to 64 years",768,543,70.8,528,68.8,15,2.8,1.6 – 4.0
+55,46,Wisconsin,"White, 65 years and over",929,177,19.0,173,18.6,4,2.1,0.3 – 3.9
+56,01,Wyoming,Total,448,289,64.7,277,62.0,12,4.2,3.5 – 4.9
+56,02,Wyoming,Men,226,159,70.4,152,67.6,6,4.0,3.0 – 5.0
+56,03,Wyoming,Women,222,131,58.8,125,56.3,6,4.3,3.2 – 5.4
+56,04,Wyoming,White,419,270,64.5,260,62.1,10,3.8,3.1 – 4.5
+56,05,Wyoming,"White, men",212,149,70.5,144,68.1,5,3.5,2.6 – 4.4
+56,06,Wyoming,"White, women",207,121,58.4,116,56.0,5,4.1,3.0 – 5.2
+56,13,Wyoming,Hispanic or Latino ethnicity,39,26,67.1,25,63.2,2,5.9,3.3 – 8.5
+56,14,Wyoming,"Hispanic or Latino ethnicity, men",19,14,74.3,13,69.7,1,6.1,2.6 – 9.6
+56,16,Wyoming,"Married men, spouse present",121,89,73.5,87,72.1,2,1.8,0.9 – 2.7
+56,17,Wyoming,"Married women, spouse present",120,70,58.6,69,57.2,2,2.4,1.3 – 3.5
+56,18,Wyoming,Women who maintain families,23,15,67.2,15,63.2,1,5.9,2.1 – 9.7
+56,19,Wyoming,"Total, 16 to 19 years",31,15,48.0,13,42.6,2,11.2,5.9 – 16.5
+56,20,Wyoming,"Total, 20 to 24 years",33,26,76.7,24,71.5,2,6.7,3.6 – 9.8
+56,21,Wyoming,"Total, 25 to 34 years",78,63,81.3,61,77.6,3,4.6,3.0 – 6.2
+56,22,Wyoming,"Total, 35 to 44 years",68,61,89.6,59,87.5,1,2.3,1.1 – 3.5
+56,23,Wyoming,"Total, 45 to 54 years",63,52,83.5,50,80.0,2,4.1,2.4 – 5.8
+56,24,Wyoming,"Total, 55 to 64 years",79,51,64.5,49,62.9,1,2.5,1.1 – 3.9
+56,25,Wyoming,"Total, 65 years and over",96,22,22.6,21,21.6,1,4.5,1.7 – 7.3
+56,27,Wyoming,"Men, 20 to 24 years",17,14,81.1,13,75.7,1,6.7,2.4 – 11.0
+56,28,Wyoming,"Men, 25 to 34 years",38,35,91.9,34,87.7,2,4.6,2.4 – 6.8
+56,29,Wyoming,"Men, 35 to 44 years",34,32,94.9,32,93.0,1,2.0,0.5 – 3.5
+56,30,Wyoming,"Men, 45 to 54 years",33,30,90.8,29,87.8,1,3.3,1.2 – 5.4
+56,31,Wyoming,"Men, 55 to 64 years",37,26,70.8,25,68.9,1,2.8,0.8 – 4.8
+56,32,Wyoming,"Men, 65 years and over",49,13,27.1,13,25.9,1,4.3,0.8 – 7.8
+56,35,Wyoming,"Women, 25 to 34 years",40,28,71.1,27,67.9,1,4.5,2.1 – 6.9
+56,36,Wyoming,"Women, 35 to 44 years",34,28,84.2,28,81.9,1,2.7,0.8 – 4.6
+56,37,Wyoming,"Women, 45 to 54 years",30,23,75.5,22,71.5,1,5.3,2.3 – 8.3
+56,38,Wyoming,"Women, 55 to 64 years",42,25,59.0,24,57.7,1,2.2,0.4 – 4.0
+56,40,Wyoming,"White, 16 to 19 years",27,14,50.5,12,45.0,2,11.0,5.6 – 16.4
+56,41,Wyoming,"White, 20 to 24 years",30,23,76.1,21,71.4,1,6.2,3.0 – 9.4
+56,42,Wyoming,"White, 25 to 34 years",71,58,81.8,56,78.7,2,3.8,2.2 – 5.4
+56,43,Wyoming,"White, 35 to 44 years",64,57,89.8,56,88.2,1,1.8,0.7 – 2.9
+56,44,Wyoming,"White, 45 to 54 years",58,49,83.4,47,80.0,2,4.1,2.3 – 5.9
+56,45,Wyoming,"White, 55 to 64 years",75,49,65.1,48,63.6,1,2.2,0.9 – 3.5
+56,46,Wyoming,"White, 65 years and over",93,21,22.2,20,21.2,1,4.5,1.6 – 7.4
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
